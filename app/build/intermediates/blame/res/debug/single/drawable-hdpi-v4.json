@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "D:\\a.SABUJ\\androidStdio\\MediCare\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\one.jpg",
+        "source": "D:\\a.SABUJ\\androidStdio\\MediCare\\app\\src\\main\\res\\drawable-hdpi\\one.jpg"
+    },
+    {
+        "merged": "D:\\a.SABUJ\\androidStdio\\MediCare\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\background.jpg",
+        "source": "D:\\a.SABUJ\\androidStdio\\MediCare\\app\\src\\main\\res\\drawable-hdpi\\background.jpg"
+    }
+]

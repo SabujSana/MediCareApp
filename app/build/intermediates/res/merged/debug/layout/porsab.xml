@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/background"
+    android:gravity="center"
+    android:orientation="vertical">
+
+    <ScrollView
+        android:id="@+id/scrollView1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="368dp"
+            android:orientation="vertical">
+
+            <Button
+                android:id="@+id/bDayabatics"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_alignParentLeft="true"
+                android:layout_alignParentRight="true"
+                android:text="ডায়াবেটিস"
+                android:textAppearance="@style/Base.TextAppearance.AppCompat.Large"
+                android:textColor="#0703fc" />
+
+            <Button
+                android:id="@+id/bJondis"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_alignParentLeft="true"
+                android:layout_alignParentRight="true"
+                android:text="জন্ডিস"
+                android:textAppearance="@style/Base.TextAppearance.AppCompat.Large"
+                android:textColor="#0703fc" />
+
+            <Button
+                android:id="@+id/bKidniPathor"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_alignParentLeft="true"
+                android:layout_alignParentRight="true"
+                android:text="কিডনিতে পাথর"
+                android:textAppearance="@style/Base.TextAppearance.AppCompat.Large"
+                android:textColor="#0703fc" />
+
+
+        </LinearLayout>
+    </ScrollView>
+
+</LinearLayout>

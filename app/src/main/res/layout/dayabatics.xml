@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="8dp">
+
+    <ScrollView
+        android:id="@+id/scrollView1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_marginBottom="10dp"
+            android:orientation="vertical">
+
+            <TextView
+                android:id="@+id/tv_dayabatics"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:text="ডায়াবেটিস"
+                android:textColor="#000000"
+                android:textSize="20sp" />
+
+            <TextView
+                android:id="@+id/tv_dayabatics1"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="লক্ষণ ও উপসর্গঃ"
+                android:textColor="#000000"
+                android:textSize="20sp" />
+
+            <TextView
+                android:id="@+id/tv_dayabatics2"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="১.বার বার প্রস্রাব হওয়া –মাঝে মধ্যে প্রায় প্রতি ঘন্টায় হওয়া।\n২.হঠাৎ করে অজ্ঞাত কারণে দৈহিক ওজন কমে যাওয়া।\n৩.পানির তৃষ্ণা বৃদ্ধি পাওয়া কিংবা অতিরিক্ত তৃষ্ণা পাওয়া।\n৪.অস্পষ্ট দৃষ্টি শক্তি।\n৫.ক্রমাগত অবসাদ।"
+                android:textColor="#000000"
+                android:textSize="15sp" />
+
+            <TextView
+                android:id="@+id/tv_dayabatics3"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="কী করা উচিতঃ"
+                android:textColor="#000000"
+                android:textSize="20sp" />
+
+            <TextView
+                android:id="@+id/tv_dayabatics4"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="১.আপনার যদি মনে হয় যে আপনি ডায়বেটিসে আক্রান্ত হয়েছেন সেক্ষেত্রে ডায়াবেটিস এর বিশেষজ্ঞ ডাক্তারের পরামর্শ নিন।\n২.ডাক্তারের পরামর্শ অনুযায়ী আপনার খাদ্য তালিকা মেনে চলুন,নিয়মিত শরীর  চর্চা করুন এবং দেহের রক্তে সুগার বা চিনির পরিমাণ কি সে সংক্রান্ত তথ্যগুলো পর্যবেক্ষণ করুন।"
+                android:textColor="#000000"
+                android:textSize="15sp" />
+
+            <TextView
+                android:id="@+id/tv_dayabatics5"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="কখন ডাক্তার দেখাবেনঃ"
+                android:textColor="#000000"
+                android:textSize="20sp" />
+
+            <TextView
+                android:id="@+id/tv_dayabatics6"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="১.যদি আপনার ক্লান্তি লাগে এবং বিতৃষ্ণাবোধে ভোগেন,কিংবা বার বার তীব্র তেষ্টা পায়,যদি বার বার প্রস্রাব হয়,শ্ব্স প্রশ্বাস দ্রুত হয়ে যায়,কিংবা তলপেট ব্যথা থাকে।\n২. যদি আপনার বার বার তীব্র তেষ্টা পায়,আলস্যে ভোগেন,দুর্বলতা দেখা দেয়,মানসিক বিভ্রান্তির শিকার হন,সেক্ষেত্রে আপনার রক্তে হয়তো চিনির পরিমাণ মারাত্মকভাবে বেড়ে গিয়েছে,এটা থেকে আপনি কোমাতেও চলে যেতে পারেন।জরুরী চিকিৎসার শরণাপন্ন হোন।\n৩.যদি ডায়াবেটিস এ আক্রান্ত কোন ব্যক্তি জ্ঞান হারায়।\n৪.যদি আপনার শ্বাসে লক্ষ্যনীয় মিষ্টি গন্ধ থাকে,এবং একই সাথে উপরোক্ত লক্ষণগুলোও থাকে,সেক্ষেত্রে আপনি হয়তো জীবননাশী রোগ কেটোএসিডোসিস এ আক্রান্ত হয়েছেন।"
+                android:textColor="#000000"
+                android:textSize="15sp" />
+
+            <TextView
+                android:id="@+id/tv_dayabatics7"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="জরুরী ভিত্তিতে ডাক্তারের শরণাপন্ন হোন যদিঃ"
+                android:textColor="#000000"
+                android:textSize="20sp" />
+
+            <TextView
+                android:id="@+id/tv_dayabatics8"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="১.যদি আপনার বা আপনার শিশুর মধ্যে ডায়াবেটিস রোগের লক্ষণ ধরা পড়ে।\n২.যদি আপনার ডায়াবেটিস থাকে এবং আপনি ইনফ্লুয়েঞ্জা বা ফ্লুতে আক্রান্ত হন ;ফ্লুএবং এ জাতীয় অন্যান্য রোগগুলো আপনার দেহের রক্তে চিনির পরিমাণ নিয়ন্ত্রণের বাইরে নিয়ে যেতে পারে।"
+                android:textColor="#000000"
+                android:textSize="15sp" />
+
+            <TextView
+                android:id="@+id/tv_dayabatics9"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="কীভাবে প্রতিরোধ করবেনঃ"
+                android:textColor="#000000"
+                android:textSize="20sp" />
+
+            <TextView
+                android:id="@+id/tv_dayabatics10"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="১.টাইপ ওয়ান ডায়াবেটিস রোগের কোন প্রতিকার নেই।\nতবে টাইপ টু ডায়াবেটিস রোগ প্রতিরোধের জন্যেঃ\n১.আপনার বয়স,শরীর,উচ্চতা এবং স্বাস্থ অনুযায়ী ওজনটাকে পরিমিত এবং সঠিক রাখার চেষ্টা করুন।\n২.নিয়মিত শরীর চর্চা করুন। ডায়াবেটিস থেকে পরিত্রান পাবার জন্যে এবং ডায়াবেটিস হলে সেটাকে নিয়ন্তণে রাখার ক্ষেত্রে নিয়মিত শরীর চর্চা অত্যন্ত গুরুত্বপূর্ণ।\n৩.আপনি যদি চল্লিশোর্ধ হন,এবং আপনার ওজন যদি শরীরের অনুপাতে বেশি হয় কিংবা যদি আপনার পরিবারের অন্য কারো বা বংশের কারোর ডায়াবেটিস হয়ে থেকে থাকে সেক্ষেত্রে প্রতি এক থেকে তিন বছরে একবার করে ডায়াবেটিস সংক্রান্ত পরীক্ষা করে দেখুন আপনি এ রোগে আক্রান্ত হয়েছেন কিনা।"
+                android:textColor="#000000"
+                android:textSize="15sp" />
+
+        </LinearLayout>
+    </ScrollView>
+</LinearLayout>

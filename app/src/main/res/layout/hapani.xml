@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="8dp">
+
+    <ScrollView
+        android:id="@+id/scrollView1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+
+            <TextView
+                android:id="@+id/tv_hapani"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:text="হাঁপানি\n"
+                android:textColor="#000000"
+                android:textSize="20sp" />
+
+            <TextView
+                android:id="@+id/tv_hapani1"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="লক্ষণ ও উপসর্গঃ"
+                android:textColor="#000000"
+                android:textSize="20sp" />
+
+            <TextView
+                android:id="@+id/tv_hapani2"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="মধ্যম পর্যায়ের এ্যাজমাঃ"
+                android:textColor="#000000"
+                android:textSize="20sp" />
+
+            <TextView
+                android:id="@+id/tv_hapani3"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="১.শ্বাস নেবার সময় বুকের ভেতর শন শন বা শিষ দেয়ার মতো শব্দ হওয়া।\n২.বুকে চাপ অনুভব এবং ব্যথা হওয়া।\n৩.শ্বাস নিতে গিয়ে হাপিয়ে ওঠা।\n৪.কাশি হওয়া,বিশেষত রাত্রিকালিন সময়টাতে।"
+                android:textColor="#000000"
+                android:textSize="15sp" />
+
+            <TextView
+                android:id="@+id/tv_hapani4"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="তীব্র এ্যাজমাঃ"
+                android:textColor="#000000"
+                android:textSize="20sp" />
+
+            <TextView
+                android:id="@+id/tv_hapani5"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="১.শ্বাস নিতে গিয়ে এতোটাই কষ্ট হওয়া যে তাতে করে ঘামতে শুরু করা।\n২.বুক ধরফর করা,বা হৃদকম্পন অত্যন্ত তীব্র গতিতে হওয়া।\n৩.আশঙ্কা হওয়া বা ভয়-ভীতি।"
+                android:textColor="#000000"
+                android:textSize="15sp" />
+
+            <TextView
+                android:id="@+id/tv_hapani6"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="কী করা উচিতঃ"
+                android:textColor="#000000"
+                android:textSize="20sp" />
+
+            <TextView
+                android:id="@+id/tv_hapani7"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="১.শান্ত ও নিরব থাকতে চেষ্টা করুন।\n২.ভয় পেয়ে গেলে কিংবা দুঃশ্চিন্তাগ্রস্থ হয়ে উঠলে এ রোগের আক্রমণ আরও তীব্র হয়ে ওঠে।\n৩.শুয়ে পড়বেন না।বসে থেকে কিছুটা সামনে ঝুঁকে পড়লে শ্বাস নিতে সুবিধা হয়।\n৪.যেসব ঔষুধগুলো ডাক্তার প্রেসক্রাইব করেছে সেগুলো হাতের কাছে রাখুন।এই ঔষুধগুলোর মধ্যে ব্রঙ্কোডাইলেটর(একটা স্প্রে যেটা আপনার শ্বাসনালীর বদ্ধতা দূর করে) সমৃদ্ধ একটি ইনহেলার যেটা ঔষুধটির পরিমাণ নিয়ন্ত্রণ করে ইত্যাদি থাকতে পারে।প্রতিবার ইনহেলার দিয়ে স্প্রে নেবার পর আপনার মুখ পানি দিযে কুলি করে ধুয়ে ফেলুন – এতে করে বার বার ইনহেলার ব্যবহারের কারণে আপনার মুখ ইস্ট বা ছত্রাক দ্বারা সংক্রামিত রোগ বা অসুখ ঘটতে পারবে না।\n৫.যদি আপনি মুখ দিয়ে সেবন করতে হয় এমন কোন ঔষুধ সেবন করেন,সেক্ষেত্রে ঔষুধ সেবনের নিয়মগুলো সঠিকভাবে মেনে চলুন। এবং কখন কখন ঔষুধ সেবন করছেন সে সময়টা টুকে রাখুন।এসবক্ষেত্রে,অতিরিক্ত ঔষুধ সেবন মারাত্মক বা বিপদজ্জনক পরিণতি ডেকে আনতে পারে।"
+                android:textColor="#000000"
+                android:textSize="15sp" />
+
+            <TextView
+                android:id="@+id/tv_hapani8"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="কখন ডাক্তার দেখাবেনঃ"
+                android:textColor="#000000"
+                android:textSize="20sp" />
+
+            <TextView
+                android:id="@+id/tv_hapani9"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="আপনি যদি অক্সিজেনের স্বল্পতার নিম্নোক্ত লক্ষণগুলো নিজের মধ্যে দেখতে পানঃ"
+                android:textColor="#000000"
+                android:textSize="20sp" />
+
+            <TextView
+                android:id="@+id/tv_hapani10"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="১.দম বন্ধ হয়ে আসার অনুভব যে কারণে আপনার কথা বলতেও কষ্ট হয়।\n২.নাসারন্ধের স্ফিতি।\n৩.শ্বাস নেবার সময় পাজরের মাংস পেশীর ভেতরের দিকে চরে যাওয়া।\n৪.নখ কিংবা ঠোঁটের রং নীল হওয়া।\n৫.যদি এ্যাজমা আক্রমণ রোধে দেয়া ঔষুধগুলো আপনার উপর তেমন কোন কার্যকর ভূমিকা রাখতে অপারগ হয়।\n৬.যদি আপনার কাশিতে হলুদ,সবুজ কিংবা রক্তাভ শ্লেষ্মা নির্গত হয়।\n৭.যদি আপনি কোন নতুন উপসর্গ কিংবা অকারণে উদ্ভুত কোন লক্ষণ দেখতে পান।এগুলো এ্যাজমা সমস্যা নিরসনে দেয়া ঔষুধের পারর্শ্বপ্রতিক্রিয়া থেকেও উদ্ভুত হতে পারে,কিংবা হতে পারে যে সেটা আপনার এ্যাজমার প্রকোপ বাড়ার লক্ষণ।"
+                android:textColor="#000000"
+                android:textSize="15sp" />
+
+            <TextView
+                android:id="@+id/tv_hapani11"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="কীভাবে প্রতিরোধ করবেনঃ"
+                android:textColor="#000000"
+                android:textSize="20sp" />
+
+            <TextView
+                android:id="@+id/tv_hapani12"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="১.এ্যাজমা রোগে আক্রান্ত প্রত্যেকেরই একজন ডাক্তারের চিকিৎসার অধীনে থাকা উচিত।‘পিক ফ্লো মিটার’ রিডিং পড়তে শেখাটাও উপকারে আসতে পারে।এই মিটার আপনার শ্বাসনালী দিয়ে বাতাসের প্রবাহ মাপতে সক্ষম,ফলতঃ কখন আপনি হাপানির আক্রমণে আক্রান্ত হবেন সেটা আগেভাগেই নির্ণয় করা যায় এই মিটার দিয়ে।যদি ডাক্তার প্রেসক্রাইব করে সেক্ষেত্রে আপনি একটি ইনহেলার ব্যবহার করতে পারেন, এর ফলে করটিকসটারোইড নামক উপাদান আপনার শ্বাসনালীর ঝিল্লির প্রদাহ দূর করে সেটার স্ফিতি রোধে সহায়ক ভূমিকা রাখে। আরও যেটা করতে পারেনঃ কখন কখন আপনার এ্যাজমার এই আক্রমণ হয় সেটা খাতায় টুকে রাখতে পারেন-এবং সাথে লিপিবদ্ধ করে রাখতে পারেন,এই আক্রমণের ঠিক আগে আপনার অনুভব বা উপলব্ধি কেমন ছিল,আপনি কেমন বোধ করছিলেন,আক্রমণটা কতোখানি গুরুতর ছিলো? এবং কতো সংখ্যকবার এই আক্রমণটা আপনার উপর হচ্ছে?\n২.লক্ষ্য রাখুন কোন বিশেষ খাবার কিংবা কোন বিশেষ ঔষুধ আপনার হাপানির কারণ হয়ে ওঠে কিনা। যদি তেমন কোন খাবার বা ঔষুধ থেকে থাকে তাহলে সেগুলো পরিহার করুন।\n৩.ধোয়া এবং ধুমপায়ীদের থেকে দূরে থাকুন। যদি আপনি নিজেও ধুমপায়ী হয়ে থাকেন সেক্ষেত্রে অনতিবিলম্বে এই বদ অভ্যাস পরিত্যাগ করুন।\n৪.যে সব দিনগুলোতে বাতাসে দূষণের পরিমাণ বেশি থাকে কিংবা পরাগরেণু ইত্যাদির সংখ্যা বেশি থাকে সেসব দিনগুলোতে সম্ভব হলে ঘরে থাকার চেষ্টা করুন।\n৫.যতোটা সম্ভব আপনার ঘর-বাড়ি ধুলামুক্ত রাখার চেষ্টা করুন।\n৬.শীতের আবহাওয়ায় আপনার নাক দিয়ে শ্বাস নেয়ার চেষ্টা করুন, এবং পারলে কোন একটা পরিস্কার পাতলা কাপড় দিয়ে নাক ও মুখ ঢেকে রাকুন।\n৭.তেমন বিছানা-পত্র ব্যবহার করুন যেগুলো কোন এ্যালার্জিক সামগ্রী দিয়ে প্রস্তুত নয়।\n৮.যে সব পশু-পাখির গায়ে লোম কিংবা চুলের আধিক্য রয়েছে সেগুলো পালবেন না।\n৯.নিয়মিত শরীর চর্চা করুন,খুব বেমি নয়,তবে মধ্যম পর্যায়ের শরীর চর্চা।অনেক ডাক্তারই সাঁতারের পরামর্শ দিয়ে থাকেন-যদি না ক্লোরিন আপনাকে কোন অস্বস্তিকর অনুভূতির শিকার না করে। পানি কিংবা আর্দ্রতা,শ্বাস নেয়াকে সহজসাধ্য করে তোলে। যদি বেশি পরিমাণ কিংবা কষ্ট সাধ্য শরীরচর্চা আপনাকে হাপানিতে আক্রান্ত করে সেক্ষেত্রে আপনার ডাক্তারকে সে কথা জানান।\n১০.যোগ ব্যায়ামের চেষ্টা করেও দেখতে পারেন-এটাও আপনাকে স্বস্তি দিতে সক্ষম।"
+                android:textColor="#000000"
+                android:textSize="15sp" />
+        </LinearLayout>
+    </ScrollView>
+
+
+</LinearLayout>

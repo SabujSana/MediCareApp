@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="8dp">
+
+    <ScrollView
+        android:id="@+id/scrollView1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+
+            <TextView
+                android:id="@+id/tv_kidniPathor"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="10dp"
+                android:gravity="center"
+                android:text="কিডনিতে পাথর হওয়া"
+                android:textColor="#000000"
+                android:textSize="20sp" />
+
+            <TextView
+                android:id="@+id/tv_kidniPathor1"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="লক্ষণ ও উপসর্গঃ"
+                android:textColor="#000000"
+                android:textSize="20sp" />
+
+            <TextView
+                android:id="@+id/tv_kidniPathor2"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="১.তীক্ষ্ন ব্যথা জেগে ওঠা –সাধারণত শরীরের একপাশে শুরু হয় এবং পাঁজরের পেছন থেকে শুরু হয়ে যৌনাঙ্গের দিকে ধাবিত হতে থাকে।\n২.বার বার প্রস্রাবের তাগিদ অনুভব করা স্বত্তেও প্রস্রাব করার সময় কেবল সামান্য পরিমাণ প্রস্রাবই নির্গত হয়,তার বেশি হয় না,কিংবা একেবারেই প্রস্রাব না হওয়া।\n৩.থেমে থেমে প্রস্রাব নির্গত হওয়া।\n৪.পুরুষদের ক্ষেত্রে,শিশ্নে এবং অন্ডকোষে ব্যথা হওয়া।\n৫.রক্তাভ কিংবা গাঢ় প্রস্রাব।\n৬.বিতৃষ্ণা এবং বমি।"
+                android:textColor="#000000"
+                android:textSize="15sp" />
+
+            <TextView
+                android:id="@+id/tv_kidniPathor3"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="কিডনিতে অন্য কোন রোগ হলে বা ক্ষত হলে সেটার উপসর্গ হতে পারেঃ"
+                android:textColor="#000000"
+                android:textSize="20sp" />
+
+            <TextView
+                android:id="@+id/tv_kidniPathor4"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="১.জ্বর।২.প্রস্রাবে জ্বালাপোড়া।এবং ৩.গোলাটে প্রস্রাব।"
+                android:textColor="#000000"
+                android:textSize="15sp" />
+
+            <TextView
+                android:id="@+id/tv_kidniPathor5"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="কী করা উচিতঃ"
+                android:textColor="#000000"
+                android:textSize="20sp" />
+
+            <TextView
+                android:id="@+id/tv_kidniPathor6"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="১.যদি আপনি কিডনিতে পাথর হবার অসুখে আক্রান্ত হয়ে থাকেন সেক্ষেত্রে প্রচুর পরিমাণে পানি পান করুন,দিনে অন্তত আট থেকে দশ গ্লাস। প্রচুর পানি পান করলে সেটা কিডনির পাথরগুলো ধুয়ে নির্গত করে দিতে সক্ষম হবে এবং অন্যান্য পাথর হবার সুযোগ নষ্ট করবে।\n২.ব্যথা থেকে রেহাই পাবার জন্যে ব্যথা নিরাময়কারী কোন ঔষুধ ডিসপেন্সারি থেকে কিনে সেবন করতে পারেন,তবে অবশ্যই সে ঔষুধটি ডাক্তারি পরামর্শ অনুযায়ী সেবন করবেন।"
+                android:textColor="#000000"
+                android:textSize="15sp" />
+
+            <TextView
+                android:id="@+id/tv_kidniPathor7"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="কখন ডাক্তার দেখাবেনঃ"
+                android:textColor="#000000"
+                android:textSize="20sp" />
+
+            <TextView
+                android:id="@+id/tv_kidniPathor8"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="১.যদি আপনার শরীরের একদিকে তীব্র ব্যথা জেগে ওঠে,এবং সেটা এক জায়গা থেকে অন্য দিকে প্রবাহিত হয়,যেমন আপনার পিটের দিকে কিংবা উদরের বা তলপেটের দিকে।২.যদি প্রস্রাবে জ্বালাপোড়া বা কষ্ট হয়।৩.যদি প্রস্রাবের সাথে রক্ত নির্গত হয়। ৪.যদি এই লক্ষণগুলোর সাথে আবার জ্বরও থাকে।"
+                android:textColor="#000000"
+                android:textSize="15sp" />
+
+            <TextView
+                android:id="@+id/tv_kidniPathor9"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="কীভাবে প্রতিরোধ করবেনঃ"
+                android:textColor="#000000"
+                android:textSize="20sp" />
+
+            <TextView
+                android:id="@+id/tv_kidniPathor10"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="কিডনিতে পুনঃপুনঃ পাথর হতে পারে,আর তাই যাতে করে পাথর জন্মাতে না পারে সেজন্যে নিন্মোক্ত পদক্ষেপগুলো গ্রহণ করুনঃ\n১.একদিনে অন্তত আট গ্লাস পানি পান করুন,গরমের দিনে আরও বেশি পান করুন।\n২.এবং ডাক্তারের কাছে ঔষুধের বিষয়ে পরামর্শ নিন এবং আপনার খাদ্য তালিকায় কি পরিবর্তন সাধন করা যায় সে বিষয়ে আলাপ করুন।"
+                android:textColor="#000000"
+                android:textSize="15sp" />
+        </LinearLayout>
+    </ScrollView>
+
+</LinearLayout>

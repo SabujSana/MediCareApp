@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="8dp">
+
+    <ScrollView
+        android:id="@+id/scrollView1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+
+            <TextView
+                android:id="@+id/tv_jondis"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="10dp"
+                android:gravity="center"
+                android:text="জন্ডিস"
+                android:textColor="#000000"
+                android:textSize="20sp" />
+
+            <TextView
+                android:id="@+id/tv_jondis1"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="রক্তে বিলিরুবিন এর মাত্রা বেড়ে গিয়ে চোখ,প্রস্রাব এবং গায়ের রং হলুদ হলে মানব শরীরে জন্ডিস রোগের উপস্থিতি প্রকাশ পায়।"
+                android:textColor="#000000"
+                android:textSize="15sp" />
+
+            <TextView
+                android:id="@+id/tv_jondis2"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="প্রধান কারণঃ"
+                android:textColor="#000000"
+                android:textSize="20sp" />
+
+            <TextView
+                android:id="@+id/tv_jondis3"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="১.লিভার প্রবাহ,যেমন- ভাইরাসজনিত হেপাটাইটিস,ঔষধের পার্শ্বপ্রতিক্রিয়া জনিত হেপাটাইটিস এবং এলকোহল জনিত হেপাটাইটিস।\n২.জন্মগত ত্রুটি জনিত জন্ডিস।\n৩.নবজাতকের জন্ডিস\n৪.লোহিত কনিকা অতিরিক্ত ভাঙ্গার কারণে জন্ডিস।\n৫.পিত্তনালীতে বাঁধাজনিত জন্ডিস।"
+                android:textColor="#000000"
+                android:textSize="15sp" />
+
+            <TextView
+                android:id="@+id/tv_jondis4"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="শরীরে লক্ষ্যনীয় উপসর্গঃ "
+                android:textColor="#000000"
+                android:textSize="20sp" />
+
+            <TextView
+                android:id="@+id/tv_jondis5"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="১.চোখের সাদা অংশ, মুখের গহবর এর ভিতরে আবরন এবং চামড়া হলুদ বর্ণ ধারন করে।\n২.প্রস্রাব গাঢ় হলুদ হয়।\n৩.পায়খানার রং কিছুটা সাদা এবং কাদার মতো হওয়া।\n৪.পেটে ব্যথা, বমি ভাব, ফ্লু এর মত জ্বর হওয়া।\n৫.রক্ত বমি / রক্ত পায়খানা হওয়া\n৬.চমড়ায় চুলকানি হওয়া\n৭.মানসিক বিভ্রান্তি বা কোমা হওয়া\n৮.পেটে পানি জমা"
+                android:textColor="#000000"
+                android:textSize="15sp" />
+
+            <TextView
+                android:id="@+id/tv_jondis6"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="জন্ডিসের উপস্থিতি নিশ্চিত করণঃ"
+                android:textColor="#000000"
+                android:textSize="20sp" />
+
+            <TextView
+                android:id="@+id/tv_jondis7"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="১.রোগের ইতিহাস\n২.রোগীর শারীরিক পরীক্ষা\n৩.ল্যাবরেটরী পরীক্ষা যেমন-\n৪.সিরাম বিলরুবিন\n৫.লিভার এনজাইম\n৬.প্রথোমবিন আল্ট্রাসাউন্ড\n৭.ক্ষেত্র বিশেষে লিভার বায়োপসি করা\n৮.হেপাটাইটিস ভাইরাস গুলোর যৌক্তিক পরীক্ষা\n৯.পায়খানা ও প্রস্রাব এর পরীক্ষা।"
+                android:textColor="#000000"
+                android:textSize="15sp" />
+
+            <TextView
+                android:id="@+id/tv_jondis8"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="প্রাথমিক করণীয়ঃ"
+                android:textColor="#000000"
+                android:textSize="20sp" />
+
+            <TextView
+                android:id="@+id/tv_jondis9"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="১.জন্ডিসের লক্ষণ দেখা মাত্র, ডাক্তারের পরামর্শ নেওয়া।\n২.পরিমান মত পানি গ্রহণ করা\n৩.স্বাভাবিক খাবার গ্রহণ করা\n৪.চলাফেরা স্বাভাবিক রাখা"
+                android:textColor="#000000"
+                android:textSize="15sp" />
+
+            <TextView
+                android:id="@+id/tv_jondis10"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="দেশে জন্ডিসের চিকিৎসার ব্যবস্থাঃ"
+                android:textColor="#000000"
+                android:textSize="20sp" />
+
+            <TextView
+                android:id="@+id/tv_jondis11"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="১.ভাইরাস জনিত(হেপাটাইটিস‘বি’ও‘সি’)এর চিকিৎসা আমাদের দেশে হয়।\n২.বাঁধাজনিত জন্ডিসের ইন্টাভেন্সন ও সার্জারী বাংলাদেশেই করার ব্যবস্থা রয়েছে।"
+                android:textColor="#000000"
+                android:textSize="15sp" />
+        </LinearLayout>
+    </ScrollView>
+
+</LinearLayout>

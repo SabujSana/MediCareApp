@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="8dp">
+
+    <ScrollView
+        android:id="@+id/scrollView1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+
+            <TextView
+                android:id="@+id/tv_kostoKathinno"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="8dp"
+                android:gravity="center"
+                android:text="কোষ্ঠকাঠিন্য"
+                android:textColor="#000000"
+                android:textSize="20sp" />
+
+            <TextView
+                android:id="@+id/tv_kostoKathinno1"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="লক্ষণ ও উপসর্গঃ"
+                android:textColor="#000000"
+                android:textSize="20sp" />
+
+            <TextView
+                android:id="@+id/tv_kostoKathinno2"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="১.শক্ত এবং জমাটবদ্ধ মল জেটা সহজে মলদ্বার দিয়ে নির্গত হয় না ,কিংবা অত্যন্ত কষ্ট হয়।\n২.মল ত্যাগের পর স্থায়ী ব্যথা কিংবা অসস্থিকর অনুভব যে মলত্যাগ  ঠিক ঠাক মতো হয়নি ।\n৩.প্রাপ্তবয়স্কদের ক্ষেত্রে তিনদিনে একবারও মল ত্যাগ না হওয়া এবং শিশুদের ক্ষেত্রে সারাদিনে একবারও না হওয়া (তবে আপনার খাদ্যাভ্যাস ,বয়স ,দৈনন্দিন কাজকর্মের ভিত্তিতে নিয়ম অনুযায়ী একদিনে তিনবার থেকে শুরু করে সপ্তাহে  তিনবার মলত্যাগটাও স্বাভাবিক বলে ধরে নেওয়া যেতে পারে।\n৪.পেট ফুলে থাকা,স্ফীতি কিংবা তলপেটে বা উদরে অসস্থি বোধ হওয়া।"
+                android:textColor="#000000"
+                android:textSize="15sp" />
+
+            <TextView
+                android:id="@+id/tv_kostoKathinno3"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="কী করা উচিতঃ"
+                android:textColor="#000000"
+                android:textSize="20sp" />
+
+            <TextView
+                android:id="@+id/tv_kostoKathinno4"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="অধিকাংশ ক্ষেত্রেই ঘরোয়া চিকিৎসায় এই রোগ সেরে ওঠার ভালো সারা পাওয়া যায় , যেমন যদি খাবার তালিকা পরিবর্তনের মাধ্যমে এটা অনেকখানি লাঘব হয়। যদি কোষ্ঠকাঠিন্য কোন রোগের পার্শ্বপ্রতিক্রিয়া বা প্রভাবে না হয় ,  সেক্ষেত্রে বেশি করে আঁশযুক্ত খাবার যেমন ফল ,শাক-সবজি এবং আস্ত খাদ্যশস্য ইত্যাদি এবং প্রচুর পরিমাণ পানি পান করলে ( প্রতিদিন নুন্যতম আট গ্লাস ) আপনার মল নিজে থেকেই কিছুটা নরম হয়ে উঠবে এবং মল ত্যাগের সময় আর কোন অনিয়ম থাকবে না। তবে খাবার তালিকা পরিবর্তনের সাথে সাথে আরও যেটা করবেন সেটা হলোঃ"
+                android:textColor="#000000"
+                android:textSize="15sp" />
+
+            <TextView
+                android:id="@+id/tv_kostoKathinno5"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="১.ডাক্তারের পরামর্শ না নিয়ে ডিসপেনসারি থেকে কোন লাক্সাটিভ (মল নরম করে )বা এধরনের কোন ওষুধ সেবন করবেন না কেননা,এ জাতীয় ওষুধগুলো আপনার শরীরকে নির্ভরশীল করে তোলে,অর্থাৎ পরবর্তীতে ওষুধ সেবন অনিবার্য হয়ে দাঁড়াবে ।তারপর ও যদি আপনাকে লাক্সাটিভ সেবন করতেই হয় ,সেক্ষেত্রে সিলিয়াম লাক্সাটিভ ব্যাবহার করে দেখতে পারেন ,কেননা এটি তুলনামুলকভাবে কম মাত্রার ।যদি আপনার উদরে বা তলপেটে  ব্যথা থাকে,কিংবা বিতৄষ্ণাবোধ ,কিংবা বমি বমি ভাব থাকে,কিংবা আপনি যদি গর্ভবতী হন,সেক্ষেত্রে কোনভাবেই লাক্সাটিভ নেবেন না ।\n২.লাক্সাটিভের বিকল্প হিসেবে ডাক্তারের পরামর্শ ছাড়া খনিজ তেল ও গ্রহণ করবেন না ।\n৩.যদি ছয়মাসের ছোটবাচ্চার ক্ষেত্রে কম গুরুতর কোষ্ঠকাঠিন্য দেখেন সেক্ষেত্রে তাকে শুকনো আলুবোখরা বা গবার জ্যুস খেতে দিন কিংবা অন্যান্য ফলের রস বানিয়ে খেতে দিন। যেসব বাচ্চারা হাটতে চলতে শিখেছে ,কিংবা আর একটু বেশি বয়সের বাচ্চারা এবং প্রাপ্ত-বস্কদেরকে আলুবোখরা খেতে দিন।(ছোট বাচ্চাদের ক্ষেত্রে ফলের শক্তবিচিগুলো ছাড়িয়ে দেবেন।)"
+                android:textColor="#000000"
+                android:textSize="15sp" />
+
+            <TextView
+                android:id="@+id/tv_kostoKathinno6"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="কখন ডাক্তার দেখাবেনঃ"
+                android:textColor="#000000"
+                android:textSize="20sp" />
+
+            <TextView
+                android:id="@+id/tv_kostoKathinno7"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="হটাৎ দু একবার কোষ্ঠকাঠিন্য হলেই যে আপনাকে ডাক্তারের কাছে যেতে হবে এমন নয় ,কিন্তু যদি এই সমস্যায় আপনাকে ক্রমাগত দু সপ্তাহ কিংবা বেশি সময় ধরে ভুগতা হয় সেক্ষেত্রে অনতিবিলম্বে চিকিৎসার ব্যবস্থা গ্রহণ করুনঃ\n১.যদি কোষ্ঠকাঠিন্যের সাথে সাথে অল্প জর ,এবং তলপেটে ব্যথা থাকে ,এবং যদি মল খুবই পাতলা এবং হালকা হয় সেক্ষেত্রে এগুলো হয়তো ডাইভারটিকউলিটিস রোগের লক্ষণ ।\n২.যদি আপনার মলের সাথে রক্ত বের হয় ।এটা হয়ত পায়ুগত চিড়ের বা ক্ষতের লক্ষণ কিংবা অর্শরোগের লক্ষণ ,আবার হতে পারে এটা মলনালীর ক্যান্সারের লক্ষণ।\n৩.যদি ডাক্তারের পরামর্শে কোন ওষুধ সেবনের কারণে বা ভিটামিন এবং মিনারেল সাপ্লিমেনট নেয়ার কারণে কোষ্ঠকাঠিন্যের সুচনা হয়। সেক্ষেত্রে আপনাকে হয়তো ওই ওষুধ সেবন বাদ দিতে হবে , নতুবা সেবনের মাত্রা পরিবর্তন করতে হবে । \n৪.যদি আপনি বয়স্ক হন কিংবা আপনার কোন প্রতিবন্ধকতা থাকে এবং আপনি এক সপ্তাহ ধরে কিংবা তার ও বেশি সময় ধরে কোষ্ঠকাঠিন্যে আক্রান্ত সেক্ষেত্রে আপনার মল হয়ত শক্ত হয়ে উঠেসে ।\n৫.যদি  কোষ্ঠকাঠিন্যের সাথে আপনার ওজনও কমে যায় ।\n৬.যদি দুই সপ্তাহ যাবৎ সুষম খাদ্য এবং আঁশযুক্ত খাদ্য গ্রহণ করেও এবং শরীরচর্চা করেও আপনি কোষ্ঠকাঠিন্য থেকে মুক্তি না পেয়ে থাকুন ।"
+                android:textColor="#000000"
+                android:textSize="15sp" />
+
+            <TextView
+                android:id="@+id/tv_kostoKathinno8"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="কীভাবে প্রতিরোধ করবেন"
+                android:textColor="#000000"
+                android:textSize="20sp" />
+
+            <TextView
+                android:id="@+id/tv_kostoKathinno9"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="১.প্রতিদিনের কাজকর্মের তালিকায় মধম মাত্রার শরীর চর্চাকেও অন্তর্ভুক্ত করুন। প্রতিদিন তিন মিনিট দ্রুত হাঁটার অভ্যাসটাও নিয়মিত চালিয়ে যেতে পারেন ।\n২.প্রতিদিন প্রচুর পরিমাণে জল পান করুন ,এবং দিনে নুন্যতম আট গ্লাস জল পান করুন ।\n৩.প্রতিদিন প্রচুর পরিমাণে আঁশযুক্ত ফলমূল খান ,দিনে নুন্যতম ২৫০ গ্রাম সজীব ফল ,শাক-সব্জি এবং অন্যান্য আরও যেসব খাদ্যদ্রব্যে স্নেহপদার্থ বা ফ্যাট বর্জিত আঁশ রয়েসে সেগুলো আহার করুণ , যেমন কিশমিশ ইসুবগালের ভুসি , আলুবোখরা , রান্না করা বা শুষ্ক সিমের বা অন্যান্যকিছুর বিচি এবং বাদাম ইত্যাদি আহার করুন। \n৪.মলত্যাগের জন্য যথেষ্ট সময় দিন,বিশেষত সকালের নাস্তার পর এবং রাতের আহারের পর ,এবং যদি পারেন তবে দিনের একটি নির্দিষ্ট সময়ে মল ত্যাগের অভ্যাস গড়ে তুলুন।"
+                android:textColor="#000000"
+                android:textSize="15sp" />
+
+        </LinearLayout>
+    </ScrollView>
+
+</LinearLayout>

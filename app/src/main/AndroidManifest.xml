@@ -1,0 +1,298 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.medicare"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="8"
+        android:targetSdkVersion="21" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/ic_launcher"
+        android:label="@string/app_name"
+        android:theme="@style/AppTheme" >
+        <activity
+            android:name=".MainActivity"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+         <activity
+            android:name=".NakeKanGola"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="android.intent.action.NAK_KAN_GOLA" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".Sordi"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="android.intent.action.SORDI" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+         <activity
+            android:name=".Jokkha"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="android.intent.action.JOKKHA" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".Hapani"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="android.intent.action.HAPANI" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".Numonia"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="android.intent.action.NUMONIA" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".BukJala"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="android.intent.action.BUK_JALA" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".Toncil"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="android.intent.action.TONCIL" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+         <activity
+            android:name=".MukMatha"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="android.intent.action.MUK_MATHA" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+         <activity
+            android:name=".MathaBatha"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="android.intent.action.MATHA_BATHA" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".stroke"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="android.intent.action.STROKE" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".DathBatha"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="android.intent.action.DATH_BATHA" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".DaterKhoi"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="android.intent.action.DATER_KHOI" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".JorThosa"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="android.intent.action.JOR_THOSA" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+            
+         <activity
+            android:name=".Pet"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="android.intent.action.PET" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+         <activity
+            android:name=".Dairia"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="android.intent.action.DAIRIA" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".Bomi"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="android.intent.action.BOMI" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+         <activity
+            android:name=".PetaGas"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="android.intent.action.PETA_GAS" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".Alser"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="android.intent.action.ALSER" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+          <activity
+            android:name=".KostoKathinno"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="android.intent.action.KOSTO_KATHINNO" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".Toak"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="android.intent.action.TOAK" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".Ham"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="android.intent.action.HAM" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".Alarji"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="android.intent.action.ALARJI" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+         <activity
+            android:name=".Mesta"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="android.intent.action.MESTA" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".Porsab"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="android.intent.action.PORSAB" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".Dayabatics"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="android.intent.action.DAYABATICS" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".Jondis"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="android.intent.action.JONDIS" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+          <activity
+            android:name=".KidniPathor"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="android.intent.action.KIDNI_PATHOR" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".Rokto"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="android.intent.action.ROKTO" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".UccoRoktoChap"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="android.intent.action.UCCO_ROKTOCHAP" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".RoktoSolpota"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="android.intent.action.ROKTO_SOLPOTA" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>

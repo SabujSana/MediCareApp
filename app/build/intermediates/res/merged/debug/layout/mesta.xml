@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="8dp">
+
+    <ScrollView
+        android:id="@+id/scrollView1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+
+            <TextView
+                android:id="@+id/tv_mesta"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="10dp"
+                android:gravity="center"
+                android:text="মেছতা"
+                android:textColor="#000000"
+                android:textSize="20sp" />
+
+            <TextView
+                android:id="@+id/tv_mesta1"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="লক্ষণ ও উপসর্গ্ঃ"
+                android:textColor="#000000"
+                android:textSize="20sp" />
+
+            <TextView
+                android:id="@+id/tv_mesta2"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="১.মুখে এবং সম্ভবত  গলায়,ঘাঢ়ে,বুকে,পিঠের উপরের অংশে এবং নিতম্বে ক্রমাগতভাবে পুনঃপুন লালচে এবং কালো কালো ফুস্কুরির মতো বা আচিলের মতো গোটা ওঠা।\n২.কিছু কিছু গোটা যেগুলোর মুখটা কালো এবং ছিদ্র (ব্লাকহেডস)\n৩. কিছু কিছু গোটা যেগুলো  তকের নিচেই ফুলে থাকে এবং যেগুলোর কোন মুখ বা ছিদ্র নেই(হোয়াইটহেডস)\n৪. কিছু কিছু  হোয়াইটহেডস যেগুলো ফেঁটে যায়(পিম্পল বা ফুস্কুড়ি)।\n৫.বিস্ফোটকের মতো ছোট গোটা(নজুল)।"
+                android:textColor="#000000"
+                android:textSize="15sp" />
+
+            <TextView
+                android:id="@+id/tv_mesta3"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="কী করা উচিতঃ"
+                android:textColor="#000000"
+                android:textSize="20sp" />
+
+            <TextView
+                android:id="@+id/tv_mesta4"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="১.প্রতিদিন দুইবার একটি ক্ষারহীন তেল ও সুগন্ধীবিহীন সাবান দিয়ে আক্রানত স্থানটি ধুয়ে ফেলুন।বেশি বেশি ধুয়া থেকে বিরত থাকুন।সেটা একনিকে পরিমানে আরও বাড়িয়ে দিবে।\n২.আপনার চুল নিয়মিত শাম্পু করুন।তৈলাক্ত চুল এই সমস্যাকে আরও  গুরুতর দিকে ঠেলে দেয়।শেভ করা বা দাড়ি কামানো যত কম করা যায় করুন।পুরুষদের উচিত শেভ করার সময় সাবধানে করা যাতে করে পিম্পলগুলো ব্লেডে কেটে না যায়।যদি আপনার একনি অত্যন্ত বেশি হয় সেক্ষেএে সংক্রমন রোধ করতে প্রতিবার নতুন  ব্লেড ব্যবহার করুন।\n৩.ডিসপেন্সারি থেকে বেনজাইল পার অক্সাইড(ব্যকটেরিয়া ধংসকারী উপাদান)কিনে কিংবা সালিসাইলিক এসিড (একটা মৃদু উপাদান যা দিয়ে ফোড়ার মুখগুলো সহজে বিস্পোটিত করা যায়)।\n৪.মুখ থেকে পুরোপুরিভাবে কসমেটিকের আবরন সরিয়ে ফেলুন।কেবল হাইপোএলাঝঋক, সুগন্ধীবিহীন মেকআপ বা প্রসাধনী ব্যবহার করুন যেগুলো একনি কবলিত বাএকনিতে আক্রান্ত হতে পারে এরকম ত্বকেও ব্যবহার করা যায় সেগুলো।\n৫.পিম্পলগুলো নাড়া চড়া,খোচাখুচি,আচর কাটা বা চাপাচাপি করবেন না। এতে করে দাগ বসে যেতে পারে।"
+                android:textColor="#000000"
+                android:textSize="15sp" />
+
+            <TextView
+                android:id="@+id/tv_mesta5"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="কখন ডাক্তার দেখাবেনঃ"
+                android:textColor="#000000"
+                android:textSize="20sp" />
+
+            <TextView
+                android:id="@+id/tv_mesta6"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="১.যদি দুই তিন মাস সাধারন চিকিৎসা বা প্রাপ্তিসাধ্য ওষুধপএ ব্যবহারের পরও আপনার একনির কোন উলেখযোগ্য পরিবতৃন বা উম্মতি না হয়,সেক্ষেএে আপনাকে হয়তো আরও তীব্র কোন চিকিৎসার আশ্রয় নিতে হবে। \n২.যদি আপনার অনেকসংখ্যক পিম্পল থাকে ,এবং একনি আপনাকে বিভিন্ন্ পরিস্তিতিতে বিব্রতকর অবস্তায় ফেলে দেয়,কিংবা যদি সেগুলো দাগের মত বসে যায়।সেক্ষেএে একজন বিশেষজ্ঞ(ডারমাটোলজিস্ট বা ত্বক বিজ্ঞানী)-এর পরামশকৃত ওষুধ সেবন করে দেখতে পারেন,যাতে করে একনির কারনে আপনার মুখে কোন দাগ বসে না যায়,কিংবা সেটা আরওগুরুতর পর্যায়ে না যায়্।\n৩.যদি আপনার ত্বক গালে এবং নাকে অস্বাভাবিকভাবে রক্তাভ হয় সেক্ষেএে আপনি হয়তো রোসাসি-রোগে আক্রন্ত।"
+                android:textColor="#000000"
+                android:textSize="15sp" />
+
+            <TextView
+                android:id="@+id/tv_mesta7"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="কিভাবে প্রতিরোধ করবেনঃ"
+                android:textColor="#000000"
+                android:textSize="20sp" />
+
+            <TextView
+                android:id="@+id/tv_mesta8"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="যেহেতু একনি রোগটা কিছুটা বংশগতভাবে ছড়ায় এবং কিছুটা হরমোনের কারনে ছড়ায় তাই ডাক্তারদের বিস্বাস এটা প্রতিরোধের তেমন কোন ব্যবস্তা নেই।"
+                android:textColor="#000000"
+                android:textSize="15sp" />
+
+
+        </LinearLayout>
+    </ScrollView>
+
+</LinearLayout>

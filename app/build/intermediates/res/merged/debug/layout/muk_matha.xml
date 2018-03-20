@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/background"
+    android:gravity="center"
+    android:orientation="vertical">
+
+    <ScrollView
+        android:id="@+id/scrollView1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="368dp"
+            android:orientation="vertical">
+
+            <Button
+                android:id="@+id/bMathaBatha"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_alignParentLeft="true"
+                android:layout_alignParentRight="true"
+                android:text="মাথা ব্যথা"
+                android:textAppearance="@style/Base.TextAppearance.AppCompat.Large"
+                android:textColor="#0703fc" />
+
+            <Button
+                android:id="@+id/bStroke"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_alignParentLeft="true"
+                android:layout_alignParentRight="true"
+                android:text="স্ট্রোক"
+                android:textAppearance="@style/Base.TextAppearance.AppCompat.Large"
+                android:textColor="#0703fc" />
+
+            <Button
+                android:id="@+id/bDathBatha"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_alignParentLeft="true"
+                android:layout_alignParentRight="true"
+                android:text="দাঁত ব্যথা"
+                android:textAppearance="@style/Base.TextAppearance.AppCompat.Large"
+                android:textColor="#0703fc" />
+
+            <Button
+                android:id="@+id/bDaterKhoi"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_alignParentLeft="true"
+                android:layout_alignParentRight="true"
+                android:text="দাঁতের ক্ষয়"
+                android:textAppearance="@style/Base.TextAppearance.AppCompat.Large"
+                android:textColor="#0703fc" />
+
+            <Button
+                android:id="@+id/bJorThosa"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_alignParentLeft="true"
+                android:layout_alignParentRight="true"
+                android:text="জ্বর ঠোসা"
+                android:textAppearance="@style/Base.TextAppearance.AppCompat.Large"
+                android:textColor="#0703fc" />
+
+
+        </LinearLayout>
+    </ScrollView>
+
+</LinearLayout>

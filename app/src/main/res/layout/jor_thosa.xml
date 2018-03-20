@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="8dp">
+
+    <ScrollView
+        android:id="@+id/scrollView1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_marginBottom="10dp"
+            android:orientation="vertical">
+
+            <TextView
+                android:id="@+id/tv_jorThosa"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:text="জ্বরঠোসা"
+                android:textColor="#000000"
+                android:textSize="20sp" />
+
+            <TextView
+                android:id="@+id/tv_jorThosa1"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="লক্ষণ ও উপসর্গঃ"
+                android:textColor="#000000"
+                android:textSize="20sp" />
+
+            <TextView
+                android:id="@+id/tv_jorThosa2"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="১.ঠোঁটে টনটনে ব্রাথা হওয়া,কিংবা খোঁচা বোধ হওয়া ,এবং চুলকানি অনুভব করা (প্রায়ই জ্বরঠোসা হবার আগ দিয়ে এই লক্ষণগুলো দেখা যায)।\n২.লাল কিংবা তরলে পূর্ণ ফুস্কুরির মতো ,বেদনাদায়ক ফোস্কা ওঠা । সাধারণত ঠোঁটের চারপাশে বা মুখে এগুলো উঠে থাকে।\n৩.জ্বরঠোসা ওঠার প্রথম দিকে জ্বর আসা এবং কণ্ঠনালীর ফুলে ওঠা;তবে পরবর্তী পযাযে এই লক্ষণগুলো আর থাকে না।"
+                android:textColor="#000000"
+                android:textSize="15sp" />
+
+            <TextView
+                android:id="@+id/tv_jorThosa3"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="কী করা উচিতঃ"
+                android:textColor="#000000"
+                android:textSize="20sp" />
+
+            <TextView
+                android:id="@+id/tv_jorThosa4"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="জ্বরঠোসা সাধারণত সাত দিন থেকে দশ দিনের মধো  আপনাতেই সেরে যায় । এটা অবশ্য প্রতিকার যোগ্য নয় । তবে জ্বরঠোসা বাথা এবং অসস্তি  থেকে মুক্তির জন্যঃ \n১.আক্রন্ত স্থানে বরফের টুকরো লাগানো যেতে পারে।\n২.ডাক্তারের পরামর্শ অনুযায়ী জ্বর ঠোসা প্রতিরোধকারী কোন ক্রিম হাতের নাগালে রাখতে পারেন,এবং লক্ষণ টের পেলেই সেটা ব্যবহার করতে পারেন । যদি আপনি জ্বর ঠোসা হবার আগ দিয়ে এই ক্রিম ব্যবহার করতে সমর্থ হন ,তবে জ্বর ঠোসার আক্রমন কম গুরুতর হবে।\n৩.টক ,ঝাল,মশলা যুক্ত এবং এসিডযুক্ত খাবার প্ররিতাগ করুণ ,কেননা,এগুলো জ্বর ঠোসাকে আরও বাড়িয়ে দেয়।"
+                android:textColor="#000000"
+                android:textSize="15sp" />
+
+            <TextView
+                android:id="@+id/tv_jorThosa5"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="কখন ডাক্তার দেখাবেনঃ"
+                android:textColor="#000000"
+                android:textSize="20sp" />
+
+            <TextView
+                android:id="@+id/tv_jorThosa6"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="১.যদি জ্বরঠোসার সাথে একশ ডিগ্রীর উপর জ্বর আসে এবং সাথে কাপুনি থাকে।\n২.যদি আপনার জ্বর ঠোসা দুই সপ্তাহের বেশি সময় ধরেও অপসারিত না হয় কিংবা বার বার জ্বর ঠোসা হতেই থাকে।\n৩.যদি আপনার জ্বরঠোসা থাকে এবং চোখেও বাথা অনুভূত হয় কিংবা আপনার দৃষ্টিশক্তি ব্যাহত হয় সেক্ষেত্রে জ্বর ঠোসা সংকারন্ত কোন চোখের ঘা বা অসুখ হয়েছে আপনার।"
+                android:textColor="#000000"
+                android:textSize="15sp" />
+
+            <TextView
+                android:id="@+id/tv_jorThosa7"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="কীভাবে প্রতিরোধ করবেনঃ"
+                android:textColor="#000000"
+                android:textSize="20sp" />
+
+            <TextView
+                android:id="@+id/tv_jorThosa8"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="১.জ্বরঠোসা হয়ে যাবার পর একটা নুতন টুথব্রাশ ব্যবহার করুন।\n২.যদি কাজের বা চিন্তার চাপে আপনার জ্বর ঠোসা হবার প্রবনতা থাকে সেক্ষেত্রে শরীর ও মন শিথিলায়নের পদ্ধতি চর্চা করুন,যেমন,নিয়মিত ব্যায়াম করুন,কিংবা যোগ ব্যায়াম চর্চা করুন অথবা মেডিটেশন বা মনঃসংযোগ করুন।\n৩.জ্বরঠোসা আক্রান্ত বাক্তিকে চুম্বন করা থেকে বিরত থাকুন।\n৪.টুপি পড়ুন কিংবা সূর্যরশ্মীপ্রতিরোধক ক্রিম ঠোঁটে মাখুন ,কেননা সূর্যরশ্মী জ্বর ঠোসাকে বাড়িয়ে তোলে।"
+                android:textColor="#000000"
+                android:textSize="15sp" />
+
+        </LinearLayout>
+    </ScrollView>
+</LinearLayout>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\sabujSana\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\21.0.3\support-annotations-21.0.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
+        <dex dex="D:\a.SABUJ\androidStdio\MediCare\app\build\intermediates\pre-dexed\debug\support-annotations-21.0.3_5d4cc5ecff3f4f7c098595c786e487de4f128df5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\a.SABUJ\androidStdio\MediCare\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="D:\a.SABUJ\androidStdio\MediCare\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-21.0.3_93809e2c5241f2c729ce9881c820019d0e6d8be7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\a.SABUJ\androidStdio\MediCare\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\jars\libs\internal_impl-21.0.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="D:\a.SABUJ\androidStdio\MediCare\app\build\intermediates\pre-dexed\debug\internal_impl-21.0.3_f0c55b31d530c8aa1bb970fa87246e1b1dbbb0e0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\a.SABUJ\androidStdio\MediCare\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.3\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="81d42bf983a8741f4888a6e333e454e4a5e0eeb7">
+        <dex dex="D:\a.SABUJ\androidStdio\MediCare\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-21.0.3_12afe17d79aaed887671aed9d8d446e202fc64d1.jar" />
+    </item>
+
+</items>

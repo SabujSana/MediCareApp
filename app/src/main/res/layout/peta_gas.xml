@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="8dp">
+
+    <ScrollView
+        android:id="@+id/scrollView1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+
+            <TextView
+                android:id="@+id/tv_petaGas"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="10dp"
+                android:gravity="center"
+                android:text="পেটে গ্যাস "
+                android:textColor="#000000"
+                android:textSize="20sp" />
+
+            <TextView
+                android:id="@+id/tv_petaGas1"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="লক্ষণ ও উপসর্গঃ"
+                android:textColor="#000000"
+                android:textSize="20sp" />
+
+            <TextView
+                android:id="@+id/tv_petaGas2"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="১.দুর্গন্ধযুক্ত বা গন্ধহীন ঢেকুর ওঠা।\n২.পেট ফেঁপে ওঠা।\n৩.পেট ফেঁপে ওঠার দরুন তলপেটে বা উদরে ব্যাথা হওয়া।"
+                android:textColor="#000000"
+                android:textSize="15sp" />
+
+            <TextView
+                android:id="@+id/tv_petaGas3"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="কি করা উচিতঃ"
+                android:textColor="#000000"
+                android:textSize="20sp" />
+
+            <TextView
+                android:id="@+id/tv_petaGas4"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="১.গ্যাসের ব্যাথার থেকা রেহাই পেতে পিপারমিন্ট,কেমোমাইল কিংবা ফিনেল দিয়ে চা বানিয়া খেতে পারেন।\n২.যদি আপনি গ্যাস নির্গমনের চাপ অনুভব করেন সেক্ষেত্রে সেটা চেপে রাখবেন না,প্রয়োজনে রুমের বাইরে গিয়ে হলেও কাজটা সেরে ফেলুন।\n৩.যদি পেটে গ্যাস হবার কারণে আপনার ব্যাথাটা তীব্র হয়ে ওঠে তাহলে চিত হয়ে শুয়ে পরে পা দুটোকে বুকের সাথে মেলাতে পারেন এবং ওভাবে   কিছুক্ষণ অবস্থান নিতে পারেন,এই বেয়াম চর্চার মাধ্যমে পেটে জমে থাকা গ্যাস বের হওয়া সহজ হয়।"
+                android:textColor="#000000"
+                android:textSize="15sp" />
+
+            <TextView
+                android:id="@+id/tv_petaGas5"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="কখন ডাক্তার দেখাবেনঃ"
+                android:textColor="#000000"
+                android:textSize="20sp" />
+
+            <TextView
+                android:id="@+id/tv_petaGas6"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="১.যদি পেটে গ্যাস হবার কারণে ব্যাথা আপনার নাভির কাছ থেকে শুরু হয়ে তলপেটের নিচের দিকের ডান পাশে পর্যন্ত সরতে থাকে সেক্ষেত্রে এটা হয়তো এপিনডিসাইটিসের লক্ষণ।\n২.যদি আপনার তিন দিনেরও বেশি সময় ধরে ক্রমাগত আপনার পেটের স্ফিতী থেকে যায়।\n৩.যদি গ্যাস নির্গমনের সময় কিংবা মল ত্যাগের সময় আপনার তলপেটের তীব্র ও আকস্মিক ব্যথা জেগে ওঠে সেক্ষেত্রে এটা হয়তো আইবিএস বা ইরিটেবল বাউয়েল সিনড্রোম এর লক্ষণ।\n৪.যদি আপনার পেটে প্রায়ই গ্যাস জন্মায়,এবং আপনার ওজন যদি কমতে থাকে এবং আপনার মলের রঙ যদি ম্লান হয় এবং দুর্গন্ধযুক্ত হয় সেক্ষেত্রে আপনি হয়তো বদহজমের সমস্যায় ভুগছেন(ম্যালএবজরশন ডিজঅর্ডার বা স্নেহ জাতীয় পদার্থ হজমে অসমর্থতা)।"
+                android:textColor="#000000"
+                android:textSize="15sp" />
+
+            <TextView
+                android:id="@+id/tv_petaGas7"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="কীভাবে প্রতিরোধ করবেনঃ"
+                android:textColor="#000000"
+                android:textSize="20sp" />
+
+            <TextView
+                android:id="@+id/tv_petaGas8"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="১.তীব্র গ্যাস এবং গ্যাস সংক্রান্ত ব্যাথা থেকে আপনি কেবল আপনার খাদ্য তালিকা পরিবর্তন করেই মুক্তি পেতে পারেন।মনে রাখবেন যে যদিও বেশি আঁশযুক্ত খাবারগুলো গ্যাস তৈরি করে কিন্তু এই খাবারগুলোই আবার একটি সাস্থকর খাদ্য তালিকার জন্যে অপরিহার্য খাবার।ফল এবং শাকসবজি এবং বিচি জাতীয় খাবার এবং আস্ত খাদ্যকণা যেগুলো সেগুলো বাদ না দিয়ে বরং পেটে যাতে গ্যাস না হয় সেজন্যে খাদ্য তালিকায় নিম্নোক্ত পরিবর্তনগুলো চেষ্টা করে দেখতে পারেন :\n২.শুকনো সিমের বিচি কিনুন ।সারারাত সেগুলো পানিতা ভিজিয়ে রাখুন।এবার পানি ফেলে দিয়ে পরিষ্কার পানিতে বিচি গুলো রান্নার জন্যে চড়িয়ে দিন।লক্ষ রাখবেন বিচি গুলো যেন পুরোপুরি সেদ্ধ হয়।\n৩.প্রচুর পানি বা পানীয় পান করুন।"
+                android:textColor="#000000"
+                android:textSize="20sp" />
+
+        </LinearLayout>
+    </ScrollView>
+</LinearLayout>

@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="8dp">
+
+    <ScrollView
+        android:id="@+id/scrollView1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+
+            <TextView
+                android:id="@+id/tv_uccoRoktochap"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="10dp"
+                android:gravity="center"
+                android:text="উচ্চ রক্তচাপ"
+                android:textColor="#000000"
+                android:textSize="20sp" />
+
+            <TextView
+                android:id="@+id/tv_uccoRoktochap1"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="লক্ষণ ও উপসর্গঃ"
+                android:textColor="#000000"
+                android:textSize="20sp" />
+
+            <TextView
+                android:id="@+id/tv_uccoRoktochap2"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="উচ্চ রক্তচাপ,কিংবা হাইপারটেনশন হলো “নিঃশব্দ ঘাতক”।বেশিরভাগ ক্ষেত্রেই এই রোগের কোন সতর্কতা লক্ষণ পাওয়া যায় না,এমনকি আক্রান্ত ব্যক্তির স্বাস্থ্যেরও কোন ক্ষতির লক্ষণ দেখা যায় না।"
+                android:textColor="#000000"
+                android:textSize="15sp" />
+
+            <TextView
+                android:id="@+id/tv_uccoRoktochap3"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="কী করা উচিতঃ"
+                android:textColor="#000000"
+                android:textSize="20sp" />
+
+            <TextView
+                android:id="@+id/tv_uccoRoktochap4"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="আপনি যদি অতি ঝুকিপূর্ণদের তালিকায় একজন হন(অর্থাৎ ৬৫ ঊর্ধ্ব বয়স,বা শিশু,কিংবা অন্যান্য দীর্ঘস্তায়ী রোগে আক্রান্ত ব্যক্তি)সেক্ষেত্রে ডাক্তার যতোবার আপনাকে আপনার রক্তচাপ পরীক্ষা করে দেখতেবলে ততোবার সে পরীক্ষা করুন।ডাক্তার নিজেও এই পরীক্ষাটি করতে পারে;কিংবা আপনিও রক্তচাপ পরীক্ষার যন্ত্র কিনে নিয়ে নিজে নিজেই সেটা পরীক্ষা করতে পারেন,তবে সে পরীক্ষা করার জন্য কিছুটা চর্চার প্রয়োজন দেখা দিতে পারে।"
+                android:textColor="#000000"
+                android:textSize="15sp" />
+
+            <TextView
+                android:id="@+id/tv_uccoRoktochap5"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="কখন ডাক্তার দেখাবেনঃ"
+                android:textColor="#000000"
+                android:textSize="20sp" />
+
+            <TextView
+                android:id="@+id/tv_uccoRoktochap6"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="১.যদি আপনার উচ্চ রক্তচাপ থাকে কিংবা আপনার সন্দেহ হয় যে আপনার উচ্চ রক্তচাপ রয়েছে এবং আপনি নিন্মোক্ত উপসর্গগুলোর যন্ত্রণা ভোগ করে থাকেনঃ পুনঃপুনঃ মাথা ব্যথা ,অসাঢ়তা এবং টন টনে ব্যথা, বিভ্রান্তি,কিংবা দৃষ্টির অস্পষ্টতা,বুকে ব্যথা বা চাপ অনুভব,প্রায়ই নাক দিয়ে রক্ত পড়া।\n২.যদি আপনি নিজে বা অন্য কেউ আপনার রক্তচাপ পরীক্ষা করে এবং পর পর কয়েকদিন আপনার রক্তচাপ ক্রমাগত বাড়তে থাকে।\n৩.আপনি যদি গর্ভধারণ করে থাকেন এবং আপনার রক্ত চাপ যদি বেড়ে যায়।এটা আপনার এবং আপনার অনাগত শিশু দুজনের জন্যেই ক্ষতিকর হতে পারে।\n৪.যদি আপনার উচচ রক্ত চাপ থাকে এবং আপনি যদি অন্যান্য পার্শ্ব-প্রতিক্রিয়া যেমন তন্দ্রালু ভাব,মাথা ঘোরা,কোষ্টকাঠিন্য,কিংবা অসাড়তায় ভোগেন।সেক্ষেত্রে আপনার হয়তো অন্য ঔষুধ সেবনের প্রয়োজন পড়তে পারে।কিন্তু তাই বলে ডাক্তারের পরামর্শ ব্যতিত উচ্চ রক্তচাপ সংক্রান্ত ঔসুধবর্জন করবেন না,হঠাৎ করে ঔষুধ সেবন বন্ধ করলে মারাত্মক পরিণতি হয়ে উঠতে পারে।"
+                android:textColor="#000000"
+                android:textSize="15sp" />
+
+            <TextView
+                android:id="@+id/tv_uccoRoktochap7"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="কীভাবে প্রতিরোধ করবেনঃ"
+                android:textColor="#000000"
+                android:textSize="20sp" />
+
+            <TextView
+                android:id="@+id/tv_uccoRoktochap8"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="১.নিয়মিত শরীর চর্চা করুন।দ্রুত হাটার চেষ্টা করুন,সাঁতার কাটুন,কিংবা বাই-সাইকেল চালান।আপনি যদি পূর্বে পুরোপুরিভাবে কায়িক পরিশ্রম থেকে দূরে থেকে থাকেন সেক্ষেত্রে ব্যয়াম বা শরীর চর্চা শুরু করার আগে ডাক্তারের পরামর্শ নিন।\n২.চেষ্টা করুন যাতে আপনার ওজন কমে।\n৩.আপনার যদিমদ পানের অভ্যাস থাকে তবে সে অভ্যাস ত্যাগ করুন।দিনে দুই গ্রামের থেকে বেশি লবণ খাবেন না।(এক চা চামচ লবণ মানেই দুই গ্রাম)।\n৪.আপনার যদি ধুমপানের অভ্যাস থাকে সেটা ত্যাগ করুন।অতিরিক্ত কর্মচাপ থেকে প্রশান্তির কোন পন্থা বের করার চেষ্টা করুন।এক্ষেত্রে ধ্যান বা মেডিটেশন,যোগ ব্যায়াম করতে পারেন।"
+                android:textColor="#000000"
+                android:textSize="15sp" />
+
+        </LinearLayout>
+    </ScrollView>
+</LinearLayout>

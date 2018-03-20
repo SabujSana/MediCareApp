@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="8dp"
+    android:orientation="vertical">
+
+    <ScrollView
+        android:id="@+id/scrollView1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+
+            <TextView
+                android:id="@+id/tv_alser"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:text="আলসার"
+                android:layout_marginBottom="10dp"
+                android:textColor="#000000"
+                android:textSize="20sp" />
+
+            <TextView
+                android:id="@+id/tv_alser1"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="লক্ষন ও উপসর্গঃ"
+                android:textColor="#000000"
+                android:textSize="20sp" />
+
+            <TextView
+                android:id="@+id/tv_alser2"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="১। উদর বা তলপেটের উপরিভাগে অস্বস্তিবোধ কিংবা ব্যাথা।\n২। খাবারের প্রতি অভক্তি।\n৩। বিতৃষ্ণা বোধ। \n৪। বুক জ্বালাপোড়া করা। \n৫। বমি হওয়া। \n৬। ঢেকুর ওঠা এবং গ্যাস হওয়া। \n৭। কালো বা রক্তমিশ্রিত মল।"
+                android:textColor="#000000"
+                android:textSize="15sp" />
+
+            <TextView
+                android:id="@+id/tv_alser3"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="কি করা উচিতঃ"
+                android:textColor="#000000"
+                android:textSize="20sp" />
+
+            <TextView
+                android:id="@+id/tv_alser4"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="১। যদি আপনার মনে হয় যে আলসার কিংবা গ্যাসট্রিটিস হয়েছে সেক্ষেত্রে ডাক্তারের শরণাপন্ন হোন। \n২। প্রচুর পরিমানে পানি এবং অন্যান্য পানীয় পান করুন যাতে আপনার শরীর পানিশূন্যতায় আক্রান্ত না হয়।\n৩। এন্টাসিড সেবন করুন।\n৪। এ্যাসপিরিন,ইবুপ্রুফেন এবং অন্যান্য ননস্টেরোয়ডাল এবং প্রদাহ-নিরোধক ঔষুধ সেবন থেকে বিরত থাকুন।"
+                android:textColor="#000000"
+                android:textSize="15sp" />
+
+            <TextView
+                android:id="@+id/tv_alser5"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="কখন ডাক্তার দেখাবেনঃ"
+                android:textColor="#000000"
+                android:textSize="20sp" />
+
+            <TextView
+                android:id="@+id/tv_alser6"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="১। যদি আপনার বমির সাথে রক্ত বের হয় কিংবা অন্যকিছু বের হয় যেটা দেখতে কফির পাতার গুঁড়োর মতো মনে হয়,সেক্ষেত্রে এটা হয়তো আপনার দেহাভ্যন্তরিন রক্তপাতের লক্ষন।\n২। যদি আপনার মধ্যে আলসারের লক্ষণগুলো ধরা পড়ে এবং একই সাথে আপনার পিঠে প্রচণ্ড ব্যাথা হয়,সেক্ষেত্রে আলসার হয়তো আপনার পাকস্থলী কিংবা গ্রহণী বা ডুডেনামের দেয়াল ছিদ্র করে ফেলছে বা ক্ষতসাধন করছে।\n৩। যদি আপনার জ্ঞান হারাবার মতো অবস্থা হয়,ঠাণ্ডা লাগে এবং স্যাঁতস্যাঁতে বোধ হয় এবং আপনি প্রকৃত জ্ঞান হারান,এগুলো হয়তো প্রচুর রক্তক্ষরণের কারনে উদ্ভুত কিছু উপসর্গ।\n৪। যদি আপনার আলসার থাকে এবং একই সাথে রক্তশূন্যতার লক্ষণগুলোও দেখা যায়,যেমন অবসাদগ্রস্ততা,গায়ের রঙে মলিনতা,এক্ষেত্রে আলসার থেকে হয়তো রক্তক্ষরণ হচ্ছে।\n৫। যদি আপনার মলের সাথে গাঢ় লাল রক্ত বের হয় কিংবা মলের রঙ রক্তাভ বা কালো হয়।\n৬। যদি আপনার পাকস্থলীতে প্রচণ্ড ব্যাথা হয়।\n৭। যদি আপনার আলসার কিংবা গ্যাসট্রিটিসের লক্ষন ও উপসর্গগুলো দুইসপ্তাহের বেশি সময় ধরেও অপসারিত না হয়।"
+                android:textColor="#000000"
+                android:textSize="15sp" />
+
+            <TextView
+                android:id="@+id/tv_alser7"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="কীভাবে প্রতিরোধ করবেনঃ"
+                android:textColor="#000000"
+                android:textSize="20sp" />
+
+            <TextView
+                android:id="@+id/tv_alser8"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="১। আপনি যদি ধূমপায়ী হোন তবে ধূমপান ছেড়ে দিন।\n২। দৈহিক ও মানসিক চাপ থেকে স্বস্তি পেতে যা যা করনীয় করুন।\n৩। যদি আপানার মদ বা অ্যালকোহলমিশ্রিত কোনো পানীয় পান করার অভ্যাস থাকে তাহলে খুব কম পরিমানে করবেন।\n৪। এ্যাসপিরিন এবং ইবুপ্রুফেনের ব্যবহার যতটা কমানো সম্ভব করুন।\n৫। যেসব খাবার আপনার পাকস্থলীতে সমস্যা করে সেগুলো এড়িয়ে চলুন।\n৬। আলসার যাতে আবার না হয়,সেজন্যে যে যে ঔষুধগুলো ডাক্তারি পরামর্শ অনুযায়ী আপনি আলসারের চিকিৎসার উদ্দেশ্যে সেবন করছেন সেগুলো সঠিকভাবে সঠিক সময়ে সেবন করবেন।"
+                android:textColor="#000000"
+                android:textSize="15sp" />
+
+        </LinearLayout>
+    </ScrollView>
+</LinearLayout>

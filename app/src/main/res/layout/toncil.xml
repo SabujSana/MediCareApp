@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="8dp">
+
+    <ScrollView
+        android:id="@+id/scrollView1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+
+            <TextView
+                android:id="@+id/tv_toncil"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="10dp"
+                android:gravity="center"
+                android:text="টনসিলিটিস\n"
+                android:textColor="#000000"
+                android:textSize="20sp" />
+
+            <TextView
+                android:id="@+id/tv_toncil1"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="লক্ষণ ও উপসর্গঃ"
+                android:textColor="#000000"
+                android:textSize="20sp" />
+
+            <TextView
+                android:id="@+id/tv_toncil2"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="সাধারণ অবস্থাঃ"
+                android:textColor="#000000"
+                android:textSize="20sp" />
+
+            <TextView
+                android:id="@+id/tv_toncil3"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="১.গলা ফুলে ওঠা কিংবা শুষ্ক ও খড় খড়ে হয়ে ওঠা। \n২.দিন দিন গলার স্বর রুক্ষ্ম হয়ে ওঠা বা ভেঙ্গে যাওয়া।"
+                android:textColor="#000000"
+                android:textSize="15sp" />
+
+            <TextView
+                android:id="@+id/tv_toncil4"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="তীব্র অবস্থায়ঃ"
+                android:textColor="#000000"
+                android:textSize="20sp" />
+
+            <TextView
+                android:id="@+id/tv_toncil5"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="১.টনসিল এতোই ফুলে ওঠে যে সেটা গলার পেছনের দিকটা প্রায় ভরাট করে দেয়।\n২.টনসিল লাল হয়ে যায় কিংবা সেগুলোতে সাদা বা হলুদ দাগ ফুটে ওঠে।\n৩.খাদ্যনালী স্পর্শকাতর হয়ে ওঠে কিংবা ফুলে ওঠে।\n৪.একশ ডিগ্রি বা তারও বেশি জ্বর,মাথা ব্যথা,কিংবা বমি হওয়া।\n৫.কানে বা পাকস্থলিতে ব্যথা।"
+                android:textColor="#000000"
+                android:textSize="15sp" />
+
+            <TextView
+                android:id="@+id/tv_toncil6"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="বাচ্চাদের ক্ষেত্রেঃ"
+                android:textColor="#000000"
+                android:textSize="20sp" />
+
+            <TextView
+                android:id="@+id/tv_toncil7"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="খাবার খেতে অনীহা প্রকাশ করা কেননা,গলা ফুলে ওঠার বিষয়টি বেদনাদায়ক।"
+                android:textColor="#000000"
+                android:textSize="15sp" />
+
+            <TextView
+                android:id="@+id/tv_toncil8"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="প্রাপ্তবয়স্কদের ক্ষেত্রেঃ"
+                android:textColor="#000000"
+                android:textSize="20sp" />
+
+            <TextView
+                android:id="@+id/tv_toncil9"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="ক্ষয় থেকে বাজে গন্ধ নির্গমন এবং গলার পেছনের দিকে জ্বালাপোড়া হওয়া।"
+                android:textColor="#000000"
+                android:textSize="15sp" />
+
+            <TextView
+                android:id="@+id/tv_toncil10"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="কী করা উচিতঃ"
+                android:textColor="#000000"
+                android:textSize="20sp" />
+
+            <TextView
+                android:id="@+id/tv_toncil11"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="১.যদি আপনার বাচ্চার টনসিল সাধারণভাবেই লাল থাকে (এবং ভেতরে কোন ফোলা না থাকে,বা সাদা বা হলুদ দাগ না থাকে)এবং তার যদি জ্বর না থাকে,কিংবা গলা ফুলে ওঠা সংক্রান্ত অন্য কোন সমস্যা না থাকে সেক্ষেত্রে ঘরোয়া চিকিৎসাতেও আপনি ভালো ফল পেতে সক্ষম।\n২.লবণ মেশানো পানি দিয়ে কুলি করলে ব্যথাটা কমে আসে এবং আক্রান্ত টনসিলটিও পরিষ্কার হয়।\n৩.আপনার শিশুকে উষ্ণ স্থানে রাখুন এবং বিশ্রামনিতে দিন।\n৪.তার গলায় আরাম পাবার জন্যে তাকে প্রচুর পরিমাণে তরল পান করান,প্রয়োজনে আইসক্রিম কিংবা ফ্রোজেন দই বা দধিও দিতে পারেন।\n৫.জ্বর বা ব্যথা থাকলে এসিটামিনোফেন দিতে পারেন(তবে ১২ বছর বয়েসের নিচে কোন শিশুর যদি চিকেন পক্স,ইনফ্লুয়েঞ্জা,কিংবা অন্যান্য কোন রোগ রয়েছে এবং সেটা ভাইরাস বাহিত বলে আপনি মনে করেন সেক্ষেত্রে তাকে কোনভাবেই এ্যাসপিরিন দেবেন না।)\n৬.জ্বর কমানোর জন্য স্পঞ্জ হালকা ঠান্ডা পানিতে ভিজিয়ে তার মুখ মুছে মুছে দিতে পারেন।"
+                android:textColor="#000000"
+                android:textSize="15sp" />
+
+            <TextView
+                android:id="@+id/tv_toncil12"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="কখন ডাক্তার দেখাবেনঃ"
+                android:textColor="#000000"
+                android:textSize="20sp" />
+
+            <TextView
+                android:id="@+id/tv_toncil13"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="১.যদি আপনার শিশুর জ্বর একশ ডিগ্রির উপরে উঠে যায় কিংবা ২৪ ঘন্টা যাবৎ কিছু খেতে না চায়।\n২.যদি টনসিলের উপর সাদা বা হলুদ দাগ দেখা যায়(সেটা দেখতে ফ্লাশ লাইটের সাহায্য নিন)।\n৩.যদি টনসিল অত্যন্ত ফুলে ওঠে যে সেগুলো একটা অন্যটার সাথে লেগে যায়,সেক্ষেত্রে এটা হয়তো স্ট্রেপ থ্রোট এর মতো মারাত্মাক রোগেরই লক্ষণ।\n৪.যদি গলার এই ফুলে ওঠাটা মারাত্মক পর্যায়ে চলে যায় আর দুই দিনের বেশি স্থায়ী থাকে।\n৫.যদি আপনার শিশুর কাশি থেকে সবুজ,হলুদ কিংবা মরিচার রঙ্গের শ্লেষ্মা বের হয় কিংবা সে বিতৃষ্ণায় ভোগে,তার ত্বকে যদি র‌্যাশ বা গোটা ওঠে,বুকে ব্যথা করে,পেশিতে কোথাও তীব্র সংকোচন বা টান পড়ে,যদি অস্থি সংযোগে তীব্র ব্যথা বা প্রদাহ থাকে,কিংবা দুই দিন না থেকে পুনরায় আবার জ্বর আসে।এগুলো হয়তো টনসিলে বা অন্য কোথাও ক্ষত হবারই লক্ষণ।"
+                android:textColor="#000000"
+                android:textSize="15sp" />
+
+            <TextView
+                android:id="@+id/tv_toncil14"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="প্রাপ্তবয়স্কদের ক্ষেত্রেঃ"
+                android:textColor="#000000"
+                android:textSize="20sp" />
+
+            <TextView
+                android:id="@+id/tv_toncil15"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="১.গলাধ্যকরণে কষ্ট কিংবা মুখ খুলতে ব্যথা লাগা,কিংবা গলায় বা চোয়ালে তীব্র চর চরে ব্যথা হওয়া।"
+                android:textColor="#000000"
+                android:textSize="15sp" />
+
+            <TextView
+                android:id="@+id/tv_toncil16"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="কীভাবে প্রতিরোধ করবেনঃ"
+                android:textColor="#000000"
+                android:textSize="20sp" />
+
+            <TextView
+                android:id="@+id/tv_toncil17"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="১.শিশুদের ব্যাকটেরিয়া এবং ভাইরাস থেকে দূরে থাকতে উৎসাহিত করুন। \n২.তাদেরকে বারবার হাত ধুতে বলুন।\n৩.তাদেরকে মুখ তেকে হাত দূরে রাখতে বলুন।\n৪.যেসব মানুষ কাশে বা নাক ঝাড়ে তাদের থেকে দূরে  রাখুন।\n৫.সিলভারের তৈরি বাসন কিংবা কাপ যেন একে অন্যেরটা ব্যবহার না করে সেদিকে দৃষ্টি দিন।"
+                android:textColor="#000000"
+                android:textSize="15sp" />
+        </LinearLayout>
+    </ScrollView>
+</LinearLayout>

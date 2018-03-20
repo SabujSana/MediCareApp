@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="8dp">
+
+    <ScrollView
+        android:id="@+id/scrollView1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+
+            <TextView
+                android:id="@+id/tv_sordi"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:text="সর্দি-জ্বর\n"
+                android:textColor="#000000"
+
+                android:textSize="20sp" />
+
+            <TextView
+                android:id="@+id/tv_sordi1"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="সর্দি-জ্বর বাংলাদেশের অত্যন্ত পরিচিত রোগ।আমাদের দেশে সম্ভবত এমন লোক খুঁজে পাওয়া যাবে না যার বছরে অন্তত দু-একবার সর্দি-জ্বর হয়নি।রাস্তাঘাট,স্কুল-কলেজ কিংবা অফিসপাড়ায় প্রায়ই হাঁচি দিতে থাকা অথবা নাকের পানি মুছতে থাকা লোকজন নজরে পড়ে।ধনী-গরিব,শিক্ষিত-অশিক্ষিত,চিকিৎসক-প্রকৌশলী আমরা কেউ এ রোগ থেকে মুক্ত নই। "
+                android:textColor="#000000"
+                android:textSize="15sp" />
+
+            <TextView
+                android:id="@+id/tv_sordi2"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="কী কারণে সর্দি জ্বর হয়ঃ"
+                android:textColor="#000000"
+                android:textSize="20sp" />
+
+            <TextView
+                android:id="@+id/tv_sordi3"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="সর্দি-জ্বর মানব দেহের ঊর্ধ্ব-শ্বাসনালীর ভাইরাসজনিত এক ধরনের সংক্রমণ। ইনফ্লুয়েনজা-এ, ইনফ্লয়েনজা, এডেনোভাইরাস প্রভৃতি এ রোগের জন্য দায়ী। অনেক ক্ষেত্রে এর সঙ্গে ব্যাকটেরিয়ার সংক্রমণ ঘটতে পারে। ঋতু পরিবর্তনের সময় এ রোগ বেশি মাত্রায় দেখা যায়। একটানা বৃষ্টি, স্যাঁতস্যাঁতে পরিবেশ, অতিরিক্ত গরম বা ঠাণ্ডা এবং এক ঘরে অনেক লোক গাদাগাদি করে বসবাস করলে এ রোগ হওয়ার সম্ভাবনা বেশি থাকে। কম রোগ প্রতিরোধ ক্ষমতাসম্পন্ন লোকদেরও এ রোগের ঝুঁকি বেশি।হাঁচি-কাশির মাধ্যমে এ রোগ একজনের শরীর থেকে অন্য জনের শরীরে ছড়ায়।"
+                android:textColor="#000000"
+                android:textSize="15sp" />
+
+            <TextView
+                android:id="@+id/tv_sordi4"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="লক্ষণসমূহঃ"
+                android:textColor="#000000"
+                android:textSize="20sp" />
+
+            <TextView
+                android:id="@+id/tv_sordi5"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="লক্ষণ দেখেই এ রোগ নির্ণয় করা যায়। সাধারণত কোনো ল্যাবরেটরি পরীক্ষার দরকার হয় না। সর্দি-জ্বর হলে প্রথমে নাকে ও গলায় অস্বস্তি লাগে, হাঁচি হয়, নাক দিয়ে অনবরত পানি ঝরতে থাকে। নাক বন্ধ ও থাকতে পারে। মাথা ব্যথা, মাথা ভারি বোধ হওয়া, শরীরে ব্যথা, হালকা জ্বর (১০০ ডিগ্রি ফারেনহাইটের বেশি নয়), গলা ব্যথা প্রভৃতি উপসর্গ পরিলক্ষিত হয়। কখনও কখনও চোখ লাল হতে পারে এবং চোখ দিয়ে পানি ঝরতে পারে।"
+                android:textColor="#000000"
+                android:textSize="15sp" />
+
+            <TextView
+                android:id="@+id/tv_sordi6"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="চিকিৎসা ও প্রতিকারঃ"
+                android:textColor="#000000"
+                android:textSize="20sp" />
+
+            <TextView
+                android:id="@+id/tv_sordi7"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="সর্দি-জ্বরের সময় বিশ্রামে থাকতে পারলে ভালো। স্বাভাবিক খাবারের পাশাপাশি প্রচুর পানি, লেবুর রস, আনারস, পেয়ারা বা আমলকি জাতীয় খাবার খাওয়া যেতে পারে। ঠাণ্ডা জাতীয় খাবার (আইসক্রিম, ফ্রিজের পানি, কোল্ড ড্রিঙ্কস) পরিহার করতে হবে। গরম চা বা কফি খাওয়া যেতে পারে।
+এ রোগের চিকিত্সায় সাধারণত এন্টিবায়োটিকের প্রয়োজন হয় না। জ্বর ও ব্যথানাশক প্যারাসিটামল এবং এন্টিহিস্টামিন জাতীয় ওষুধ কয়েকদিন খেলেই এ রোগ সেরে যায়। তবে ব্যাকটেরিয়াল সংক্রমণের লক্ষণ থাকলে চিকিৎসকের পরামর্শ অনুযায়ী উপযুক্ত এন্টিবায়োটিক সঠিক মাত্রায় পাঁচ থেকে সাত দিন খেতে হবে। শিশুদের ক্ষেত্রে টনিসলের বা ফুসফুসের সংক্রমণ হওয়ার ঝুঁকি থাকে বিধায় রেজিস্টার্ড চিকিত্সকের পরামর্শমত ওষুধ খাওয়ানো উচিত।"
+                android:textColor="#000000"
+                android:textSize="15sp" />
+
+            <TextView
+                android:id="@+id/tv_sordi8"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="প্রতিরোধ ও জনসচেতনতাঃ"
+                android:textColor="#000000"
+                android:textSize="20sp" />
+
+            <TextView
+                android:id="@+id/tv_sordi9"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="সর্দি-জ্বরে আক্রান্ত হলে অন্যদের সঙ্গে বিশেষ করে শিশুদের সঙ্গে মেলামেশায় সাবধানতা অবলম্বন করতে হবে। হাঁচি দেয়ার সময় বা নাকের পানি মুছতে রুমাল বা টিসু পেপার ব্যবহার করতে হবে। রোগীর ব্যবহৃত রুমাল বা গামছা অন্যরা ব্যবহার করা থেকে বিরত থাকতে হবে। যেখানে সেখানে কফ, থুথু বা নাকের শ্লেষ্মা ফেলা যাবে না। স্বাস্থ্যকর, খোলামেলা, শুষ্ক পরিবেশে বসবাস করতে হবে এবং বিরূপ পরিবেশে যথাযথ সতর্কতা অবলম্বন করতে হবে। জনসচেতনতা বৃদ্ধির লক্ষ্যে সাধারণ জনগণের জন্য প্রয়োজনীয় স্বাস্থ্য শিক্ষার ব্যবস্থা করতে হবে।"
+                android:textColor="#000000"
+                android:textSize="15sp" />
+        </LinearLayout>
+    </ScrollView>
+
+</LinearLayout>

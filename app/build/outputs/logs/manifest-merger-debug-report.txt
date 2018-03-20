@@ -1,0 +1,421 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\a.SABUJ\androidStdio\MediCare\app\src\main\AndroidManifest.xml:2:1-298:12
+	package
+		ADDED from D:\a.SABUJ\androidStdio\MediCare\app\src\main\AndroidManifest.xml:3:5-35
+		INJECTED from D:\a.SABUJ\androidStdio\MediCare\app\src\main\AndroidManifest.xml
+		INJECTED from D:\a.SABUJ\androidStdio\MediCare\app\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from D:\a.SABUJ\androidStdio\MediCare\app\src\main\AndroidManifest.xml:5:5-30
+		INJECTED from D:\a.SABUJ\androidStdio\MediCare\app\src\main\AndroidManifest.xml
+		INJECTED from D:\a.SABUJ\androidStdio\MediCare\app\src\main\AndroidManifest.xml
+	android:versionCode
+		ADDED from D:\a.SABUJ\androidStdio\MediCare\app\src\main\AndroidManifest.xml:4:5-28
+		INJECTED from D:\a.SABUJ\androidStdio\MediCare\app\src\main\AndroidManifest.xml
+		INJECTED from D:\a.SABUJ\androidStdio\MediCare\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\a.SABUJ\androidStdio\MediCare\app\src\main\AndroidManifest.xml:2:11-69
+uses-sdk
+ADDED from D:\a.SABUJ\androidStdio\MediCare\app\src\main\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:21.0.3] D:\a.SABUJ\androidStdio\MediCare\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.3\AndroidManifest.xml:15:5-42
+MERGED from [com.android.support:support-v4:21.0.3] D:\a.SABUJ\androidStdio\MediCare\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\AndroidManifest.xml:15:5-42
+	android:targetSdkVersion
+		ADDED from D:\a.SABUJ\androidStdio\MediCare\app\src\main\AndroidManifest.xml:9:9-38
+		INJECTED from D:\a.SABUJ\androidStdio\MediCare\app\src\main\AndroidManifest.xml
+		INJECTED from D:\a.SABUJ\androidStdio\MediCare\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from D:\a.SABUJ\androidStdio\MediCare\app\src\main\AndroidManifest.xml:8:9-34
+		INJECTED from D:\a.SABUJ\androidStdio\MediCare\app\src\main\AndroidManifest.xml
+		INJECTED from D:\a.SABUJ\androidStdio\MediCare\app\src\main\AndroidManifest.xml
+application
+ADDED from D:\a.SABUJ\androidStdio\MediCare\app\src\main\AndroidManifest.xml:11:5-296:19
+MERGED from [com.android.support:appcompat-v7:21.0.3] D:\a.SABUJ\androidStdio\MediCare\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.3\AndroidManifest.xml:16:5-19
+MERGED from [com.android.support:support-v4:21.0.3] D:\a.SABUJ\androidStdio\MediCare\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\AndroidManifest.xml:16:5-19
+	android:label
+		ADDED from D:\a.SABUJ\androidStdio\MediCare\app\src\main\AndroidManifest.xml:14:9-41
+	android:allowBackup
+		ADDED from D:\a.SABUJ\androidStdio\MediCare\app\src\main\AndroidManifest.xml:12:9-35
+	android:icon
+		ADDED from D:\a.SABUJ\androidStdio\MediCare\app\src\main\AndroidManifest.xml:13:9-45
+	android:theme
+		ADDED from D:\a.SABUJ\androidStdio\MediCare\app\src\main\AndroidManifest.xml:15:9-40
+activity#com.example.medicare.MainActivity
+ADDED from D:\a.SABUJ\androidStdio\MediCare\app\src\main\AndroidManifest.xml:16:9-24:20
+	android:label
+		ADDED from D:\a.SABUJ\androidStdio\MediCare\app\src\main\AndroidManifest.xml:18:13-45
+	android:name
+		ADDED from D:\a.SABUJ\androidStdio\MediCare\app\src\main\AndroidManifest.xml:17:13-41
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from D:\a.SABUJ\androidStdio\MediCare\app\src\main\AndroidManifest.xml:19:13-23:29
+action#android.intent.action.MAIN
+ADDED from D:\a.SABUJ\androidStdio\MediCare\app\src\main\AndroidManifest.xml:20:17-69
+	android:name
+		ADDED from D:\a.SABUJ\androidStdio\MediCare\app\src\main\AndroidManifest.xml:20:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\a.SABUJ\androidStdio\MediCare\app\src\main\AndroidManifest.xml:22:17-77
+	android:name
+		ADDED from D:\a.SABUJ\androidStdio\MediCare\app\src\main\AndroidManifest.xml:22:27-74
+activity#com.example.medicare.NakeKanGola
+ADDED from D:\a.SABUJ\androidStdio\MediCare\app\src\main\AndroidManifest.xml:25:10-33:20
+	android:label
+		ADDED from D:\a.SABUJ\androidStdio\MediCare\app\src\main\AndroidManifest.xml:27:13-45
+	android:name
+		ADDED from D:\a.SABUJ\androidStdio\MediCare\app\src\main\AndroidManifest.xml:26:13-40
+intent-filter#android.intent.action.NAK_KAN_GOLA+android.intent.category.DEFAULT
+ADDED from D:\a.SABUJ\androidStdio\MediCare\app\src\main\AndroidManifest.xml:28:13-32:29
+action#android.intent.action.NAK_KAN_GOLA
+ADDED from D:\a.SABUJ\androidStdio\MediCare\app\src\main\AndroidManifest.xml:29:17-77
+	android:name
+		ADDED from D:\a.SABUJ\androidStdio\MediCare\app\src\main\AndroidManifest.xml:29:25-74
+category#android.intent.category.DEFAULT
+ADDED from D:\a.SABUJ\androidStdio\MediCare\app\src\main\AndroidManifest.xml:31:17-76
+	android:name
+		ADDED from D:\a.SABUJ\androidStdio\MediCare\app\src\main\AndroidManifest.xml:31:27-73
+activity#com.example.medicare.Sordi
+ADDED from D:\a.SABUJ\androidStdio\MediCare\app\src\main\AndroidManifest.xml:34:9-42:20
+	android:label
+		ADDED from D:\a.SABUJ\androidStdio\MediCare\app\src\main\AndroidManifest.xml:36:13-45
+	android:name
+		ADDED from D:\a.SABUJ\androidStdio\MediCare\app\src\main\AndroidManifest.xml:35:13-34
+intent-filter#android.intent.action.SORDI+android.intent.category.DEFAULT
+ADDED from D:\a.SABUJ\androidStdio\MediCare\app\src\main\AndroidManifest.xml:37:13-41:29
+action#android.intent.action.SORDI
+ADDED from D:\a.SABUJ\androidStdio\MediCare\app\src\main\AndroidManifest.xml:38:17-70
+	android:name
+		ADDED from D:\a.SABUJ\androidStdio\MediCare\app\src\main\AndroidManifest.xml:38:25-67
+activity#com.example.medicare.Jokkha
+ADDED from D:\a.SABUJ\androidStdio\MediCare\app\src\main\AndroidManifest.xml:43:10-51:20
+	android:label
+		ADDED from D:\a.SABUJ\androidStdio\MediCare\app\src\main\AndroidManifest.xml:45:13-45
+	android:name
+		ADDED from D:\a.SABUJ\androidStdio\MediCare\app\src\main\AndroidManifest.xml:44:13-35
+intent-filter#android.intent.action.JOKKHA+android.intent.category.DEFAULT
+ADDED from D:\a.SABUJ\androidStdio\MediCare\app\src\main\AndroidManifest.xml:46:13-50:29
+action#android.intent.action.JOKKHA
+ADDED from D:\a.SABUJ\androidStdio\MediCare\app\src\main\AndroidManifest.xml:47:17-71
+	android:name
+		ADDED from D:\a.SABUJ\androidStdio\MediCare\app\src\main\AndroidManifest.xml:47:25-68
+activity#com.example.medicare.Hapani
+ADDED from D:\a.SABUJ\androidStdio\MediCare\app\src\main\AndroidManifest.xml:52:9-60:20
+	android:label
+		ADDED from D:\a.SABUJ\androidStdio\MediCare\app\src\main\AndroidManifest.xml:54:13-45
+	android:name
+		ADDED from D:\a.SABUJ\androidStdio\MediCare\app\src\main\AndroidManifest.xml:53:13-35
+intent-filter#android.intent.action.HAPANI+android.intent.category.DEFAULT
+ADDED from D:\a.SABUJ\androidStdio\MediCare\app\src\main\AndroidManifest.xml:55:13-59:29
+action#android.intent.action.HAPANI
+ADDED from D:\a.SABUJ\androidStdio\MediCare\app\src\main\AndroidManifest.xml:56:17-71
+	android:name
+		ADDED from D:\a.SABUJ\androidStdio\MediCare\app\src\main\AndroidManifest.xml:56:25-68
+activity#com.example.medicare.Numonia
+ADDED from D:\a.SABUJ\androidStdio\MediCare\app\src\main\AndroidManifest.xml:61:9-69:20
+	android:label
+		ADDED from D:\a.SABUJ\androidStdio\MediCare\app\src\main\AndroidManifest.xml:63:13-45
+	android:name
+		ADDED from D:\a.SABUJ\androidStdio\MediCare\app\src\main\AndroidManifest.xml:62:13-36
+intent-filter#android.intent.action.NUMONIA+android.intent.category.DEFAULT
+ADDED from D:\a.SABUJ\androidStdio\MediCare\app\src\main\AndroidManifest.xml:64:13-68:29
+action#android.intent.action.NUMONIA
+ADDED from D:\a.SABUJ\androidStdio\MediCare\app\src\main\AndroidManifest.xml:65:17-72
+	android:name
+		ADDED from D:\a.SABUJ\androidStdio\MediCare\app\src\main\AndroidManifest.xml:65:25-69
+activity#com.example.medicare.BukJala
+ADDED from D:\a.SABUJ\androidStdio\MediCare\app\src\main\AndroidManifest.xml:70:9-78:20
+	android:label
+		ADDED from D:\a.SABUJ\androidStdio\MediCare\app\src\main\AndroidManifest.xml:72:13-45
+	android:name
+		ADDED from D:\a.SABUJ\androidStdio\MediCare\app\src\main\AndroidManifest.xml:71:13-36
+intent-filter#android.intent.action.BUK_JALA+android.intent.category.DEFAULT
+ADDED from D:\a.SABUJ\androidStdio\MediCare\app\src\main\AndroidManifest.xml:73:13-77:29
+action#android.intent.action.BUK_JALA
+ADDED from D:\a.SABUJ\androidStdio\MediCare\app\src\main\AndroidManifest.xml:74:17-73
+	android:name
+		ADDED from D:\a.SABUJ\androidStdio\MediCare\app\src\main\AndroidManifest.xml:74:25-70
+activity#com.example.medicare.Toncil
+ADDED from D:\a.SABUJ\androidStdio\MediCare\app\src\main\AndroidManifest.xml:79:9-87:20
+	android:label
+		ADDED from D:\a.SABUJ\androidStdio\MediCare\app\src\main\AndroidManifest.xml:81:13-45
+	android:name
+		ADDED from D:\a.SABUJ\androidStdio\MediCare\app\src\main\AndroidManifest.xml:80:13-35
+intent-filter#android.intent.action.TONCIL+android.intent.category.DEFAULT
+ADDED from D:\a.SABUJ\androidStdio\MediCare\app\src\main\AndroidManifest.xml:82:13-86:29
+action#android.intent.action.TONCIL
+ADDED from D:\a.SABUJ\androidStdio\MediCare\app\src\main\AndroidManifest.xml:83:17-71
+	android:name
+		ADDED from D:\a.SABUJ\androidStdio\MediCare\app\src\main\AndroidManifest.xml:83:25-68
+activity#com.example.medicare.MukMatha
+ADDED from D:\a.SABUJ\androidStdio\MediCare\app\src\main\AndroidManifest.xml:88:10-96:20
+	android:label
+		ADDED from D:\a.SABUJ\androidStdio\MediCare\app\src\main\AndroidManifest.xml:90:13-45
+	android:name
+		ADDED from D:\a.SABUJ\androidStdio\MediCare\app\src\main\AndroidManifest.xml:89:13-37
+intent-filter#android.intent.action.MUK_MATHA+android.intent.category.DEFAULT
+ADDED from D:\a.SABUJ\androidStdio\MediCare\app\src\main\AndroidManifest.xml:91:13-95:29
+action#android.intent.action.MUK_MATHA
+ADDED from D:\a.SABUJ\androidStdio\MediCare\app\src\main\AndroidManifest.xml:92:17-74
+	android:name
+		ADDED from D:\a.SABUJ\androidStdio\MediCare\app\src\main\AndroidManifest.xml:92:25-71
+activity#com.example.medicare.MathaBatha
+ADDED from D:\a.SABUJ\androidStdio\MediCare\app\src\main\AndroidManifest.xml:97:10-105:20
+	android:label
+		ADDED from D:\a.SABUJ\androidStdio\MediCare\app\src\main\AndroidManifest.xml:99:13-45
+	android:name
+		ADDED from D:\a.SABUJ\androidStdio\MediCare\app\src\main\AndroidManifest.xml:98:13-39
+intent-filter#android.intent.action.MATHA_BATHA+android.intent.category.DEFAULT
+ADDED from D:\a.SABUJ\androidStdio\MediCare\app\src\main\AndroidManifest.xml:100:13-104:29
+action#android.intent.action.MATHA_BATHA
+ADDED from D:\a.SABUJ\androidStdio\MediCare\app\src\main\AndroidManifest.xml:101:17-76
+	android:name
+		ADDED from D:\a.SABUJ\androidStdio\MediCare\app\src\main\AndroidManifest.xml:101:25-73
+activity#com.example.medicare.stroke
+ADDED from D:\a.SABUJ\androidStdio\MediCare\app\src\main\AndroidManifest.xml:106:9-114:20
+	android:label
+		ADDED from D:\a.SABUJ\androidStdio\MediCare\app\src\main\AndroidManifest.xml:108:13-45
+	android:name
+		ADDED from D:\a.SABUJ\androidStdio\MediCare\app\src\main\AndroidManifest.xml:107:13-35
+intent-filter#android.intent.action.STROKE+android.intent.category.DEFAULT
+ADDED from D:\a.SABUJ\androidStdio\MediCare\app\src\main\AndroidManifest.xml:109:13-113:29
+action#android.intent.action.STROKE
+ADDED from D:\a.SABUJ\androidStdio\MediCare\app\src\main\AndroidManifest.xml:110:17-71
+	android:name
+		ADDED from D:\a.SABUJ\androidStdio\MediCare\app\src\main\AndroidManifest.xml:110:25-68
+activity#com.example.medicare.DathBatha
+ADDED from D:\a.SABUJ\androidStdio\MediCare\app\src\main\AndroidManifest.xml:115:9-123:20
+	android:label
+		ADDED from D:\a.SABUJ\androidStdio\MediCare\app\src\main\AndroidManifest.xml:117:13-45
+	android:name
+		ADDED from D:\a.SABUJ\androidStdio\MediCare\app\src\main\AndroidManifest.xml:116:13-38
+intent-filter#android.intent.action.DATH_BATHA+android.intent.category.DEFAULT
+ADDED from D:\a.SABUJ\androidStdio\MediCare\app\src\main\AndroidManifest.xml:118:13-122:29
+action#android.intent.action.DATH_BATHA
+ADDED from D:\a.SABUJ\androidStdio\MediCare\app\src\main\AndroidManifest.xml:119:17-75
+	android:name
+		ADDED from D:\a.SABUJ\androidStdio\MediCare\app\src\main\AndroidManifest.xml:119:25-72
+activity#com.example.medicare.DaterKhoi
+ADDED from D:\a.SABUJ\androidStdio\MediCare\app\src\main\AndroidManifest.xml:124:9-132:20
+	android:label
+		ADDED from D:\a.SABUJ\androidStdio\MediCare\app\src\main\AndroidManifest.xml:126:13-45
+	android:name
+		ADDED from D:\a.SABUJ\androidStdio\MediCare\app\src\main\AndroidManifest.xml:125:13-38
+intent-filter#android.intent.action.DATER_KHOI+android.intent.category.DEFAULT
+ADDED from D:\a.SABUJ\androidStdio\MediCare\app\src\main\AndroidManifest.xml:127:13-131:29
+action#android.intent.action.DATER_KHOI
+ADDED from D:\a.SABUJ\androidStdio\MediCare\app\src\main\AndroidManifest.xml:128:17-75
+	android:name
+		ADDED from D:\a.SABUJ\androidStdio\MediCare\app\src\main\AndroidManifest.xml:128:25-72
+activity#com.example.medicare.JorThosa
+ADDED from D:\a.SABUJ\androidStdio\MediCare\app\src\main\AndroidManifest.xml:133:9-141:20
+	android:label
+		ADDED from D:\a.SABUJ\androidStdio\MediCare\app\src\main\AndroidManifest.xml:135:13-45
+	android:name
+		ADDED from D:\a.SABUJ\androidStdio\MediCare\app\src\main\AndroidManifest.xml:134:13-37
+intent-filter#android.intent.action.JOR_THOSA+android.intent.category.DEFAULT
+ADDED from D:\a.SABUJ\androidStdio\MediCare\app\src\main\AndroidManifest.xml:136:13-140:29
+action#android.intent.action.JOR_THOSA
+ADDED from D:\a.SABUJ\androidStdio\MediCare\app\src\main\AndroidManifest.xml:137:17-74
+	android:name
+		ADDED from D:\a.SABUJ\androidStdio\MediCare\app\src\main\AndroidManifest.xml:137:25-71
+activity#com.example.medicare.Pet
+ADDED from D:\a.SABUJ\androidStdio\MediCare\app\src\main\AndroidManifest.xml:143:10-151:20
+	android:label
+		ADDED from D:\a.SABUJ\androidStdio\MediCare\app\src\main\AndroidManifest.xml:145:13-45
+	android:name
+		ADDED from D:\a.SABUJ\androidStdio\MediCare\app\src\main\AndroidManifest.xml:144:13-32
+intent-filter#android.intent.action.PET+android.intent.category.DEFAULT
+ADDED from D:\a.SABUJ\androidStdio\MediCare\app\src\main\AndroidManifest.xml:146:13-150:29
+action#android.intent.action.PET
+ADDED from D:\a.SABUJ\androidStdio\MediCare\app\src\main\AndroidManifest.xml:147:17-68
+	android:name
+		ADDED from D:\a.SABUJ\androidStdio\MediCare\app\src\main\AndroidManifest.xml:147:25-65
+activity#com.example.medicare.Dairia
+ADDED from D:\a.SABUJ\androidStdio\MediCare\app\src\main\AndroidManifest.xml:152:10-160:20
+	android:label
+		ADDED from D:\a.SABUJ\androidStdio\MediCare\app\src\main\AndroidManifest.xml:154:13-45
+	android:name
+		ADDED from D:\a.SABUJ\androidStdio\MediCare\app\src\main\AndroidManifest.xml:153:13-35
+intent-filter#android.intent.action.DAIRIA+android.intent.category.DEFAULT
+ADDED from D:\a.SABUJ\androidStdio\MediCare\app\src\main\AndroidManifest.xml:155:13-159:29
+action#android.intent.action.DAIRIA
+ADDED from D:\a.SABUJ\androidStdio\MediCare\app\src\main\AndroidManifest.xml:156:17-71
+	android:name
+		ADDED from D:\a.SABUJ\androidStdio\MediCare\app\src\main\AndroidManifest.xml:156:25-68
+activity#com.example.medicare.Bomi
+ADDED from D:\a.SABUJ\androidStdio\MediCare\app\src\main\AndroidManifest.xml:161:9-169:20
+	android:label
+		ADDED from D:\a.SABUJ\androidStdio\MediCare\app\src\main\AndroidManifest.xml:163:13-45
+	android:name
+		ADDED from D:\a.SABUJ\androidStdio\MediCare\app\src\main\AndroidManifest.xml:162:13-33
+intent-filter#android.intent.action.BOMI+android.intent.category.DEFAULT
+ADDED from D:\a.SABUJ\androidStdio\MediCare\app\src\main\AndroidManifest.xml:164:13-168:29
+action#android.intent.action.BOMI
+ADDED from D:\a.SABUJ\androidStdio\MediCare\app\src\main\AndroidManifest.xml:165:17-69
+	android:name
+		ADDED from D:\a.SABUJ\androidStdio\MediCare\app\src\main\AndroidManifest.xml:165:25-66
+activity#com.example.medicare.PetaGas
+ADDED from D:\a.SABUJ\androidStdio\MediCare\app\src\main\AndroidManifest.xml:170:10-178:20
+	android:label
+		ADDED from D:\a.SABUJ\androidStdio\MediCare\app\src\main\AndroidManifest.xml:172:13-45
+	android:name
+		ADDED from D:\a.SABUJ\androidStdio\MediCare\app\src\main\AndroidManifest.xml:171:13-36
+intent-filter#android.intent.action.PETA_GAS+android.intent.category.DEFAULT
+ADDED from D:\a.SABUJ\androidStdio\MediCare\app\src\main\AndroidManifest.xml:173:13-177:29
+action#android.intent.action.PETA_GAS
+ADDED from D:\a.SABUJ\androidStdio\MediCare\app\src\main\AndroidManifest.xml:174:17-73
+	android:name
+		ADDED from D:\a.SABUJ\androidStdio\MediCare\app\src\main\AndroidManifest.xml:174:25-70
+activity#com.example.medicare.Alser
+ADDED from D:\a.SABUJ\androidStdio\MediCare\app\src\main\AndroidManifest.xml:179:9-187:20
+	android:label
+		ADDED from D:\a.SABUJ\androidStdio\MediCare\app\src\main\AndroidManifest.xml:181:13-45
+	android:name
+		ADDED from D:\a.SABUJ\androidStdio\MediCare\app\src\main\AndroidManifest.xml:180:13-34
+intent-filter#android.intent.action.ALSER+android.intent.category.DEFAULT
+ADDED from D:\a.SABUJ\androidStdio\MediCare\app\src\main\AndroidManifest.xml:182:13-186:29
+action#android.intent.action.ALSER
+ADDED from D:\a.SABUJ\androidStdio\MediCare\app\src\main\AndroidManifest.xml:183:17-70
+	android:name
+		ADDED from D:\a.SABUJ\androidStdio\MediCare\app\src\main\AndroidManifest.xml:183:25-67
+activity#com.example.medicare.KostoKathinno
+ADDED from D:\a.SABUJ\androidStdio\MediCare\app\src\main\AndroidManifest.xml:188:11-196:20
+	android:label
+		ADDED from D:\a.SABUJ\androidStdio\MediCare\app\src\main\AndroidManifest.xml:190:13-45
+	android:name
+		ADDED from D:\a.SABUJ\androidStdio\MediCare\app\src\main\AndroidManifest.xml:189:13-42
+intent-filter#android.intent.action.KOSTO_KATHINNO+android.intent.category.DEFAULT
+ADDED from D:\a.SABUJ\androidStdio\MediCare\app\src\main\AndroidManifest.xml:191:13-195:29
+action#android.intent.action.KOSTO_KATHINNO
+ADDED from D:\a.SABUJ\androidStdio\MediCare\app\src\main\AndroidManifest.xml:192:17-79
+	android:name
+		ADDED from D:\a.SABUJ\androidStdio\MediCare\app\src\main\AndroidManifest.xml:192:25-76
+activity#com.example.medicare.Toak
+ADDED from D:\a.SABUJ\androidStdio\MediCare\app\src\main\AndroidManifest.xml:197:9-205:20
+	android:label
+		ADDED from D:\a.SABUJ\androidStdio\MediCare\app\src\main\AndroidManifest.xml:199:13-45
+	android:name
+		ADDED from D:\a.SABUJ\androidStdio\MediCare\app\src\main\AndroidManifest.xml:198:13-33
+intent-filter#android.intent.action.TOAK+android.intent.category.DEFAULT
+ADDED from D:\a.SABUJ\androidStdio\MediCare\app\src\main\AndroidManifest.xml:200:13-204:29
+action#android.intent.action.TOAK
+ADDED from D:\a.SABUJ\androidStdio\MediCare\app\src\main\AndroidManifest.xml:201:17-69
+	android:name
+		ADDED from D:\a.SABUJ\androidStdio\MediCare\app\src\main\AndroidManifest.xml:201:25-66
+activity#com.example.medicare.Ham
+ADDED from D:\a.SABUJ\androidStdio\MediCare\app\src\main\AndroidManifest.xml:206:9-214:20
+	android:label
+		ADDED from D:\a.SABUJ\androidStdio\MediCare\app\src\main\AndroidManifest.xml:208:13-45
+	android:name
+		ADDED from D:\a.SABUJ\androidStdio\MediCare\app\src\main\AndroidManifest.xml:207:13-32
+intent-filter#android.intent.action.HAM+android.intent.category.DEFAULT
+ADDED from D:\a.SABUJ\androidStdio\MediCare\app\src\main\AndroidManifest.xml:209:13-213:29
+action#android.intent.action.HAM
+ADDED from D:\a.SABUJ\androidStdio\MediCare\app\src\main\AndroidManifest.xml:210:17-68
+	android:name
+		ADDED from D:\a.SABUJ\androidStdio\MediCare\app\src\main\AndroidManifest.xml:210:25-65
+activity#com.example.medicare.Alarji
+ADDED from D:\a.SABUJ\androidStdio\MediCare\app\src\main\AndroidManifest.xml:215:9-223:20
+	android:label
+		ADDED from D:\a.SABUJ\androidStdio\MediCare\app\src\main\AndroidManifest.xml:217:13-45
+	android:name
+		ADDED from D:\a.SABUJ\androidStdio\MediCare\app\src\main\AndroidManifest.xml:216:13-35
+intent-filter#android.intent.action.ALARJI+android.intent.category.DEFAULT
+ADDED from D:\a.SABUJ\androidStdio\MediCare\app\src\main\AndroidManifest.xml:218:13-222:29
+action#android.intent.action.ALARJI
+ADDED from D:\a.SABUJ\androidStdio\MediCare\app\src\main\AndroidManifest.xml:219:17-71
+	android:name
+		ADDED from D:\a.SABUJ\androidStdio\MediCare\app\src\main\AndroidManifest.xml:219:25-68
+activity#com.example.medicare.Mesta
+ADDED from D:\a.SABUJ\androidStdio\MediCare\app\src\main\AndroidManifest.xml:224:10-232:20
+	android:label
+		ADDED from D:\a.SABUJ\androidStdio\MediCare\app\src\main\AndroidManifest.xml:226:13-45
+	android:name
+		ADDED from D:\a.SABUJ\androidStdio\MediCare\app\src\main\AndroidManifest.xml:225:13-34
+intent-filter#android.intent.action.MESTA+android.intent.category.DEFAULT
+ADDED from D:\a.SABUJ\androidStdio\MediCare\app\src\main\AndroidManifest.xml:227:13-231:29
+action#android.intent.action.MESTA
+ADDED from D:\a.SABUJ\androidStdio\MediCare\app\src\main\AndroidManifest.xml:228:17-70
+	android:name
+		ADDED from D:\a.SABUJ\androidStdio\MediCare\app\src\main\AndroidManifest.xml:228:25-67
+activity#com.example.medicare.Porsab
+ADDED from D:\a.SABUJ\androidStdio\MediCare\app\src\main\AndroidManifest.xml:233:9-241:20
+	android:label
+		ADDED from D:\a.SABUJ\androidStdio\MediCare\app\src\main\AndroidManifest.xml:235:13-45
+	android:name
+		ADDED from D:\a.SABUJ\androidStdio\MediCare\app\src\main\AndroidManifest.xml:234:13-35
+intent-filter#android.intent.action.PORSAB+android.intent.category.DEFAULT
+ADDED from D:\a.SABUJ\androidStdio\MediCare\app\src\main\AndroidManifest.xml:236:13-240:29
+action#android.intent.action.PORSAB
+ADDED from D:\a.SABUJ\androidStdio\MediCare\app\src\main\AndroidManifest.xml:237:17-71
+	android:name
+		ADDED from D:\a.SABUJ\androidStdio\MediCare\app\src\main\AndroidManifest.xml:237:25-68
+activity#com.example.medicare.Dayabatics
+ADDED from D:\a.SABUJ\androidStdio\MediCare\app\src\main\AndroidManifest.xml:242:9-250:20
+	android:label
+		ADDED from D:\a.SABUJ\androidStdio\MediCare\app\src\main\AndroidManifest.xml:244:13-45
+	android:name
+		ADDED from D:\a.SABUJ\androidStdio\MediCare\app\src\main\AndroidManifest.xml:243:13-39
+intent-filter#android.intent.action.DAYABATICS+android.intent.category.DEFAULT
+ADDED from D:\a.SABUJ\androidStdio\MediCare\app\src\main\AndroidManifest.xml:245:13-249:29
+action#android.intent.action.DAYABATICS
+ADDED from D:\a.SABUJ\androidStdio\MediCare\app\src\main\AndroidManifest.xml:246:17-75
+	android:name
+		ADDED from D:\a.SABUJ\androidStdio\MediCare\app\src\main\AndroidManifest.xml:246:25-72
+activity#com.example.medicare.Jondis
+ADDED from D:\a.SABUJ\androidStdio\MediCare\app\src\main\AndroidManifest.xml:251:9-259:20
+	android:label
+		ADDED from D:\a.SABUJ\androidStdio\MediCare\app\src\main\AndroidManifest.xml:253:13-45
+	android:name
+		ADDED from D:\a.SABUJ\androidStdio\MediCare\app\src\main\AndroidManifest.xml:252:13-35
+intent-filter#android.intent.action.JONDIS+android.intent.category.DEFAULT
+ADDED from D:\a.SABUJ\androidStdio\MediCare\app\src\main\AndroidManifest.xml:254:13-258:29
+action#android.intent.action.JONDIS
+ADDED from D:\a.SABUJ\androidStdio\MediCare\app\src\main\AndroidManifest.xml:255:17-71
+	android:name
+		ADDED from D:\a.SABUJ\androidStdio\MediCare\app\src\main\AndroidManifest.xml:255:25-68
+activity#com.example.medicare.KidniPathor
+ADDED from D:\a.SABUJ\androidStdio\MediCare\app\src\main\AndroidManifest.xml:260:11-268:20
+	android:label
+		ADDED from D:\a.SABUJ\androidStdio\MediCare\app\src\main\AndroidManifest.xml:262:13-45
+	android:name
+		ADDED from D:\a.SABUJ\androidStdio\MediCare\app\src\main\AndroidManifest.xml:261:13-40
+intent-filter#android.intent.action.KIDNI_PATHOR+android.intent.category.DEFAULT
+ADDED from D:\a.SABUJ\androidStdio\MediCare\app\src\main\AndroidManifest.xml:263:13-267:29
+action#android.intent.action.KIDNI_PATHOR
+ADDED from D:\a.SABUJ\androidStdio\MediCare\app\src\main\AndroidManifest.xml:264:17-77
+	android:name
+		ADDED from D:\a.SABUJ\androidStdio\MediCare\app\src\main\AndroidManifest.xml:264:25-74
+activity#com.example.medicare.Rokto
+ADDED from D:\a.SABUJ\androidStdio\MediCare\app\src\main\AndroidManifest.xml:269:9-277:20
+	android:label
+		ADDED from D:\a.SABUJ\androidStdio\MediCare\app\src\main\AndroidManifest.xml:271:13-45
+	android:name
+		ADDED from D:\a.SABUJ\androidStdio\MediCare\app\src\main\AndroidManifest.xml:270:13-34
+intent-filter#android.intent.action.ROKTO+android.intent.category.DEFAULT
+ADDED from D:\a.SABUJ\androidStdio\MediCare\app\src\main\AndroidManifest.xml:272:13-276:29
+action#android.intent.action.ROKTO
+ADDED from D:\a.SABUJ\androidStdio\MediCare\app\src\main\AndroidManifest.xml:273:17-70
+	android:name
+		ADDED from D:\a.SABUJ\androidStdio\MediCare\app\src\main\AndroidManifest.xml:273:25-67
+activity#com.example.medicare.UccoRoktoChap
+ADDED from D:\a.SABUJ\androidStdio\MediCare\app\src\main\AndroidManifest.xml:278:9-286:20
+	android:label
+		ADDED from D:\a.SABUJ\androidStdio\MediCare\app\src\main\AndroidManifest.xml:280:13-45
+	android:name
+		ADDED from D:\a.SABUJ\androidStdio\MediCare\app\src\main\AndroidManifest.xml:279:13-42
+intent-filter#android.intent.action.UCCO_ROKTOCHAP+android.intent.category.DEFAULT
+ADDED from D:\a.SABUJ\androidStdio\MediCare\app\src\main\AndroidManifest.xml:281:13-285:29
+action#android.intent.action.UCCO_ROKTOCHAP
+ADDED from D:\a.SABUJ\androidStdio\MediCare\app\src\main\AndroidManifest.xml:282:17-79
+	android:name
+		ADDED from D:\a.SABUJ\androidStdio\MediCare\app\src\main\AndroidManifest.xml:282:25-76
+activity#com.example.medicare.RoktoSolpota
+ADDED from D:\a.SABUJ\androidStdio\MediCare\app\src\main\AndroidManifest.xml:287:9-295:20
+	android:label
+		ADDED from D:\a.SABUJ\androidStdio\MediCare\app\src\main\AndroidManifest.xml:289:13-45
+	android:name
+		ADDED from D:\a.SABUJ\androidStdio\MediCare\app\src\main\AndroidManifest.xml:288:13-41
+intent-filter#android.intent.action.ROKTO_SOLPOTA+android.intent.category.DEFAULT
+ADDED from D:\a.SABUJ\androidStdio\MediCare\app\src\main\AndroidManifest.xml:290:13-294:29
+action#android.intent.action.ROKTO_SOLPOTA
+ADDED from D:\a.SABUJ\androidStdio\MediCare\app\src\main\AndroidManifest.xml:291:17-78
+	android:name
+		ADDED from D:\a.SABUJ\androidStdio\MediCare\app\src\main\AndroidManifest.xml:291:25-75

@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="8dp">
+
+    <ScrollView
+        android:id="@+id/scrollView1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+
+            <TextView
+                android:id="@+id/tv_Ham"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="10dp"
+                android:gravity="center"
+                android:text="হাম"
+                android:textColor="#000000"
+                android:textSize="20sp" />
+
+            <TextView
+                android:id="@+id/tv_Ham1"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="লক্ষণ ও উপসর্গঃ"
+                android:textColor="#000000"
+                android:textSize="20sp" />
+
+            <TextView
+                android:id="@+id/tv_Ham2"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="১.১০৫ ডিগ্রীর মতো জ্বর।\n২.গ্রন্থির স্ফীতি।\n৩.নাকে সর্দি এবং শুকনো কাশি।\n৪.জলময় লাল চোখ এবং আলোর প্রতি সংবেদনশীলতা।\n৫.খাবারে অভক্তি,পেশিতে ব্যথা হওয়া।\n৬.মুখমন্ডলে ব্যাথাহীন ছোট ছোট ধূসর কিংবা সাদা রঙ্গের গোটা যার চারপাশে আবার লালচে বলয় দেখা যায়।\n৭.মুখে কিংবা গলায় লাল রঙ্গের গোটা উঠতে দেখা যায় এবং পরে তলপেটে,পিঠে বাহুতে এবং পায়ে ছড়াতে শুরু করে।"
+                android:textColor="#000000"
+                android:textSize="15sp" />
+
+            <TextView
+                android:id="@+id/tv_Ham3"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="কী করা উচিতঃ"
+                android:textColor="#000000"
+                android:textSize="20sp" />
+
+            <TextView
+                android:id="@+id/tv_Ham4"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="১.আপনার শিশু যেন প্রচুর পরিমাণে পানীয় পান করে সেদিকে যত্নশীল হোন।\n২.শিশু যেন বিছানায় শুয়ে যতো বেশি সম্ভব বিশ্রাম নিতে সক্ষম হয় সেদিকে লক্ষ্য নাখুন।\n৩. আপনার বাচ্চার রুমটিতে যেন বাতাসের আদ্রতা বজায় থাকে সে বিষয়ে লক্ষ্য রাকুন।\n৪.যদি আপনার বাচ্চার শরীরে হালকা ব্যথা বা যন্ত্রনা থাকে কিংবা জ্বর সংক্রান্ত অস্বস্তিবোধ থাকে সেক্ষেত্রে তাকে এসিটামিনোফেন দিন (তবে ১২ বছর বয়সের নিচে কোন শিশুর যদি চিকেন পক্স, ইনফ্লুয়েঞ্জা, কিংবা অন্যান্য কোন রোগ রয়েছে, এবং সেটা ভাইরাস বাহিত বলে আপনি মনে করেন সেক্ষেত্রে তাকে কোনভাবেই এ্যাসপিরিন দেবেন না)।\n৫.আপনার শিশু হাম বা মিজলে আক্রান্ত হবার ঝুঁকিসম্পন্ন অন্য সবার থেকে দূরে রাখুন"
+                android:textColor="#000000"
+                android:textSize="15sp" />
+
+            <TextView
+                android:id="@+id/tv_Ham5"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="কখন ডাক্তার দেখাবেনঃ"
+                android:textColor="#000000"
+                android:textSize="20sp" />
+
+            <TextView
+                android:id="@+id/tv_Ham6"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="১.আপনার বাচ্চার মাথা ব্যথা করে,যদি সে উজ্জ্বল আলো সহ্য করতে না পারে বা উজ্জ্বল আলোয় অত্যন্ত অস্বস্তি বোধ করে,যদি তার মধ্যে তন্দ্রালু ভাব লক্ষ্য করা যায় এবং তাকে জাগ্রত রাখা দুরূহ হয়ে উঠে। সেক্ষেত্রে এগুলো এনসেফালিটিস বা মস্তিক্ষ প্রদাহ এর লক্ষণ হতে পারে।\n২.যদি আপনার বাচ্চার শরীরে ১০২ কিংবা তারও বেশি জ্বর থাকে (ছয় মাস কিংবা তার থেকে ছোট বাচ্চাদের ক্ষেত্রে ১০০ ডিগ্রি বা তার বেশি জ্বর হলে)।\n৩.যদি আপনার বাচ্চার গায়ে কাপুনী থাকে,ঘাম থাকে কিংবা বুকে ব্যথা থাকে।\n৪.যদি বিশ্রামের সময় আপনার বাচ্চার দম কম বলে মনে হয় বা শ্বাস প্রশ্বাসে কোন অস্বাভাবিক অনিয়ম লক্ষ্য করেন।\n৫.যদি আপনার বাচ্চার শরীরে কোন গোটা ওঠে যেগুলোর লক্ষণ হাম বা মিজলের সাথে সামঞ্জস্যপূর্ণ।"
+                android:textColor="#000000"
+                android:textSize="15sp" />
+
+            <TextView
+                android:id="@+id/tv_Ham7"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="কীভাবে প্রতিরোধ করবেনঃ"
+                android:textColor="#000000"
+                android:textSize="20sp" />
+
+            <TextView
+                android:id="@+id/tv_Ham8"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="আপনার শিশু যেন এমএমআর (মিজল,মা পস, এবং রুবেলা)-এর টিকা পায় সেদিকে লক্ষ্য রাখুন। "
+                android:textColor="#000000"
+                android:textSize="15sp" />
+
+
+        </LinearLayout>
+    </ScrollView>
+
+</LinearLayout>

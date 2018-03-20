@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="8dp">
+
+    <ScrollView
+        android:id="@+id/scrollView1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+
+            <TextView
+                android:id="@+id/tv_roktoSolpota"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="10dp"
+                android:gravity="center"
+                android:text="রক্তাল্পতা"
+                android:textColor="#000000"
+                android:textSize="20sp" />
+
+            <TextView
+                android:id="@+id/tv_roktoSolpota1"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="লক্ষণ ও উপসর্গঃ"
+                android:textColor="#000000"
+                android:textSize="20sp" />
+
+            <TextView
+                android:id="@+id/tv_roktoSolpota2"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="১.দুর্বলতা এবং অবসাদ।\n২মলিন ত্বক;মাড়ির,নখের এবং চোখের পাপড়ীর রঙ ম্লান হয়ে যাওয়া।\n৩.শ্বাস প্রশ্বাসের সমস্যা বা দম কমে যাওয়া বা অল্পতেই হাপিয়ে ওঠা।\n৪.মাথা ব্যথা,মাথা ঘোরা এবং জ্ঞান হারানো।\n৫.মনোযোগ দিতে সমস্যা হওয়া।"
+                android:textColor="#000000"
+                android:textSize="15sp" />
+
+            <TextView
+                android:id="@+id/tv_roktoSolpota3"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="ভিটামিন বি ১২-এর অভাবজনিত রক্তাল্পতাঃ"
+                android:textColor="#000000"
+                android:textSize="20sp" />
+
+            <TextView
+                android:id="@+id/tv_roktoSolpota4"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="১.উপরে বণিত লক্ষণ ও উপসর্গ এবং সেই সাথেঃ\n২.মুখ ও জিহ্বায় ব্যথা এবং ফুলে ওঠা।\n৩.হাতে এবং পায়ের পাতায় টন টনে ব্যথা হওয়া।\n৪.হাটতে এবং শরীরের ভারসাম্য বজায় রাখতে সমস্যা হওয়া।\n৫.স্মৃতি শক্তি কমে যাওয়া এবং বিভ্রান্তি।"
+                android:textColor="#000000"
+                android:textSize="15sp" />
+
+            <TextView
+                android:id="@+id/tv_roktoSolpota5"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="আইরন বা খনিজ লৌহ- এর অভাবজনিত রক্তাল্পতাঃ"
+                android:textColor="#000000"
+                android:textSize="20sp" />
+
+            <TextView
+                android:id="@+id/tv_roktoSolpota6"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="১.উপরে বর্ণিত লক্ষণ ও উপসর্গ এবং সেই সাথেঃ\n২.ভঙ্গুর নখ।\n৩.পায়ুনালীতে রক্তপাতের লক্ষণ হিসেবে কালো কিংবা রক্তাক্ত মল।"
+                android:textColor="#000000"
+                android:textSize="15sp" />
+
+            <TextView
+                android:id="@+id/tv_roktoSolpota7"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="ফলিক এসিডের অভাবজনিত রক্তাল্পতাঃ"
+                android:textColor="#000000"
+                android:textSize="20sp" />
+
+            <TextView
+                android:id="@+id/tv_roktoSolpota8"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="১.উপরে বর্ণিত লক্ষণ ও উপসর্গ এবং সেই সাথেঃ\n২.মুখে ও জিহ্বায় ব্যথা।\n৩.তলপেট বা উদর স্ফীতে।\n৪.খাবারের প্রতি অনীহা,বিতৃষ্ণাবোধ এবং ডায়রিয়া।"
+                android:textColor="#000000"
+                android:textSize="15sp" />
+
+            <TextView
+                android:id="@+id/tv_roktoSolpota9"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="কী করা উচিতঃ"
+                android:textColor="#000000"
+                android:textSize="20sp" />
+
+            <TextView
+                android:id="@+id/tv_roktoSolpota10"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="১.যদি আপনার আশঙ্কা হয় যে আপনি রক্তাল্পতায় আক্রান্ত হয়েছেন সেক্ষেত্রে ডাক্তারের শরণাপন্ন হোন।ডাক্তারের পরামর্শ ব্যতিরেকে খনিজ লৌহের অভাব পূরণ করে এরকম ঔষুধ বা আয়রন সাপ্লিমেন্ট সেবন করবেন না।খুব বেশি আয়রন সেবনের ফলেও রক্তাল্পতার লক্ষণ দেখা যেতে পারে এবং আপনার অবস্থা আরও গুরুতর হয়ে উঠতে পারে।"
+                android:textColor="#000000"
+                android:textSize="15sp" />
+
+            <TextView
+                android:id="@+id/tv_roktoSolpota11"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="কখন ডাক্তার দেখাবেনঃ"
+                android:textColor="#000000"
+                android:textSize="20sp" />
+
+            <TextView
+                android:id="@+id/tv_roktoSolpota12"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="যদি আপনি ইতিমধ্যেই আয়রন সাপ্লিমেন্ট সেবন শুরু করে থাকেন এবং নিম্নোক্ত লক্ষণগুলো দেকে থাকেনঃ"
+                android:textColor="#000000"
+                android:textSize="15sp" />
+
+            <TextView
+                android:id="@+id/tv_roktoSolpota13"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="১.জ্বর ও বমি।\n২.তীব্র আলস্য এবং/বা হৃদরোগের আক্রমণ হয়ে থাকে।\n৩.ডায়রিয়ার সাথে রক্তাক্ত মল।\n৪.এই লক্ষণগুলো দেখা গেলে আপনার শরীরে আয়রনের আধিক্য দেখা গিয়েছে এবং এটা মারাত্মক হয়ে উঠতে পারে।"
+                android:textColor="#000000"
+                android:textSize="20sp" />
+
+            <TextView
+                android:id="@+id/tv_roktoSolpota14"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="জরুরী ভিত্তিতে ডাক্তারের শরণাপন্ন হোন যদিঃ"
+                android:textColor="#000000"
+                android:textSize="20sp" />
+
+            <TextView
+                android:id="@+id/tv_roktoSolpota15"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="১.রক্তাল্পতার লক্ষণ দেখা যায়।\n২.যদি পুষ্টিজনিত কারণে রক্তাল্পতার চিকিৎসা নেবার দুই সপ্তাহের মধ্যেও আপনার অবস্থার কোন উন্নতি না হয়।"
+                android:textColor="#000000"
+                android:textSize="20sp" />
+
+            <TextView
+                android:id="@+id/tv_roktoSolpota16"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="কীভাবে প্রতিরোধ করবেনঃ"
+                android:textColor="#000000"
+                android:textSize="20sp" />
+
+            <TextView
+                android:id="@+id/tv_roktoSolpota17"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="দেহে বি ১২ ভিটামিনের পর্যাপ্ততার জন্যেঃ"
+                android:textColor="#000000"
+                android:textSize="20sp" />
+
+            <TextView
+                android:id="@+id/tv_roktoSolpota18"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="১.আপনার খাদ্য তালিকায় মাংস,মুরগী,মাছ এবং দুধ জাতীয় তরল খাবারের যোগ করুন।"
+                android:textColor="#000000"
+                android:textSize="20sp" />
+
+            <TextView
+                android:id="@+id/tv_roktoSolpota19"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="দেহে যথেষ্ট ফলিক এসিডের সরবরাহ করতেঃ"
+                android:textColor="#000000"
+                android:textSize="20sp" />
+
+            <TextView
+                android:id="@+id/tv_roktoSolpota20"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="১.টক ফল বা সাইট্রিক যুক্ত ফল যেমন (কমলা,আঙ্গুর),সবুজ শাকসবজি এবং শুকনো সিমের বিচি জাতীয় খাবারগুলো খাবেন।এছাড়া কলিজা,ডিম ও দুধ খাবেন।\n২.আপনার মদ পানের অভ্যাস থাকলে,যদি আপনি পুরুষ হন সেক্ষেত্রে দিনে ২৫০এম এল এর বেশী মোটেও পান করবেন না,আর নারী হলে ১২৫ এম এল এর বেশি নয়।তবে স্বাস্থ সার্বিকভাবে ভালো রাখতে কখনও মদ না খাওয়াই উত্তম,যদি একান্তই সেটা সম্ভব না হয় তবে সপ্তাহে তিন বার মদ পান করবেন এর বেশি নয়।তাছাড়া এলকোহল আপনার দেহের খনিজ লৌহ হজমের ক্ষমতাকে নষ্ট করে দেয়।\n৩.যদি আপনি গর্ভবতী নারী হন,কিংবা নার্সিং পেশার সাথে যুক্ত হন কিংবা আপনার মাসিকের সময় যদি খুব বেশী রক্তপাত হয় সেক্ষেত্রে ডাক্তারের সাথে  বিষয়ে আলাপ করুন।"
+                android:textColor="#000000"
+                android:textSize="15sp" />
+
+            <TextView
+                android:id="@+id/tv_roktoSolpota21"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="দেহে খনিজ লৌহের পর্যাপ্ততার জন্যেঃ"
+                android:textColor="#000000"
+                android:textSize="20sp" />
+
+            <TextView
+                android:id="@+id/tv_roktoSolpota22"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="১.খাবার আহার করার সময় চা বা কফি খাবেন না।চা বা কফিতে এমন উপাদান থাকে যেটা দেহকে খাবারের খনিজ লৌহ উপাদান হজমে বাধা দান করে।\n২.যেসব খাবারে খনিজ লোহার পরিমাণ বেশি যেমন আলু,কিসমিস,শুকনো বিচি,যব, এবং গুড় ইত্যাদি আহার করুন।মাংস,কলিজা এবং সামুদ্রিক মাছ ইত্যাদি আহার করুন। "
+                android:textColor="#000000"
+                android:textSize="15sp" />
+
+        </LinearLayout>
+    </ScrollView>
+</LinearLayout>

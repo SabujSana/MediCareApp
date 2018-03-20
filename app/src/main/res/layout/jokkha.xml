@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="8dp">
+
+    <ScrollView
+        android:id="@+id/scrollView1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+
+            <TextView
+                android:id="@+id/tv_jokkha"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:text="যক্ষা\n"
+                android:textColor="#000000"
+                android:textSize="20sp" />
+
+            <TextView
+                android:id="@+id/tv_jokkha1"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="যক্ষার সংক্রমণঃ"
+                android:textColor="#000000"
+                android:textSize="20sp" />
+
+            <TextView
+                android:id="@+id/tv_jokkha2"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="১.হালকা কাশি (কখনও কখনও)।\n২.কোন লক্ষণ না থাকলেও আপনার এ রোগের ক্ষত থাকতে পারে।"
+                android:textColor="#000000"
+                android:textSize="15sp" />
+
+            <TextView
+                android:id="@+id/tv_jokkha3"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="যক্ষা রোগঃ"
+                android:textColor="#000000"
+                android:textSize="20sp" />
+
+            <TextView
+                android:id="@+id/tv_jokkha4"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="১.কাশি,মাঝে মধ্যে রক্তসহ শ্লেষ্মার নির্গমন।\n২.বুকে ব্যাথা।\n৩.হালকা জ্বর।\n৪.ওজন কমে যাওয়া এবং অবসাদ।\n৫.রাতের বেলায় ঘামানো।"
+                android:textColor="#000000"
+                android:textSize="15sp" />
+
+            <TextView
+                android:id="@+id/tv_jokkha5"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="কী করা উচিতঃ"
+                android:textColor="#000000"
+                android:textSize="20sp" />
+
+            <TextView
+                android:id="@+id/tv_jokkha6"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="যদি আপনি যক্ষা রোগে আক্রান্ত হন সেক্ষেত্রে এটা খুবই জরুরী যে আপনি সঠিকভাবে নিয়মিত চিকিৎসা গ্রহণ করবেন এবং ডাক্তারের পরামর্শ পুঙ্খানুপুঙ্খরূপে পালন করবেন।"
+                android:textColor="#000000"
+                android:textSize="15sp" />
+
+            <TextView
+                android:id="@+id/tv_jokkha7"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="কখন ডাক্তার দেখাবেনঃ"
+                android:textColor="#000000"
+                android:textSize="20sp" />
+
+            <TextView
+                android:id="@+id/tv_jokkha8"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="১.যদি আপনার সন্ধেহ হয় যে অনেকদিন যাবৎ আপনি যক্ষা রোগে ভুগছেন।\n২.যদি আপনি এই রোগের বিভিন্ন লক্ষণ বা উপসর্গগুলো দেখতে পান।\n৩.যদি যক্ষা রোগের চিকিৎসার মাঝখানে আপনি নতুন কোন উপসর্গ বা লক্ষণ দেখতে পান।"
+                android:textColor="#000000"
+                android:textSize="15sp" />
+
+            <TextView
+                android:id="@+id/tv_jokkha9"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="কীভাবে প্রতিরোধ করবেনঃ"
+                android:textColor="#000000"
+                android:textSize="20sp" />
+
+            <TextView
+                android:id="@+id/tv_jokkha10"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="১.অধিকাংশ মানুষই যক্ষার ঝুঁকি থেকে মুক্ত,তাই তাদের তেমন কোন বিশেষ প্রতিকার ব্যবস্থা গ্রহণের প্রয়োজন পড়ে না ।\n২.আপনি যদি নিম্নোক্ত বেশি ঝুঁকির মানুষগুলোর মধ্যে পড়েন,সেক্ষেত্রে বরং ডাক্তারের সাথে পরামর্শ করে পরীক্ষা-নিরিক্ষা,প্রতিকার এবং প্রতিরোধের টিকা নিন(তবে টিকা যে একশ ভাগ নিশ্চিত কাজ করবে এমন বলা যায় না )।\n৩.যদি আপনি এইচআইভি পজিটিভ হন।\n৪.যদি আপনি কোন যক্ষা রোগীর সাথে দীর্ঘদিন ঘনিষ্ঠ জীবন যাপন করে থাকেন,কিংবা এমন কোথাও কাজ করে থাকেন যেমন –হাসপাতালে,আবাসহীনদের গৃহাবাসন প্রকল্পে কিংবা আবাসিক পরিচর্যা সুবিধা দানকারী কোন সংস্থায় কাজ করে থাকেন ।\n৫.যদি আপনার শিশুদের স্কুলে টিবি রোগ ছড়িয়ে থাকে,সেক্ষেত্রে আপনার শিশুকে পরীক্ষা করে দেখুন।\n৬.যদি আপনি কোন দেশে যেখানে যক্ষা রোগের ছড়াছড়ি রয়েছে এবং সেখানে কোন ঘনবসতিপূর্ণ এলাকায় থেকে থাকেন।"
+                android:textColor="#000000"
+                android:textSize="15sp" />
+        </LinearLayout>
+    </ScrollView>
+
+
+</LinearLayout>

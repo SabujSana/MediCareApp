@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="8dp">
+
+    <ScrollView
+        android:id="@+id/scrollView1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+
+            <TextView
+                android:id="@+id/tv_alarji"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="10dp"
+                android:gravity="center"
+                android:text="এ্যালার্জি"
+                android:textColor="#000000"
+                android:textSize="20sp" />
+
+            <TextView
+                android:id="@+id/tv_alarji1"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="লক্ষণ ও উপসর্গঃ"
+                android:textColor="#000000"
+
+                android:textSize="20sp" />
+
+            <TextView
+                android:id="@+id/tv_alarji2"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="খাবার থেকে উৎপন্ন এ্যালার্জিঃ"
+                android:textColor="#000000"
+                android:textSize="20sp" />
+
+            <TextView
+                android:id="@+id/tv_alarji3"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="১.পাকস্থলিতে প্রদাহ এবং/কিংবা প্রায়ই হজমের সমস্যা বা বদ হজম।\n২.লাল,ফুলে ওঠা ত্বকে জ্বালা-পোড়া করা বা চুলকানোর অনুভব হওয়া।"
+                android:textColor="#000000"
+                android:textSize="15sp" />
+
+            <TextView
+                android:id="@+id/tv_alarji4"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="ওষুধ থেকে উৎপন্ন এ্যালার্জিঃ"
+                android:textColor="#000000"
+                android:textSize="20sp" />
+
+            <TextView
+                android:id="@+id/tv_alarji5"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="১.লাল,ফুলে ওঠা ত্বকে জ্বালা-পোড়া করা বা চুলকানোর অনুভব হওয়া।মাঝে মাঝে ইনফ্লুয়েঞ্জার প্রাদুর্ভাবের লক্ষণ যেমন হালকা জ্বর হওয়া,মাথা ব্যথা করা এবং অস্থি-সংযোগ বা গিড়াই গিড়াই ব্যথা হওয়া।"
+                android:textColor="#000000"
+                android:textSize="15sp" />
+
+            <TextView
+                android:id="@+id/tv_alarji6"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="এ্যালার্জি থেকে উৎপন্ন হাপানিঃ"
+                android:textColor="#000000"
+                android:textSize="20sp" />
+
+            <TextView
+                android:id="@+id/tv_alarji7"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="১.হাচি দেয়া,শ্বাস নেবার সময় বুকে শন শন করে শব্দ হওয়া,কাশি দেয়া ।কোন কোন ক্ষেত্রে,শ্বাস নিতে কষ্ট হওয়া।হে ফিভার(ধুলা বা ফুলের রেণু দ্বারা সৃষ্ট নাক ও গলার রোগ,এ্যালার্জিক রিনিটিস,শ্বাসপ্রশ্বাস সংক্রান্ত রোগ)"
+
+                android:textColor="#000000"
+                android:textSize="15sp" />
+
+            <TextView
+                android:id="@+id/tv_alarji8"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="১.বার বার হাঁচি দেয়া।\n২.নাক থেকে সর্দি গড়িয়ে পড়া কিংবা নাক বন্ধ হয়ে থাকা।\n৩.চোখে চুলকানি হওয়া কিংবা চোখ সজল হয়ে থাকা।\n৪.গলার পেছনে,ভেতরে কিংবা মুখের ভেতর তালুতে চুলকানো বা অস্বস্তি বোধ করা।"
+                android:textColor="#000000"
+                android:textSize="15sp" />
+
+            <TextView
+                android:id="@+id/tv_alarji9"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="কী করা উচিতঃ"
+                android:textColor="#000000"
+                android:textSize="20sp" />
+
+            <TextView
+                android:id="@+id/tv_alarji10"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="১.সিগারেট বর্জন করুন, ধুমপান ত্যাগ করুন এবং পোকা-মাকড় নিধনের জন্যে স্প্রে করা পরিত্যাগ করুন(যেমন মশা তাড়াবার এ্যারোসল)।এবং যেদিনগুলোতে ঘরের বাইরে খুব বেশী দূষনের আশঙ্কা রয়েছে সে দিনগুলোতে ঘরে থাকুন।\n২.পুষ্পরেণুর মাধ্যমে যদি আপনার মধ্যে এলার্জি জেগে ওঠে,সেক্ষেত্রে যেসব ঝড়ো বাতাসের দিনে বাইরে বেশি পুষ্পরেণু থাকে সেদিনগুলোতেও ঘরে থাকুন।\n৩.পোকা-মাকরের কামড় কিংবা কোন খাবার খেলে যদি আপনার মধ্যে তীব্রভাবে এ্যালার্জি দেখা যায় সেক্ষেত্রে একজন ডাক্তারের কাছ থেকে জরুরী পাথেও নিতে পারেন যেটাতে এন্টিহিসটামিন এবং এডরেনালাইন রয়েছে।এবং এই ঔষধটি সবসময় সাথে রাখুন।\n৪.আপনার চোখ যদি প্রায়ই সজল হয়ে ওঠে এবং চোখে চুলকানোর মতো অনুভুতি হয় সেক্ষেত্রে ডাক্তারের পরামর্শ অনুযায়ী এন্টিহিসটামিন আইড্রপ ব্যবহার করতে পারেন।"
+                android:textColor="#000000"
+                android:textSize="20sp" />
+
+            <TextView
+                android:id="@+id/tv_alarji11"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="কখন ডাক্তার দেখাবেনঃ"
+                android:textColor="#000000"
+                android:textSize="20sp" />
+
+            <TextView
+                android:id="@+id/tv_alarji12"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="জরুরী ভিত্তিতে চিকিৎসা সুবিধা গ্রহণ করুনঃ"
+                android:textColor="#000000"
+                android:textSize="20sp" />
+
+            <TextView
+                android:id="@+id/tv_alarji13"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="১.যদি আপনার পাকস্থলিতে চাপ বোধ করেন বা মনে হয় যে পাকস্থলি চেপে আসছে,যদি বমি হয়,দুর্গন্ধযুক্ত ঢেক ওঠে কিংবা পাতলা পায়খানা হয়।কোন খাবারের এ্যালার্জির কারণে তীব্র প্রতিক্রিয়াবশত এটা হতে পারে।\n২.যদি আপনার এ্যালার্জিসংক্রান্ত সমস্যাগুলো বার বার হতে থাকে।একজন এ্যালার্জি বিশেষজ্ঞর পরামর্শ নিয়ে বিভিন্ন পরীক্ষার মাধ্যমে আপনার এ্যালার্জির কারণগুলো চিহ্নিত করা যেতে পারে।\n৩.যদি শ্বাস নেয়াটা আপনার পক্ষে খুবই দূবুহ হয়ে ওঠে কিংবা অত্যন্ত কষ্টকর হয়ে ওটে সেক্ষেত্রে আপনার হয়তো হাপানী বা এ্যাজমা হয়েছে।\n৪.যদি আপনার হৃদকম্পন বা হার্টবিট অত্যন্ত দ্রুত হবার সমস্যা থাকে কিংবা ত্বক ফুলে ওঠে,রক্তিমাভা ধারণ করা,চুলকানি কিংবা মাথা ঘোরার  সমস্যা থাকে এবং শ্বাস নিতে সমস্যা হয়।সেক্ষেত্রে আপনি হয়তো মারাত্মক এবং অত্যন্ত আশঙ্কাজনক প্রতিক্রিয়ার শিকার –এই অসুখের নাম এনাফাইলাকটিক শক।"
+                android:textColor="#000000"
+                android:textSize="20sp" />
+
+            <TextView
+                android:id="@+id/tv_alarji14"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+
+                android:text="কীভাবে প্রতিরোধ করবেনঃ"
+                android:textColor="#000000"
+                android:textSize="20sp" />
+
+            <TextView
+                android:id="@+id/tv_alarji15"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="১.জানতে চেষ্টা করুন যে কোন জিনিসগুলো আপনার মধ্যে এ্যালার্জির জন্ম দেয় এবং সে জিনিসগুলো থেকে দূরে থাকুন।যদি কোন সাধারণ ঔষুধ যেমন পেনিসিলিন,ইত্যাদির প্রতি আপনার এ্যানার্জি থাকে,সেক্ষেত্রে আপনি একটা চিকিৎসা সতর্কতাজ্ঞাপক লেবেল বা ব্রেসলেট পরিধান করতে পারেন।\n২.যদি কুকুর বা বেড়াল থেকে আপনার এ্যালার্জি জন্ম নেয়ার প্রবণতা থাকে সেক্ষেত্রে এই প্রাণিগুলোর সংস্পর্শ থেকে দূরে থাকুন কিংবা নূন্যতম এই প্রাণিগুলোর গোসল ঠিকমত করানো হচ্ছে কিনা সেটা নিশ্চিত করুন। এবং এগুলোকে আপনার শোবার ঘর থেকে দূরে রাখুন।\n৩. যদি স্যাতস্যাতে আবহাওয়ার থেকে উদ্ভুত ছত্রাক থেকে আপনার এ্যালার্জি জনাম নেয়ার প্রবণতা থাকে সেক্ষেত্রে আপনার ঘর পরিষ্কার ও শুষ্ক রাখুন,বিশেষত মূল জায়গাগুলোকে, যেমন আপনার বেডরুম,রেফ্রিজারেটরের যে ট্রেটিতে পানি চুইয়ে পড়ে সেটা এবং স্টোর রুম ইত্যাদি।\n৪.পারেন যদি ভ্যাকাম ক্লিনার দিয়ে ঘরের ধুলো টেনে নিতে পারেন,ভালো হয় যদি এ কাজটা আপনার হয়ে অন্য কেউ করে দেয়।\n৫.যদি আপনার মধ্যে প্রকটভাবে খাদ্যদ্রব্যের এ্যালার্জি থাকে সেক্ষেত্রে সে খাবারের গায়ে লেবেলে দেখে নিন সেটা কোন এ্যালার্জির জন্ম দেয় কিনা। এবং যখন খাবার খেতে বাইরে কোথাও যাবেন সেখানে জীজ্ঞেস করতে ভুলবেন না, আহার্যের উপাদান কি কি।"
+                android:textColor="#000000"
+                android:textSize="20sp" />
+
+        </LinearLayout>
+    </ScrollView>
+</LinearLayout>

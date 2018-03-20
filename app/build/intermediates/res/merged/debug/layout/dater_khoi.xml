@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="8dp">
+
+    <ScrollView
+        android:id="@+id/scrollView1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_marginBottom="10dp"
+            android:orientation="vertical">
+
+            <TextView
+                android:id="@+id/tv_daterKhoi"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:text="দাঁতের ক্ষয় "
+                android:textColor="#000000"
+                android:textSize="20sp" />
+
+            <TextView
+                android:id="@+id/tv_daterKhoi1"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="লক্ষণ ও উপসর্গঃ"
+                android:textColor="#000000"
+                android:textSize="20sp" />
+
+            <TextView
+                android:id="@+id/tv_daterKhoi2"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="১.দাঁতে ব্যথা।\n২.মুখমণ্ডলে ব্যথা।\n৩.স্পষ্টতই দাঁতের করুন দশা।\n৪.মুখমণ্ডলে টান টান ব্যথা এবং চোয়ালের পেশিতে পীড়া।\n৫.হালকা কিংবা তীব্র মাথা ব্যথা কিংবা মাইগ্রেন।\n৬.দাঁতের গোঁড়া আলগা হয়ে যাওয়া কিংবা দাঁতের গোঁড়ায় ব্যথা ,বিশেষত ঘুম থেকে উঠার পর ।"
+                android:textColor="#000000"
+                android:textSize="15sp" />
+
+            <TextView
+                android:id="@+id/tv_daterKhoi3"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="কী করা উচিতঃ"
+                android:textColor="#000000"
+                android:textSize="20sp" />
+
+            <TextView
+                android:id="@+id/tv_daterKhoi4"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="১.চুইঙ্গাম ,তামাক ,পেনসিল কিংবা অন্যন্য অখাদ্য দ্রব্যগুলো মুখে নিয়ে চেবানো বা কামরা-কামড়ি করা পরিত্যাগ করা।\n২.দিনের বেলায় চোয়ালটাকে শিথিল করা এবং দুই পাটির দাঁত কিছুটা  ব্যবধানে রাখার চেষ্টা করায় মনঃসংযোগ করতে হবে।\n৩.আপনার মুখমণ্ডলের একপাশে একটা উষ্ণ ভেজা কাপড় চেপে ধরে রাখুন। এতে আপনার চোয়ালে স্বস্তি পাবেন।\n৪.যদি আপনার মনে হয় যে অতিরিক্ত চাপের কারনে আপনার এই সমস্যা হচ্ছে সেক্ষেত্রে শিথিলায়নের বিভিন্ন পন্থাগুলো চর্চা করুন ,যেমন মেডিটেশন ,কিংবা যোগ ব্যায়াম।"
+                android:textColor="#000000"
+                android:textSize="15sp" />
+
+            <TextView
+                android:id="@+id/tv_daterKhoi5"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="কখন ডাক্তার দেখাবেনঃ"
+                android:textColor="#000000"
+                android:textSize="20sp" />
+
+            <TextView
+                android:id="@+id/tv_daterKhoi6"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="১.যদি মাস খানেক সময় ধরে ঘরোয়া চিকিৎসা সত্ত্বেও কোন উপকার না পেয়ে থাকেন ,কিংবা যদি মনে হয় যে কোন একটা দাঁত না থাকার কারনে বা কোন কিছুতে কামড় দিতে গিয়ে সমস্যা হচ্ছে ,সেক্ষেত্রে একজন ডেন্টিস্টেও সহায়তায় আপনার এ সমস্যা দূর হতে পারে,সে আপনার মুখে মাউথ গার্ড কিংবা বাইট প্যালেট লাগিয়ে দিতে পারে।\n২.যদি এক কিংবা দুই দিনের বেশি সময় ধরে আপনার দাঁতে বথা কিংবা চোয়ালে পীড়া বজায় থাকে। এই লক্ষণগুলো দাঁতের ক্ষয়ের লক্ষণ হতে পারে।\n৩.যদি মনে হয় অতিরিক্ত চাপের কারনে আপনার এই সমস্যাটা রয়ে গেছে,সেক্ষেত্রে আপনি একজন ডেন্টিস্টের পরামর্শ অনুযায়ী চোয়ালের পেশি শিথিলকারি কোন ওষুধ সেবন করতে বা মলম লাগাতে পারেন।"
+                android:textColor="#000000"
+                android:textSize="15sp" />
+
+            <TextView
+                android:id="@+id/tv_daterKhoi7"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="কীভাবে প্রতিরোধ করবেনঃ"
+                android:textColor="#000000"
+                android:textSize="20sp" />
+
+            <TextView
+                android:id="@+id/tv_daterKhoi8"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="১.নিজের কাজের চাপ বা দূঃশিচন্তা  দূর করার জন্য কিছু অভ্যাস গড়ে তোলার চেষ্টা করুন ,এবং মানসিক এবং শারীরিকভাবে শিথিলথাকার চেষ্টা করুন, বিশেষতঃ ঘুমাবার সময় । ঘুমোতে যাবার আগে সম্বব হলে একটু উষ্ণ জলে স্লান করে নিন,কিংবা প্রশান্তিকর সঙ্গিত শুনুন ।এবং বড় বড় শ্বাস ও প্রশ্বাসের চর্চা এবং ধ্যান বা মেডিটেশন চর্চা করুন।\n২.যেসব খাদ্য দ্রব্যে ক্যাফেইন রয়েছে যেমন,কফি ,চা,কোকাকোলা  ইত্যাদি এবং চকলেট সেগুলো পরিহার করুন ।"
+                android:textColor="#000000"
+                android:textSize="15sp" />
+
+
+        </LinearLayout>
+    </ScrollView>
+
+</LinearLayout>

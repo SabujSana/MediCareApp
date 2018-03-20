@@ -1,0 +1,278 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="8dp">
+
+    <ScrollView
+        android:id="@+id/scrollView1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+
+            <TextView
+                android:id="@+id/tv_mathaBatha"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="10dp"
+                android:gravity="center"
+                android:text="মাথা ব্যথা"
+                android:textColor="#000000"
+                android:textSize="20sp" />
+
+            <TextView
+                android:id="@+id/tv_mathaBatha1"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="দৈনন্দিন জীবনে মাথা ব্যথা খুব সাধারণ একটি সমস্যা। যদিও বেশীর ভাগ মাথা ব্যথা বিরক্তিকর, তবে বেশীর ভাগ মাথা ব্যথাই মারাত্মক রোগ নির্দেশ করেনা। দুশ্চিন্তা ও মাইগ্রেন শতকরা ৯০ ভাগ মাথা ব্যথার জন্য দায়ী। মাথা ব্যথা নানা রকমের। টেনশন হেডেক বা দুশ্চিন্তাজনিত মাথা ব্যথা, মাইগ্রেন হেডেক, ক্লাস্টার হেডেক, সাইনাস হেডেক, আর্জেন্ট হেডেক, আইহেডেক বা চক্ষুজনিত মাথা ব্যথা, হরমোনজনিত মাথা ব্যথা। তাছাড়া মগজের টিউমার, মগজের ঝিল্লির ভিতর রক্তপাত, উচ্চ রক্তচাপ ইত্যাদি কারণেও মাথা ব্যথা হয়।"
+                android:textColor="#000000"
+                android:textSize="15sp" />
+
+            <TextView
+                android:id="@+id/tv_mathaBatha2"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="টেনশন হেডেক বা দুশ্চিন্তাজনিত মাথা ব্যথাঃ"
+                android:textColor="#000000"
+                android:textSize="20sp" />
+
+            <TextView
+                android:id="@+id/tv_mathaBatha3"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="মাথা ব্যথা মাথার উভয় দিকে হয়। মাথায় তীব্র চাপ অনুভূত হয় এবং ব্যথা ঘাড়ে সংক্রমিত হতে পারে। মানসিক চাপে ব্যথা বাড়তে পারে। পুরুষ, মহিলা সমানভাবে আক্রান্ত হয়।"
+                android:textColor="#000000"
+                android:textSize="15sp" />
+
+            <TextView
+                android:id="@+id/tv_mathaBatha4"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="লক্ষণসমূহঃ"
+                android:textColor="#000000"
+                android:textSize="20sp" />
+
+            <TextView
+                android:id="@+id/tv_mathaBatha5"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="১.মাথা ব্যথা সাধারণত:মাথার পিছনে দুই দিকে ও ঘাড়ে অনুভূত হয়।\n২.মাথা ব্যথা সপ্তাহব্যাপী বা মাসব্যাপী স্থায়ী হয়। তবে ব্যথার তীব্রতা বিভিন্ন সময় বিভিন্ন রকমের হতে পারে।\n৩.মাথা ব্যথা দিনের যে কোন সময় হতে পারে।\n৪.মাথায় চাপ অনুভূত হয়। কিন্তু ব্যথার সাথে কখনো জ্বর থাকে না।"
+                android:textColor="#000000"
+                android:textSize="15sp" />
+
+            <TextView
+                android:id="@+id/tv_mathaBatha6"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="চিকিৎসাঃ"
+                android:textColor="#000000"
+                android:textSize="15sp" />
+
+            <TextView
+                android:id="@+id/tv_mathaBatha7"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="সাধারণত বেদনা নাশক দ্ব্বারা চিকিত্সা করা হয়। স্বল্পমাত্রার ট্র্যাঙ্কুলাইজারও দেয়া যেতে পারে।"
+                android:textColor="#000000"
+                android:textSize="15sp" />
+
+            <TextView
+                android:id="@+id/tv_mathaBatha8"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="মাইগ্রেন-এর মাথা ব্যথাঃ"
+                android:textColor="#000000"
+                android:textSize="20sp" />
+
+            <TextView
+                android:id="@+id/tv_mathaBatha9"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="শতকরা ১০-১৫ ভাগ লোক এ ধরণের মাথা ব্যথায় আক্রান্ত হয়। মাইগ্রেন মহিলাদের বেশী হয়। সাধারণত: ১৫-১৬ বছর বয়স থেকে মাইগ্রেনের লক্ষণ দেখা দেয় এবং বেশীর ভাগ ক্ষেত্রেই ৪০-৫০ বছর বয়স পর্যন্ত স্থায়ী হয়। মাইগ্রেনের আক্রমণের সময় মগজের রাসায়নিক বাহক সেরোটনিন-এর মাত্রা বেড়ে যায় এবং মাথা বাইরের ধমনীগুলো প্রসারিত হয়।"
+                android:textColor="#000000"
+                android:textSize="15sp" />
+
+            <TextView
+                android:id="@+id/tv_mathaBatha10"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="লক্ষণসমূহঃ"
+                android:textColor="#000000"
+                android:textSize="20sp" />
+
+            <TextView
+                android:id="@+id/tv_mathaBatha11"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="১.মাথা ব্যথা সাধারণত: মাথার এক দিকে হয় (আধ কপালে মাথা ব্যথা)। তবে ব্যথা সমস্ত মাথায় ছড়িয়ে পড়তে পারে।\n২.মাথা ব্যথার সাথে বমি বমি ভাব হয়, এমনকি বমিও হতে পারে।\n৩.রোগী তখন আলো সহ্য করতে পারে না।\n৪.এ ধরণের মাথা ব্যথা কয়েক ঘন্টাব্যাপী চলতে পারে, কিন্তু সারাদিনব্যাপী খুব কম হয়।\n৫.মাইগ্রেন রোজ, সপ্তাহব্যাপী বা মাসব্যাপী হতে পারে।\n৬.দুশ্চিন্তা, মদ্যপানে মাথা ব্যথা বেশী হয়। পনির, চকোলেট ইত্যাদি খাবারেও মাথা ব্যথা বেশী হয়। ঘুমালে মাথা ব্যথা কমে যায়।\n৭.মাইগ্রেনের বংশগত ইতিহাস থাকতে পারে।\n৮.সাধারণত কোন স্নায়ুবিক উপসর্গ থাকে না।"
+                android:textColor="#000000"
+                android:textSize="15sp" />
+
+            <TextView
+                android:id="@+id/tv_mathaBatha12"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="চিকিৎসাঃ"
+                android:textColor="#000000"
+                android:textSize="20sp" />
+
+            <TextView
+                android:id="@+id/tv_mathaBatha13"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="যেসব কারণে মাইগ্রেনের আক্রমণ বৃদ্ধি পায়,তা পরিহার করতে হবে। স্বল্পস্থায়ী চিকিত্সা হিসাবে অ্যাসপিরিন বা প্যারাসিটামলের সাথে এন্টিইমেটিক যেমন প্রোক্লোরপেরাজিন, মেটাক্লোপ্র্যামাইড দেয়া যেতে পারে। তীব্র আক্রমণের চিকিত্সা হিসাবে সুমাট্রিপটিন, যা মাথার বাইরের ধমনীকে সংকুচিত করে, তা মুখে বা ইনজেকশনের মাধ্যমে দেয়া যেতে পারে। আর্গোটামিন বিকল্প হিসাবে দেয়া যেতে পারে। ঘন ঘন আক্রমণ থেকে রক্ষা পেতে প্রতিরোধকারী হিসাবে প্রোপানোলল,পিজোটিফেন বা অ্যামিট্রিপটাইলিন দেয়া যেতে পারে।"
+                android:textColor="#000000"
+                android:textSize="15sp" />
+
+            <TextView
+                android:id="@+id/tv_mathaBatha14"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="ক্লাস্টার হেডেকঃ"
+                android:textColor="#000000"
+                android:textSize="20sp" />
+
+            <TextView
+                android:id="@+id/tv_mathaBatha15"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="ক্লাস্টার হেডেক মাইগ্রেনের চেয়ে কম হয়। এ ধরনের মাথা ব্যথা মধ্য বয়স্ক পুরুষদের বেশী হয়ে থাকে। কিন্তু মাইগ্রেন মহিলাদের বেশী হয়।"
+                android:textColor="#000000"
+                android:textSize="15sp" />
+
+            <TextView
+                android:id="@+id/tv_mathaBatha16"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="লক্ষণসমূহঃ"
+                android:textColor="#000000"
+                android:textSize="20sp" />
+
+            <TextView
+                android:id="@+id/tv_mathaBatha17"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="১.তীব্র যন্ত্রণদায়ক মাথা ব্যথা।\n২.মাথা ব্যথা সাধারণত:এক চোখে ও চোখের পিছনে হয় এবং সেদিকের চোখ লাল হয়,পানি পড়ে। নাক দিয়েও পানি পড়ে।\n৩.মাথা ব্যথা হঠাত্ করেই হয়ে থাকে। পাঁচ থেকে দশ মিনিটের মধ্যে ব্যথা সবচেয়ে বেশী হয় এবং আধ ঘন্টার মধ্যে সেরে যায়।\n৪.মাথা ব্যথায় ঘুম ভেঙে যেতে পারে।\n৫.মদ্যপানে মাথা ব্যথা বেশী হয়।\n৬.মাথা ব্যথা কয়েক সপ্তাহব্যাপী স্থায়ী হয় এবং দিনে কয়েকবার করে হয়।"
+                android:textColor="#000000"
+                android:textSize="15sp" />
+
+            <TextView
+                android:id="@+id/tv_mathaBatha18"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="চিকিৎসাঃ"
+                android:textColor="#000000"
+                android:textSize="20sp" />
+
+            <TextView
+                android:id="@+id/tv_mathaBatha19"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="চিকিৎসাঃ হিসাবে উচ্চ মাত্রায় প্রদাহ বিনাশকারী (এন্টিইনফ্লামেটরী) দেয়া হয়। সুমাট্রিপটিনও ফলপ্রসূ। আর্গোটামিন ও ভেরাপামিল রোগ প্রতিরোধের জন্য কার্যকর। অর্ধেকের বেশী রোগী ফেস মাস্কের মাধ্যমে ১০০% অক্সিজেন শ্বাসের সাথে নিয়ে উপকার পায়। ধূমপান ও মদ্যপান বর্জন করা উচিত।"
+                android:textColor="#000000"
+                android:textSize="15sp" />
+
+            <TextView
+                android:id="@+id/tv_mathaBatha20"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="সাইনাস এর মাথা ব্যথাঃ"
+                android:textColor="#000000"
+                android:textSize="20sp" />
+
+            <TextView
+                android:id="@+id/tv_mathaBatha21"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="যাদের ঘন ঘন সর্দি-কাশি হয়,তাদের সাইনুসাইটিস থেকে এ ধরণের মাথা ব্যথা হয়ে থাকে।"
+                android:textColor="#000000"
+                android:textSize="15sp" />
+
+            <TextView
+                android:id="@+id/tv_mathaBatha22"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="লক্ষণসমূহঃ"
+                android:textColor="#000000"
+                android:textSize="20sp" />
+
+            <TextView
+                android:id="@+id/tv_mathaBatha23"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="১.ঠান্ডা বা সর্দি-কাশি লাগার সময় বা পরে থেকে এ ধরণের মাথা ব্যথা শুরু হয়।\n২.ব্যথা মুখমন্ডলের বা মাথার কোন নির্দিষ্ট জায়গায় সীমাবদ্ধ থাকে।\n৩.মাথা ব্যথা সকালের দিকে বেশী হয়।\n৪.হাঁচি-কাশি দিলে ব্যথা বেশী হয়। হঠাত্ করে মাথা নাড়লেও ব্যথা বেশী হয়।\n৫.শীতকালে বেশী হয়।\n৬.রোগ নির্ণয়ের জন্য এক্সরে বা সিটি স্ক্যান করতে হবে।"
+                android:textColor="#000000"
+                android:textSize="15sp" />
+
+            <TextView
+                android:id="@+id/tv_mathaBatha24"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="চিকিৎসাঃ"
+                android:textColor="#000000"
+                android:textSize="20sp" />
+
+            <TextView
+                android:id="@+id/tv_mathaBatha25"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="চিকিৎসাঃ হিসাবে এন্টিবায়োটিক, এন্টিহিস্টামিন, নাজাল ডিকনেজস্ট্যান্ট বা নাজাল স্প্রে দেয়া হয়।"
+                android:textColor="#000000"
+                android:textSize="15sp" />
+
+            <TextView
+                android:id="@+id/tv_mathaBatha26"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="চক্ষুজনিত মাথা ব্যথাঃ"
+                android:textColor="#000000"
+                android:textSize="20sp" />
+
+            <TextView
+                android:id="@+id/tv_mathaBatha27"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="শতকরা ৫ ভাগ মাথা ব্যথা চক্ষুজনিত। চোখের দৃষ্টিশক্তি কম থাকলে মাথা ব্যথা হতে পারে। অনেকক্ষণ পড়াশুনা করা, সেলাই করা, সিনেমা দেখা বা কম্পিউটার স্ক্রিনের দিকে তাকিয়ে থাকলেও মাথা ব্যথা হতে পারে। চোখের কোন রোগ যেমন- কর্ণিয়া, আইরিশের প্রদাহ, গ্লুকোমা বা রেট্রোবালবার নিউরাইটিস ইত্যাদি কারণেও মাথা ব্যথা হতে পারে। চক্ষুজনিত মাথা ব্যথা সাধারণত:চোখে,কপালের দু’দিকে বা মাথার পিছনে হয়ে থাকে। চক্ষুজনিত মাথা ব্যথায় চক্ষু বিশেষজ্ঞের শরণাপন্ন হওয়া উচিত।"
+                android:textColor="#000000"
+                android:textSize="15sp" />
+
+            <TextView
+                android:id="@+id/tv_mathaBatha28"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="হরমোনজনিত মাথা ব্যথাঃ"
+                android:textColor="#000000"
+                android:textSize="20sp" />
+
+            <TextView
+                android:id="@+id/tv_mathaBatha29"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="মহিলাদের মাসিক কালীন সময়ে প্রোজেষ্টেরন ও এষ্ট্রোজেন হরমোনের উঠানামার কারণে মাথা ব্যথা হতে পারে। জন্ম নিয়ন্ত্রণ বড়ি খেলেও মাথা ব্যথা হতে পারে। মাসিক চক্র শেষ হলে বা জন্ম নিয়ন্ত্রণ বড়ি খাওয়া বন্ধ করলে এ ধরণের মাথা ব্যথা ভাল হয়ে যায়।"
+                android:textColor="#000000"
+                android:textSize="15sp" />
+
+            <TextView
+                android:id="@+id/tv_mathaBatha30"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="কখন সিটি স্ক্যান বা এম,আর,আই করতে হবেঃ"
+                android:textColor="#000000"
+                android:textSize="20sp" />
+
+            <TextView
+                android:id="@+id/tv_mathaBatha31"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="১.তীব্র ও অসহ্য মাথা ব্যথা।\n২.কোন পরিশ্রমের কাজ করার পর মাথা ব্যথা শুরু হলে।\n৩.মাথা ব্যথার সাথে ঘাড় শক্ত হলে।\n৪.অস্বাভাবিক স্নায়ুবিক উপসর্গ দেখা দিলে।\n৫.৪০-৫০ বত্সর বয়স্কদের।\n৬.মাথা ব্যথা যদি দুই মাসের বেশী স্থায়ী হয়।"
+                android:textColor="#000000"
+                android:textSize="15sp" />
+        </LinearLayout>
+    </ScrollView>
+
+</LinearLayout>

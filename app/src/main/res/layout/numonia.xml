@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="8dp">
+
+    <ScrollView
+        android:id="@+id/scrollView1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+
+            <TextView
+                android:id="@+id/tv_numonia"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:text="নিওমোনিয়া\n"
+                android:textColor="#000000"
+                android:textSize="20sp" />
+
+            <TextView
+                android:id="@+id/tv_numonia1"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="লক্ষণ ও উপসর্গঃ"
+                android:textColor="#000000"
+                android:textSize="20sp" />
+
+            <TextView
+                android:id="@+id/tv_numonia2"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="সাধারণতঃ"
+                android:textColor="#000000"
+                android:textSize="20sp" />
+
+            <TextView
+                android:id="@+id/tv_numonia3"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="১.দম কমে যাওয়া বা অল্পতেই হাপিয়ে ওঠা। \n২.কাঁপুনি,চিন চিন ঠান্ডা বোধ করা,এবং ১০৫ ডিগ্রীর উপর জ্বর আসা।সবুজ মতো,কিংবা হলুদ,বা মরিচার রঙ্গের কিংবা রক্তের দাগ মাখা শ্লেষ্মার নির্গমন।\n৩.বুকে ব্যথা হওয়া।"
+                android:textColor="#000000"
+                android:textSize="15sp" />
+
+            <TextView
+                android:id="@+id/tv_numonia4"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="কখনও কখনওঃ"
+                android:textColor="#000000"
+                android:textSize="20sp" />
+
+            <TextView
+                android:id="@+id/tv_numonia5"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="১.দ্রুত শ্বাস-প্রশ্বাস নেয়া,পাল্স বেড়ে যাওয়া বা দ্রুত হওয়া,ঘামানো।\n২.নখ ও ঠোঁটের রঙ নীল হয়ে ওঠা।\n৩.ডায়রিয়া,মাথাব্যথা,কিংবা পেশীতে ব্যথা হওয়া।\n৪.চিত্ত বৈকল্য,চিত্ত বিভ্রম বা রোগের ঘোরে প্রলাপ বকা।\n৫.বমি হওয়া।"
+                android:textColor="#000000"
+                android:textSize="15sp" />
+
+            <TextView
+                android:id="@+id/tv_numonia6"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="কী করা উচিতঃ"
+                android:textColor="#000000"
+                android:textSize="20sp" />
+
+            <TextView
+                android:id="@+id/tv_numonia7"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="১.ক্লান্তি এবং বুকে জমাট বাধা অনুভব (রক্তের জমাট বেধে যাওয়া থেকে উৎপন্ন)হয়তো আপনাকে শয্যাশায়ী করে তুলবে না কিন্তু সেটা নিশ্চয়ই আপনার মধ্যে জিইয়ে থেকে আরও গুরুতর অবস্থার সূচনা করবে যে অবশেষে আপনাকে জরুরী ভিত্তিতে হসপিটালে ভর্তি হতে হবে।যদি আপনার মনে হয় যে আপনি নিওমোনিয়ায় আক্রান্ত হয়েছেন সেক্ষেত্রে জরুরীভাবে ডাক্তারের সাথে যোগাযোগ করুন।এবং সেই সাথে প্রচুর পরিমাণ তরল পান করুন।
+\n২.যেসব ঔষুধ কাশির সাথে বের হওয়া শ্লেষ্মা (প্রচলিত কফ)-কে দমিয়ে দেয়,সেগুলো এড়িয়ে চলুন।কেননা কাশির সাথে শ্লেষ্মা বেরিয়ে এলে সেটা বরং দ্রুত সেরে ওঠার বিষয়ে আপনার সহায়ক হবে।\n৩.বুকের উপর গরম কোন কিছু যেমন গরম পানির থলি (হট ওয়াটার ব্যাগ) দিয়ে চাপ দিন-এটাও আপনাকে আরাম দেবে।\n৪.ধুমায়ীত স্থান এবং ধুমপান এড়িয়ে চলুন।\n৫.লক্ষ্য রাখবেন যেন পুনরায় রোগের আক্রমণে পতিত না হন,কেননা প্রথমবারের তুলনায় পরবর্তী সময়ে এই রোগ বেশি মারাত্মক হয়ে ওঠে।আর পুনরায় এ রোগের আক্রমণ থেকে বাঁচবার জন্য ডাক্তারের পরামর্শকৃত সব ঔষুধগুলো ঠিকঠাকভাবে নিয়মমাফিক সেবন করবেন বিশেষত এন্টিবায়োটিকগুলো।\n৬.যদি সম্ভব হয় তবে ঠান্ডা বাষ্প তৈরী করে এরকম হিউমিডিফাইয়ার (আদ্রতা তৈরি করে)আপনার বেডরুমে লাগিয়ে নিতে পারেন।তবে প্রতিদিনই এতে নতুন করে ডিসটিল্ড ওয়াটার (পানি) ভরে দেবেন।
+"
+                android:textColor="#000000"
+                android:textSize="15sp" />
+
+            <TextView
+                android:id="@+id/tv_numonia8"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="কখন ডাক্তার দেখাবেনঃ"
+                android:textColor="#000000"
+                android:textSize="20sp" />
+
+            <TextView
+                android:id="@+id/tv_numonia9"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="১.প্রায় নিওমোনিয়া অন্য কোন শ্বাস-প্রশ্বাসের সমস্যাজনিত অসুখের থেকে উৎপত্তি হয়।যেমন ঠান্ডা লাগা থেকে উৎপত্তি হয়। যদি আপনি কিছুদিন যাবৎ অসুস্থ থেকে থাকেন এবং নিম্নোক্ত লক্ষণগুলো আপনার কাছে ফুঁটে ওঠে,সেক্ষেত্রে জরুরী ভিত্তিতে একজন ডাক্তারের শরণাপন্ন হোন।\n২.যদি আপনার কাশির সাথে নির্গত শ্লেশ্মার রঙ বদলে যায়,কিংবা শ্লেশ্মার সাথে রক্তের দাগ মেশা থাকে।\n৩.কাঁপুনি এবং ঘামের সাথে ক্রমাগত একশ ডিগ্রির উপর জ্বর থাকা।\n৪.দম কমে যাওয়া,অল্পতেই হাপিয়ে ওঠা কিংবা শ্বাস নিতে কষ্ট হওয়া।\n৫.যদি আক্রান্ত ব্যক্তিটি অল্প সময়ের জন্য আক্রান্ত হয়ে থাকে এবং যদি সে বেশি-ঝুঁকির আওতাভুক্ত একজন হয় (খুবই কম বয়সী,কিংবা ৬৫ বছর বা তদুর্ধ্ব বয়সের,কিংবা যার দীর্ঘস্থায়ী কোন রোগ রয়েছে),সেক্ষেত্রে সবসময় লক্ষ্য রাখুন যে নিওমোনিয়ার কোন লক্ষণ আছে কিনা এবং সে লক্ষণ দেখা মাত্র চিকিৎসার ব্যবস্থা নিন।"
+                android:textColor="#000000"
+                android:textSize="15sp" />
+
+            <TextView
+                android:id="@+id/tv_numonia10"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="কীভাবে প্রতিরোধ করবেনঃ"
+                android:textColor="#000000"
+                android:textSize="20sp" />
+
+            <TextView
+                android:id="@+id/tv_numonia11"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="১.আপনি যদি অধিকতর ঝুঁকির মধ্যে থাকা একজন হন (উপরে পড়ুন)সেক্ষেত্রে ডাক্তারের সাথে ব্যাকটেরিয়া বাহিত নিওমোনিয়ার চিকিৎসার জন্যে টিকা নিতে পারবেন কিনা সে ব্যাপারে আলোচনা করতে পারেন। এবং বছরে বছরে ইনফ্লুয়েজ্ঞার টিকা নিতে পারবেন কি না  সে পরামর্শ করুন। স্বাস্থকর খাবার খান।তবে ফলমূল,শাক-সবজি, শস্যকণার হার আপনার খাবারে বেশি রাখুন। বৃক্ষাদি থেকে উৎপন্ন খাদ্যগুলোও বেশি খাবেন,কেননা এগুলোতে ভিটামিন এবং আশ বেশি থাকে এবং এগুলো অনেক বেশি পুষ্টি যোগায় যদিও ফ্যাট কম থাকে। তাছাড়া ফাইবার বা আশ শরীর থেকে টক্সিন বা বিষাক্ত পদার্থের নির্গমন দ্রুত করে। তাছাড়া উদ্ভিজ খাবারের মধ্যে এমন কিছু রাসায়নিক পদার্থ থাকে যেগুলে শরীরের রোগ প্রতিরোধ ক্ষমতা বাড়িয়ে তোলে।\n২.ধুমপান ত্যাগ করুন,ধুমায়িত স্থান,ঘর এড়িয়ে চলুন,এবং মদ পান ত্যাগ করুন। এই সবকিছুই আপনার রোগ-প্রতিরোধ ক্ষমতাকে দুর্বল করে তোলে।\n৩.যেসব মানুষের শ্বাস-প্রশ্বাস জনিত সংক্রামক রোগ রয়েছে তাদের সংস্পর্শ এড়িয়ে চলুন।\n৪.সপ্তাহে অন্তত কয়েকবার ব্যায়াম চর্চা যে কেবল আপনার দৈহিক শক্তি এবং ক্ষমতাকেই বৃদ্ধি করে তা নয় বরং এটা আপনার শরীরকে ঠান্ডা লাগা কিংবা ইনফ্লুয়েঞ্জার বিরুদ্ধে আরও প্রতিরোধক্ষম করে তোলে।n৫.যদি আপনি শয্যাশায়ী হয়ে থাকেন সেক্ষেত্রে আহার করার পর এক দুই ঘন্টা বসে থাকার চেষ্টা করুন যাতে করে খাবারের কণা আপনার নাকে না ঢুকে পড়তে পারে,কেননা সেটা রবং নিওমোনিয়ায় আক্রান্ত করার ক্ষেত্রে সহায়ক হয়ে ওঠে।"
+                android:textColor="#000000"
+                android:textSize="15sp" />
+
+        </LinearLayout>
+    </ScrollView>
+</LinearLayout>

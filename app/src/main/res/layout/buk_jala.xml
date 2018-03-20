@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="8dp">
+
+    <ScrollView
+        android:id="@+id/scrollView1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_marginBottom="10dp"
+            android:orientation="vertical">
+
+            <TextView
+                android:id="@+id/tv_buk_jala"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:text="বুক জ্বালাপোড়া করা \n"
+                android:textColor="#000000"
+                android:textSize="20sp" />
+
+            <TextView
+                android:id="@+id/tv_buk_jala1"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="লক্ষণ ও উপসর্গঃ"
+                android:textColor="#000000"
+                android:textSize="20sp" />
+
+            <TextView
+                android:id="@+id/tv_buk_jala2"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="১.বুকে ব্যাথা হওয়া,বিশেষত সামনের দিকে ঝুকলে কিংবা শুয়ে পড়ার সময়।\n২.উদরের উপরের দিকে মৃদু ব্যাথা হওয়া।\n৩.বুকে জ্বালাপোড়া হওয়া,ঠিক বুকের মাঝ বরাবর উপর থেকে নিচে। অর্থাৎ ব্রেস্টবোন বা স্টারনামের পেছনে জ্বালাপোড়া হওয়া,বিশেষত খাওয়া দাওয়ার পর এই জ্বালা পোড়া শুরু হয় এবং কয়েক মিনিট থেকে কয়েক ঘন্টা পর্যন্তও স্থায়ী হয়।\n৪গলার ভেতরের দিকে ঝাল,টক বা লবণাক্ত কোন তরলের উপস্থিতির অনুভব হওয়া।\n৫.মাঝে মধ্যে ঢেকুর তোলা।"
+                android:textColor="#000000"
+                android:textSize="15sp" />
+
+            <TextView
+                android:id="@+id/tv_buk_jala3"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="কী করা উচিতঃ"
+                android:textColor="#000000"
+                android:textSize="20sp" />
+
+            <TextView
+                android:id="@+id/tv_buk_jala4"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="১.অনেক ডাক্তারই হয়তো রোগীকে হঠাৎ হঠাৎ বুক জ্বালা-পোড়ার পথ্য হিসেবে ডিসপেন্সারি থেকে এন্টাসিড কিনে খেতে পরামর্শ দেন।কিন্তু উচ্চ রক্তচাপ,অনিয়মিত হৃৎস্পন্দন,কিডনির রোগ,পায়ুনালীর সমস্যা,দীর্ঘস্থায়ী বুক জ্বালা পোড়া করা,কিংবা এ্যাপেন্ডিসাইটিসের কোন লক্ষণ আছে কিনা সে ব্যাপারে ডাক্তারের সাথে পরামর্শ না করে এন্টাসিড সেবন করবেন না।গর্ভবতী মহিলারা ডাক্তারের সাথে পরামর্শ না করে কোন ধরনের ঔষুধই সেবন করবেন না,তা সেটা এন্টাসিডই হোক না কেন।\n২.নিস্মোক্ত প্রাকৃতিক বিকল্পগুলোও আপনার এই কষ্ট থেকে নিবৃত্তি দিতে পারেঃ\n১.বুক জ্বলা পোড়ার কষ্ট থেকে দ্রুত নিরাময় পেতে আদা চা খেতে পারেন।\n২.খাওয়া দাওয়ার পর অন্তত দুই থেকে তিন ঘন্টা গা এলিয়ে শুয়ে পড়া থেকে নিজেকে বিরত রাখুন। যদি আপনাকে শুয়ে পড়তে হয়,সেক্ষেত্রে আপনার শরীরের বাম পাশে ভর দিয়ে কাত হয়ে মোন; কেননা এই অবস্তানে আপনার পাকস্থলির নিম্নাংশ খাদ্যনালী বা এসোফেগাস থেকে নিচে থাকে;ফলত এসিড জমা হবার সুযোগ কম পায়।\n৩.ধুমপান,কফি পান এবং অতিরিক্ত মদ্য পান থেকে বিরত থাকুন।\n৪.শ্রম ও অন্যান্য চাপ থেকে নিজের শরীর ও মনকে মুক্ত রাখতে মন ও শরীর শিথিলায়নের কোন উপায় খুঁজে নিন।"
+                android:textColor="#000000"
+                android:textSize="15sp" />
+
+            <TextView
+                android:id="@+id/tv_buk_jala5"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="কখন ডাক্তার দেখাবেনঃ"
+                android:textColor="#000000"
+                android:textSize="20sp" />
+
+            <TextView
+                android:id="@+id/tv_buk_jala6"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="১.যদি আপনার বুকে খুব জ্বালা পোড়া হয়,কিংবা ব্যাথাটা বুক থেকে আপনার বাহু এবং কাধের দিকে ছড়িয়ে পড়তে শুরু করে। সেক্ষেত্রে এটা হয়তো হার্ট এ্যাটাকের লক্ষণ।\n২.যদি আপনি উপরের পরামর্শগুলো পালন করে থাকেন এবং তারপরও আপনার বুকের জ্বলা পোড়া বন্ধ না হয়।"
+                android:textColor="#000000"
+                android:textSize="15sp" />
+
+            <TextView
+                android:id="@+id/tv_buk_jala7"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="কিভাবে প্রতিরোধ করবেনঃ"
+                android:textColor="#000000"
+                android:textSize="20sp" />
+
+            <TextView
+                android:id="@+id/tv_buk_jala8"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="বুক জ্বালা-পোড়ার অনেকগুলো প্রতিকারক ব্যবস্থাই আবার প্রতিষেধকের ভূমিকা নিতে পারে। সেই সাথেঃ"
+                android:textColor="#000000"
+                android:textSize="20sp" />
+
+            <TextView
+                android:id="@+id/tv_buk_jala9"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="১.আপনার শরীরের ওজন যথাযথ রাখার চেষ্টা করুন।\n২.যেসব খাবার খেলে বা পানীয় পান করলে আপনার বুক জ্বালা পোড়া করে সেগুলো খাওয়া থেকে বিরত থাকুন। এই খাবারগুলোর মধ্যে থাকতে পারে টমেটো,রসুন,পেঁয়াজ,চকোলেট,কফি,চা,মদ,পিপারমিন্ট এবং অন্যান্য কার্বোনেটেড পানীয় যেমন-কোক,পেপসি ইত্যাদি।\n৩.যেসব খাবারে প্রচুর পরিমাণে তেল বা চর্বি বা স্নেহজাতীয় পদার্থ রয়েছে সেগুলো খাওয়া থেকে বিরত থাকুন।\n৪.ঠিক ঘুমোতে যাবার আগ আগ দিয়ে খাওয়া দাওয়ার অভ্যাস ত্যাগ করুন।\n৫.প্রচুর পরিমাণে বিশ্রাম গ্রহণ করুন।\n৬.দিনে তিনবার বেশি বেশি না খেয়ে বরং একটু পর পর অল্প অল্প করে খাবার খান(দিনে চার পাঁচবারও খেতে পারেন।)\n৭.এসপিরিন,ইবুপ্রোফেন এবং অন্যান্য নন-স্টেরইডাল এবং জ্বালা-পড়া নিরোধক বা এন্টি-ইনফ্ল্যামেটোরি ঔষুধ সেবন পরিত্যাগ করুন।\n৮.ধুমপান করবেন না।নিকোটিন আপনার পাকস্থলির সেই পেশীগুলোকে নিষ্ক্রিয় করে দেয় যেগুলো বরং গ্যাসট্রিক বা গ্যাসকে পাকস্থলি থেকে খাদ্যনালীতে যেতে বাধা দিয়ে থাকে। "
+                android:textColor="#000000"
+                android:textSize="15sp" />
+            />
+
+        </LinearLayout>
+    </ScrollView>
+
+</LinearLayout>

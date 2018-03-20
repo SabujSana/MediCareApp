@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="8dp">
+
+    <ScrollView
+        android:id="@+id/scrollView1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_marginBottom="10dp"
+            android:orientation="vertical">
+
+            <TextView
+                android:id="@+id/tv_dathBatha"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:text="দাঁত ব্যথা "
+                android:textColor="#000000"
+                android:textSize="20sp" />
+
+            <TextView
+                android:id="@+id/tv_dathBatha1"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="লক্ষণ ও উপসর্গঃ"
+                android:textColor="#000000"
+                android:textSize="20sp" />
+
+            <TextView
+                android:id="@+id/tv_dathBatha4"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="১.দাঁতে কিংবা চোয়ালে তীব্র বা তীক্ষ্ণ ব্যথা হওয়া।\n২.দাঁত আলগা হয়ে যাওয়া।\n৩.মাড়ি লাল হয়ে যাওযা ,ফুলে ওঠা ,কিংবা মাড়ি রক্তপাত হওয়া ।\n৪.জ্বর আসা।\n৫.কান ব্যথা।\n৬.কণ্ঠনালীর স্ফিস্তি।
+                "
+                android:textColor="#000000"
+                android:textSize="15sp" />
+
+            <TextView
+                android:id="@+id/tv_dathBatha5"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="দাঁতের ক্ষয়ঃ"
+                android:textColor="#000000"
+                android:textSize="20sp" />
+
+            <TextView
+                android:id="@+id/tv_dathBatha6"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="১.দাঁতে তীব্র কষ্ট বা ব্যথা হওয়া –প্রায়শই চিবানোর সময় কিংবা চোষার সময়।\n২.মুখে দুর্গন্ধ হওয়া কিংবা মুখে বিস্বাদ বা তিক্ততা অনুভব করা-যেটা দাঁতের তীব্র ক্ষয় সাধন কিংবা ফোঁড়ার লক্ষণ(সংক্রামক)।"
+                android:textColor="#000000"
+                android:textSize="15sp" />
+
+            <TextView
+                android:id="@+id/tv_dathBatha7"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="কী করা উচিতঃ"
+                android:textColor="#000000"
+                android:textSize="20sp" />
+
+            <TextView
+                android:id="@+id/tv_dathBatha8"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="১.দাঁতে ফোড়া বা পুজ হবার লক্ষণ পেলে আপনার উচিত ডেন্টিস্টের শরণাপন্ন হওয়া । তবে তাৎক্ষণিক ভাবে ব্যথা থেকে সস্তি পেতে নিম্নক্ত ঘরোয়া চিকিৎসাগুলোর আরশয় নেয়া যেতে পারেঃ\n২.ডেন্টাল ফ্লস ব্যবহার করে দাঁতের ফাকে আটকা পড়া খাদ্যকণাগুলো অপসারণ করা এবং লবণাক্ত পানি মুখে নিয়ে গলগল করা বা কুলি করাও যেতে পারে।\n৩.এক টুকরো বরফ মুখে নিয়ে আক্রান্ত দাঁতের কাছে চেপে ধরে সংলগ্ন মাড়ির অংশটিকে অবশ করা যেতে পারে।"
+                android:textColor="#000000"
+                android:textSize="15sp" />
+
+            <TextView
+                android:id="@+id/tv_dathBatha9"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="কখন ডাক্তার দেখাবেনঃ"
+                android:textColor="#000000"
+                android:textSize="20sp" />
+
+            <TextView
+                android:id="@+id/tv_dathBatha10"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="১.যদি দাঁতে পুজ বা ফোঁড়ার  কোন লক্ষণ দেখে থাকেন সেক্ষেত্রে আপনার এই ক্ষত  তীব্রভাবে সংক্রামক হতে পারে। আপনার উচিত অনতিবিলম্বে প্রয়োজনীয় চিকিৎসা নেয়া।\n২.যদি আপনার দাঁতের ব্যথা এক বা দুই দিনের বেশি স্থায়ী হয় ;যদি দাঁতে তীব্র ব্যথা থাকে ,ক্রমাগত কাপুনি দিয়ে ব্যথার সঞ্চার হয় ,কিংবা আক্রান্ত দাঁতটি উত্তাপ,শীতলতা কিংবা চাপের প্রতি অতি সংবেদনশীল হয়ে ওঠে –সেক্ষেত্রে আপনার দাঁত ক্ষয় ধরেছে এবং ফিলিং করাতে হতে পারে।\n৩.যদি আপনার মাড়ি ফুলে উঠে থাকে ,পীড়াদায়ক হয়,লাল হয়ে ওঠে সেক্ষেত্রে আপনার হয়তো দাঁতের কিংবা মাড়ির রোগ হয়েছে ।"
+                android:textColor="#000000"
+                android:textSize="15sp" />
+
+            <TextView
+                android:id="@+id/tv_dathBatha11"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="কীভাবে প্রতিরোধ করবেনঃ"
+                android:textColor="#000000"
+                android:textSize="20sp" />
+
+            <TextView
+                android:id="@+id/tv_dathBatha12"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="১.দিনে অন্তত দুইবার একটা মোলায়েম টুথব্রাশ এবং ক্লোরাইড সমৃদ্ধ ট্রুথপেস্ট ব্যবহার করে দাঁত ব্রাশ করুন। দাঁতের ফাক থেকে খাদ্যকণাগুলো ফ্লস দিয়ে  অপসারণ করুন। কয়েক মাস পরপরই আপনার ট্রুথব্রাশ বদলে নিন।\n২.মিষ্টি খাবার কিংবা রসালো খাবার প্ররিত্যাগ করুন,কেননা এগুলো দাঁতের এনামেলের ক্ষতি সাধন করে।\n৩.বছরে অন্তত একবার ডেন্টিস্টের মাধ্যমে আপনার দাঁতের প্ররীক্ষা করান এবং পরিষ্কার করান।"
+                android:textColor="#000000"
+                android:textSize="15sp" />
+        </LinearLayout>
+    </ScrollView>
+
+</LinearLayout>

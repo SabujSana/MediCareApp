@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="8dp">
+
+    <ScrollView
+        android:id="@+id/scrollView1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_marginBottom="10dp"
+            android:orientation="vertical">
+
+            <TextView
+                android:id="@+id/tv_dairia"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:text="ডায়রিয়া"
+                android:textColor="#000000"
+                android:textSize="20sp" />
+
+            <TextView
+                android:id="@+id/tv_dairia1"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="লক্ষন ও উপসর্গঃ"
+                android:textColor="#000000"
+                android:textSize="20sp" />
+
+            <TextView
+                android:id="@+id/tv_dairia2"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="১।পাতলা পানির মতো তরল মল।\n২। বারবার মলত্যাগ হওয়া।\n৩।উদর বা তলপেটে ব্যথা এবং উদর সংকোচন।"
+                android:textColor="#000000"
+                android:textSize="15sp" />
+
+            <TextView
+                android:id="@+id/tv_dairia3"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="কি করা উচিতঃ"
+                android:textColor="#000000"
+                android:textSize="20sp" />
+
+            <TextView
+                android:id="@+id/tv_dairia4"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="১। হজম ব্যবস্থাকে ঠিকঠাক হয়ে ওঠার জন্য সময় দেবার লক্ষ্যে কঠিন বা শক্ত খাবার আহার আপাতত বন্ধ রাখুন।\n২।স্বচ্ছ এবং উষ্ণ পানীয় যেমন পানি,চা,কিংবা দুটোই কিংবা সামান্য সোডা মিশ্রিত পানীয় যেমন কোক,পেপসি,কিংবা অন্যান্য সোডা যেমন মিরিন্ডা ইত্যাদি মুখ খুলে রেখে গ্যাস বেরিয়ে যাবার পর পান করতে পারেন।\n৩। যদি এই পানীয় পান করাটা আপনার পাকস্থলীতে সয়ে যায় সেক্ষেত্রে স্নেহযুক্ত খাবার যেমন কলা,সাদা ভাত কিংবা টোষ্ট ইত্যাদি আহার করুন।\n৪। ডায়রিয়া হবার পর ডিসপেন্সারি থেকে সহজলভ্য ডায়রিয়া নিরোধক ঔষুধ অন্তত প্রথম কয়েকঘণ্টা খাবেন না। প্রথমে আপনার শরীরবিধিতে যে রোগ বা ক্ষতের কারনে কিংবা অন্যান্য প্রভাবকের কারনে ডায়রিয়া আক্রান্ত হয়েছেন সেই প্রভাবকগুলোকে শরীর যাতে মেনে নিতে পারে সে সুযোগ দিন। কিন্তু আপনি যদি ওই ঔষুধগুলো সেবন করেই থাকেন সেক্ষেত্রে ডাক্তারের পরামর্শ ছাড়া সেগুলো একদিন বা দুইদিনের বেশি সেবন করবেন না।\n৫।সেরে উঠবার সময় মদপান ত্যাগ করুন,দুধমিশ্রিত পানীয় কিংবা আঁশযুক্ত খাবার ফলমূল সালাদ ইত্যাদি আহার করবেন না।\n৬। আপনার উপর ডায়রিয়ার আক্রমন যদি তীব্র হয়,সে ক্ষেত্রে লক্ষ্য রাখুন যেন আপনার শরীর পানিশূন্যতায় না ভোগে। লক্ষণগুলো হল- মুখ শুকিয়ে যাওয়া, লালা ঘন হয়ে ওঠা,এবং গাঢ় হলুদ প্রসাব হওয়া,স্বাভাবিকের থেকে কম পরিমান প্রসাব হওয়া। রিহাইড্রেসন বা শরীরে পানিসল্পতা রোধে বাজারে যে পানীয়গুলো পাওয়া যায় যেমন পিডায়ালাইট (নবজাতকদের জন্য)এবং অন্যান্য পানীয় (যেমন কোঁকাকোলা,পেপসি)এবং অন্যান্য শক্তিদায়ক পানীয় ইত্যাদি শরীরে পানি এবং খনিজের স্বল্পতা অনেকখানি কাটিয়ে উঠতে সাহায্য করবে।"
+                android:textColor="#000000"
+                android:textSize="15sp" />
+
+            <TextView
+                android:id="@+id/tv_dairia5"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="কখন ডাক্তার দেখাবেনঃ"
+                android:textColor="#000000"
+                android:textSize="20sp" />
+
+            <TextView
+                android:id="@+id/tv_dairia6"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="১। যদি ডায়রিয়ার সাথে আপনার পেটে মোচড় দেয়ার বিষয়টি খুব তীব্র থাকে,মাথা হালকা লাগে,কাঁপুনি থাকে,বমি হয় কিংবা একশো এক ডিগ্রীর বেশী জ্বর থাকে।\n২। যদি আপনি শরীরে তীব্র পানিসল্পতার লক্ষণ দেখেন যেমন মুখ শুকিয়ে যাওয়া,লালা ঘন হয়ে ওঠা এবং গাঢ় হলুদ প্রসাব হওয়া,মাথা ঘোরা কিংবা দুর্বলতা। সেক্ষেত্রে দ্রুতচিকিৎসার বন্দোবস্ত করুন।\n৩। যদি মলের সাথে রক্ত আসে এবং মল আলকাতরার মতো কালো হয় কিংবা মলের সাথে শ্লেষ্মা বা আমাশার মতো থাকে এবং কৃমি থাকে।\n৪। যদি আপনি প্রায়ই ডায়রিয়ায় আক্রান্ত হন কিংবা কোন ঔষুধ সেবনের সময় যদি আপনার ডায়রিয়া হয়।\n৫। যদি ডায়রিয়া ৪৮ ঘণ্টাতেও না সেরে ওঠে। (তিন বছরের নিচে বাচ্চাদের ক্ষেত্রে এই সময় একদিন বা ২৪ ঘণ্টা এবং ছয়মাস কিংবা তার চেয়ে ছোট শিশুদের জন্য এই সময় ৮ ঘণ্টা)\n৬। যদি ভ্রমনের সময় অপরিস্কার বা অনিরাপদ পানি খাবার ফলে আপনি ডায়রিয়ায় আক্রান্ত হন।\n৭। যদি ডায়রিয়ার সাথে আপনার কোষ্ঠকাঠিন্য থাকে এবং টানা কয়েক সপ্তাহেও এই রোগ থেকে সেরে না ওঠেন। সেক্ষেত্রে আপনি ইরিটেবলবাউইয়েলসিনড্রোম (আইবিএস)-এ আক্রান্ত হয়েছেন কিংবা কোলন ক্যান্সার বা মলদ্বারের ক্যান্সারে আক্রান্ত হয়েছেন।\n৮। যদি আপনার শরীরে পানিসল্পতার লক্ষণ দেখেন,ডায়রিয়ার সাথে পানিসল্পতা একই সাথে প্রাপ্তবয়স্ক এবং উভয়ের জন্যই মারাত্মক।"
+                android:textColor="#000000"
+                android:textSize="15sp" />
+
+            <TextView
+                android:id="@+id/tv_dairia7"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="কীভাবে প্রতিরোধ করবেনঃ"
+                android:textColor="#000000"
+                android:textSize="20sp" />
+
+            <TextView
+                android:id="@+id/tv_dairia8"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="১। যেসব খাবার আপনার ঠিকমতো হজম হয় না বা শরীরের সাথে মানানসই নয় সেসব খাবার বর্জন করুন।\n২। যখন বাইরের কোন দেশে যাবেন কিংবা ভ্রমনে যাবেন তখন কেবল বোতলে বিক্রিত পানি পান করুন কিংবা পানি ফুটিয়ে পান করুন কিংবা ক্যানে বিক্রিত পানীয় পান করে তৃষ্ণা মেটান। ফলমূল এবং শাকসবজি আহার করুন।"
+                android:textColor="#000000"
+                android:textSize="15sp" />
+
+
+        </LinearLayout>
+    </ScrollView>
+</LinearLayout>

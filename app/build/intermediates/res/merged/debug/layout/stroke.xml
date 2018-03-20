@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="8dp">
+
+    <ScrollView
+        android:id="@+id/scrollView1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+
+
+            <TextView
+                android:id="@+id/tv_stroke"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="10dp"
+                android:gravity="center"
+                android:text="স্ট্রোক"
+                android:textColor="#000000"
+                android:textSize="20sp" />
+
+            <TextView
+                android:id="@+id/tv_stroke1"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="স্ট্রোক অর্থ কিন্তু হার্ট অ্যাটাক নয় । আমরা প্রায়ই স্ট্রোক ও হার্ট  অ্যাটাককে গুলিয়ে ফেলি। স্ট্রোক হলো মস্তিষ্কের রোগ। যদি কোন কারণে (আঘাতজনিত কারণ ছাড়া) মস্তিষ্কের কোনো অংশের রক্ত চলাচল বিঘ্নিত হয় এবং ২৪ ঘণ্টার বেশি স্থায়ী হয় অথবা ২৪ ঘণ্টার মধ্যে রোগী মৃত্যুবরণ করে, তাহলে এ অবস্থাকে স্ট্রোক বলা হয় । শতকরা ৮০ ভাগ ইসকেমিক স্ট্রোক(সেরিব্রাল থ্রোমবোসিস অথবা অ্যামবোলিজম )। ইসকোমিক স্ট্রোক মস্তিস্কে ও রক্তনালীর রক্তে জমাট বেঁধে অথবা শরীরের অন্য কোনো স্থানে থেকে বিশেষ করে হৃপিণ্ডে   থেকে জমাট বাঁধা রক্ত মস্তিস্কে নিয়ে রক্তনালীর প্রবাহকে বন্ধ করে দেয় । বাকি ২০ ভাগ স্ট্রোক হলো মস্তিস্কে রক্তক্ষরণজনিত।"
+                android:textColor="#000000"
+                android:textSize="15sp" />
+
+            <TextView
+                android:id="@+id/tv_stroke2"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="স্ট্রোকের অন্যতম কারণ সমূহঃ"
+                android:textColor="#000000"
+                android:textSize="20sp" />
+
+            <TextView
+                android:id="@+id/tv_stroke3"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="১.বার্ধক্য ২.অনিয়ন্ত্রিত উচ্চ রক্তচাপ ৩.ধূমপান ৪.ডায়াবেটিস মেলিটাস (বহুমূত্র)৫.রক্তে কোলোস্টেরলের আধিক্য ৬.হার্টের ভাল্বের রোগ ,অনিয়মিত হার্টবিট ,হার্ট অ্যাটাক ইত্যাদি ।"
+                android:textColor="#000000"
+                android:textSize="15sp" />
+
+            <TextView
+                android:id="@+id/tv_stroke4"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="লক্ষণ ও উপসর্গঃ"
+                android:textColor="#000000"
+                android:textSize="20sp" />
+
+            <TextView
+                android:id="@+id/tv_stroke5"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="আপনি বা আপনার পরিবারের কোনো সদস্য যদি নিম্নোক্ত কোনো লক্ষণ বা উপসর্গে আক্রান্ত হন ,সেক্ষেত্রে অনতিবিলম্বে জরুরী চিকৎসার বাবস্থা নিনঃ\n১.মাথা ঘুরে ওঠা ,শারীরিক ভারসাম্যহীনতা,কিংবা হঠাৎ করেই অচেতন হয়ে যাওয়া বা জ্ঞান হারানো।\n২.হঠাৎ করে তীব্র দুর্বলতাবোধ কিংবা মুখমণ্ডলে,বাহুতে কিংবা পায়ে অসাড়তাবোধ হওয়া,সাধারণত শরীরের যেকোন এক পাশে।\n৩.কথা বলতে না পারা ,কিংবা কথা বলতে সমস্যা বোধ করা কিংবা কথা বুঝতেনা পারা।\n৪.হঠাৎ করেই কোন কিছু দেখতে সমস্যা হওয়া কিংবা দৃষ্টিশক্তি বিলোপ,বিশেষত যেকোনে এক চোখে।\n৫.হঠাৎ করে তীব্র মাথা ব্যথা হওয়া।"
+                android:textColor="#000000"
+                android:textSize="15sp" />
+
+            <TextView
+                android:id="@+id/tv_stroke6"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="কখন ডাক্তার দেখাবেনঃ"
+                android:textColor="#000000"
+                android:textSize="20sp" />
+
+            <TextView
+                android:id="@+id/tv_stroke7"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="দ্রুত জরুরী চিকিৎসার ব্যবস্থা নিন যদি আপনি বা অন্য কেউ স্ট্রোকের  কোন লক্ষণ বা উপসর্গ দ্বারা আক্রান্ত হয় । স্ট্রোকের ফলে যে স্থায়ী আশঙ্কা রয়েছে তা দ্রুত চিকিৎসা ব্যবস্থা গ্রহণ করা হলে অনেকটাই দূর হয়।"
+                android:textColor="#000000"
+                android:textSize="15sp" />
+
+            <TextView
+                android:id="@+id/tv_stroke8"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="কিভাবে প্রতিরোধ করবেনঃ"
+                android:textColor="#000000"
+                android:textSize="20sp" />
+
+            <TextView
+                android:id="@+id/tv_stroke9"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="১.আপনার রক্তচাপ নিয়ন্ত্রনে রাখুনঃ উচ্চ রক্তচাপই হলো সেই একক ঝুঁকিপূর্ণ প্রভাবক যেটা স্ট্রোকের সম্বাবনাকে অত্যন্ত বাড়িয়ে দেয়।\n২.শারীরিক এবং মানসিক চাপ মুক্তির লক্ষে কোন একটি স্বাস্থ্যকর  উপায় খুঁজে বের করুন ,যেমন মেডিসিন,শাস্থক,কিংবা গভীরভাবে শ্বাস প্রশ্বাস গ্রহণ।\n৩.নিয়মিত শরীর চর্চা করুণ এবং লো ফ্যাট বা কম স্নেহ পদার্থযুক্ত খাদ্য বেশি আহার করুণ ,এবং বেশি আঁশযুক্ত খাবার খান,যেমন সজীব ফলমুল,শাকসবজি ,ও শস্যকণা।\n৪.ধূমপান করবেন না,ধূমপানের অভ্যাস থাকলে  অনতিবিলম্বে পরিত্যাগ করুণ।\n৫.আপনার যদি ডাইবেটিস থাকে ,সেক্ষেত্রে সেটা নিয়ন্ত্রনে রাখার বাবস্থা গ্রহণ করুণ। ডায়াবেটিস রক্তনালিকে ক্ষতিগ্রস্ত করে তোলে এবং স্ট্রোকের ঝুঁকি বাড়িয়ে দেয়।\n৬.আপনার যদি কার্ডিওভাস্কিউলার ডিজিজ (হ্রদযন্ত্রের নালীর রোগ)থাকে,সেক্ষেত্রে ডাক্তার হয়তো আপনাকে সেসব ওষুধ  সেবন করতে বলতে পারে যেগুলো রক্তের জমাট বেঁধে যাওয়াকে প্রতিহত করে যেমন অ্যাসপিরিন কিংবা এমন কোন ওষুধ দিতে পারে যেটা রক্তের জমাটবদ্ধতাকে অপসারণে সহায়তা করে। সে হয়তো আপনার হ্যাটের নালীর সংকোচন দূর করার লক্ষে সাজ্জারি করার পরামর্শ কিংবা রিং লাগাবার পরামর্শও দিতে পারে।"
+                android:textColor="#000000"
+                android:textSize="15sp" />
+
+
+        </LinearLayout>
+    </ScrollView>
+</LinearLayout>
